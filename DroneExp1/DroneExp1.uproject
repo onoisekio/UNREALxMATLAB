@@ -1,0 +1,36 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.26",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "DroneExp1",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"MathWorksSimulation",
+				"Engine",
+				"Water"
+			]
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "MathWorksAutomotiveContent",
+			"Enabled": true
+		},
+		{
+			"Name": "MathWorksSimulation",
+			"Enabled": true
+		},
+		{
+			"Name": "MathWorksUAVContent",
+			"Enabled": true
+		},
+		{
+			"Name": "Water",
+			"Enabled": true
+		}
+	]
+}
