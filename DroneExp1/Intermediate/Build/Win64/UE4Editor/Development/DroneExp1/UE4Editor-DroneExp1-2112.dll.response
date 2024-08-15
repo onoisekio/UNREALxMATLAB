@@ -1,0 +1,94 @@
+/MANIFEST:EMBED
+/MANIFESTINPUT:"C:\Program Files\Epic Games\UE_4.26\Engine\Build\Windows\Resources\Default-Win64.manifest"
+/NOLOGO
+/DEBUG
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/FIXED:No
+/NXCOMPAT
+/STACK:12000000
+/DELAY:UNLOAD
+/DLL
+/PDBALTPATH:%_PDB%
+/OPT:NOREF
+/OPT:NOICF
+/INCREMENTAL:NO
+/ignore:4199
+/ignore:4099
+/DELAYLOAD:"d3d12.dll"
+/DELAYLOAD:"DBGHELP.DLL"
+/LIBPATH:"C:\Program Files\MATLAB\R2022a\extern\lib\win64\microsoft"
+/LIBPATH:"C:\Program Files\MATLAB\R2022a\bin\win64"
+/LIBPATH:"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\lib\x64"
+/LIBPATH:"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8.1\lib\um\x64"
+/LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.18362.0\ucrt\x64"
+/LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.18362.0\um\x64"
+/NODEFAULTLIB:"LIBCMT"
+/NODEFAULTLIB:"LIBCPMT"
+/NODEFAULTLIB:"LIBCMTD"
+/NODEFAULTLIB:"LIBCPMTD"
+/NODEFAULTLIB:"MSVCRTD"
+/NODEFAULTLIB:"MSVCPRTD"
+/NODEFAULTLIB:"LIBC"
+/NODEFAULTLIB:"LIBCP"
+/NODEFAULTLIB:"LIBCD"
+/NODEFAULTLIB:"LIBCPD"
+/FUNCTIONPADMIN
+"C:\Users\admin_faruq\OneDrive - York University\Desktop\Unreal\UNREALxMATLAB\DroneExp1\DroneExp1\Intermediate\Build\Win64\DroneExp1Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\admin_faruq\OneDrive - York University\Desktop\Unreal\UNREALxMATLAB\DroneExp1\DroneExp1\Intermediate\Build\Win64\UE4Editor\Development\DroneExp1\BuoyancyPlacement.cpp.obj"
+"C:\Users\admin_faruq\OneDrive - York University\Desktop\Unreal\UNREALxMATLAB\DroneExp1\DroneExp1\Intermediate\Build\Win64\UE4Editor\Development\DroneExp1\IceSpawnerClass.cpp.obj"
+"C:\Users\admin_faruq\OneDrive - York University\Desktop\Unreal\UNREALxMATLAB\DroneExp1\DroneExp1\Intermediate\Build\Win64\UE4Editor\Development\DroneExp1\MyBuoyancyComponent.cpp.obj"
+"C:\Users\admin_faruq\OneDrive - York University\Desktop\Unreal\UNREALxMATLAB\DroneExp1\DroneExp1\Intermediate\Build\Win64\UE4Editor\Development\DroneExp1\MyBuoyancyComponent1.cpp.obj"
+"C:\Users\admin_faruq\OneDrive - York University\Desktop\Unreal\UNREALxMATLAB\DroneExp1\DroneExp1\Intermediate\Build\Win64\UE4Editor\Development\DroneExp1\MyShipAnimInstance.cpp.obj"
+"C:\Users\admin_faruq\OneDrive - York University\Desktop\Unreal\UNREALxMATLAB\DroneExp1\DroneExp1\Intermediate\Build\Win64\UE4Editor\Development\DroneExp1\MySim3dActor.cpp.obj"
+"C:\Users\admin_faruq\OneDrive - York University\Desktop\Unreal\UNREALxMATLAB\DroneExp1\DroneExp1\Intermediate\Build\Win64\UE4Editor\Development\DroneExp1\DroneExp1.cpp.obj"
+"C:\Users\admin_faruq\OneDrive - York University\Desktop\Unreal\UNREALxMATLAB\DroneExp1\DroneExp1\Intermediate\Build\Win64\UE4Editor\Development\DroneExp1\DroneExp1GameModeBase.cpp.obj"
+"C:\Users\admin_faruq\OneDrive - York University\Desktop\Unreal\UNREALxMATLAB\DroneExp1\DroneExp1\Intermediate\Build\Win64\UE4Editor\Development\DroneExp1\BuoyancyPlacement.gen.cpp.obj"
+"C:\Users\admin_faruq\OneDrive - York University\Desktop\Unreal\UNREALxMATLAB\DroneExp1\DroneExp1\Intermediate\Build\Win64\UE4Editor\Development\DroneExp1\DroneExp1.init.gen.cpp.obj"
+"C:\Users\admin_faruq\OneDrive - York University\Desktop\Unreal\UNREALxMATLAB\DroneExp1\DroneExp1\Intermediate\Build\Win64\UE4Editor\Development\DroneExp1\DroneExp1GameModeBase.gen.cpp.obj"
+"C:\Users\admin_faruq\OneDrive - York University\Desktop\Unreal\UNREALxMATLAB\DroneExp1\DroneExp1\Intermediate\Build\Win64\UE4Editor\Development\DroneExp1\IceSpawnerClass.gen.cpp.obj"
+"C:\Users\admin_faruq\OneDrive - York University\Desktop\Unreal\UNREALxMATLAB\DroneExp1\DroneExp1\Intermediate\Build\Win64\UE4Editor\Development\DroneExp1\MyBuoyancyComponent.gen.cpp.obj"
+"C:\Users\admin_faruq\OneDrive - York University\Desktop\Unreal\UNREALxMATLAB\DroneExp1\DroneExp1\Intermediate\Build\Win64\UE4Editor\Development\DroneExp1\MyBuoyancyComponent1.gen.cpp.obj"
+"C:\Users\admin_faruq\OneDrive - York University\Desktop\Unreal\UNREALxMATLAB\DroneExp1\DroneExp1\Intermediate\Build\Win64\UE4Editor\Development\DroneExp1\MyShipAnimInstance.gen.cpp.obj"
+"C:\Users\admin_faruq\OneDrive - York University\Desktop\Unreal\UNREALxMATLAB\DroneExp1\DroneExp1\Intermediate\Build\Win64\UE4Editor\Development\DroneExp1\MySim3dActor.gen.cpp.obj"
+"C:\Users\admin_faruq\OneDrive - York University\Desktop\Unreal\UNREALxMATLAB\DroneExp1\DroneExp1\Intermediate\Build\Win64\UE4Editor\Development\DroneExp1\Default.rc2.res"
+"C:\Program Files\MATLAB\R2022a\extern\lib\win64\microsoft\libMatlabDataArray.lib"
+"C:\Program Files\MATLAB\R2022a\lib\win64\libmwshared_sim3d_io.lib"
+"C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\Marketplace\MathWorks\MathWorksSimulation\Intermediate\Build\Win64\UE4Editor\Development\MathWorksSimulation\UE4Editor-MathWorksSimulation.lib"
+"C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\UE4Editor-Engine.lib"
+"C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\Experimental\Water\Intermediate\Build\Win64\UE4Editor\Development\Water\UE4Editor-Water.lib"
+"C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Development\Core\UE4Editor-Core.lib"
+"C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Development\CoreUObject\UE4Editor-CoreUObject.lib"
+"C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Development\InputCore\UE4Editor-InputCore.lib"
+"C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\Marketplace\MathWorks\MathWorksSimulation\Intermediate\Build\Win64\UE4Editor\Development\MathWorksUAV\UE4Editor-MathWorksUAV.lib"
+"C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Development\XmlParser\UE4Editor-XmlParser.lib"
+"delayimp.lib"
+"wininet.lib"
+"rpcrt4.lib"
+"ws2_32.lib"
+"dbghelp.lib"
+"comctl32.lib"
+"Winmm.lib"
+"kernel32.lib"
+"user32.lib"
+"gdi32.lib"
+"winspool.lib"
+"comdlg32.lib"
+"advapi32.lib"
+"shell32.lib"
+"ole32.lib"
+"oleaut32.lib"
+"uuid.lib"
+"odbc32.lib"
+"odbccp32.lib"
+"netapi32.lib"
+"iphlpapi.lib"
+"setupapi.lib"
+"dwmapi.lib"
+"imm32.lib"
+/OUT:"C:\Users\admin_faruq\OneDrive - York University\Desktop\Unreal\UNREALxMATLAB\DroneExp1\DroneExp1\Binaries\Win64\UE4Editor-DroneExp1-2112.dll"
+/IMPLIB:"C:\Users\admin_faruq\OneDrive - York University\Desktop\Unreal\UNREALxMATLAB\DroneExp1\DroneExp1\Intermediate\Build\Win64\UE4Editor\Development\DroneExp1\UE4Editor-DroneExp1-2112.suppressed.lib"
+/PDB:"C:\Users\admin_faruq\OneDrive - York University\Desktop\Unreal\UNREALxMATLAB\DroneExp1\DroneExp1\Binaries\Win64\UE4Editor-DroneExp1-2112.pdb"
+/ignore:4078
+/INCLUDE:IMPLEMENT_MODULE_DroneExp1

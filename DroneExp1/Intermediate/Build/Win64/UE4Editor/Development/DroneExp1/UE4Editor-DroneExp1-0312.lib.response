@@ -1,0 +1,28 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-DroneExp1-0312.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\admin_faruq\OneDrive - York University\Desktop\Unreal\UNREALxMATLAB\DroneExp1\DroneExp1\Intermediate\Build\Win64\DroneExp1Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\admin_faruq\OneDrive - York University\Desktop\Unreal\UNREALxMATLAB\DroneExp1\DroneExp1\Intermediate\Build\Win64\UE4Editor\Development\DroneExp1\BuoyancyPlacement.cpp.obj"
+"C:\Users\admin_faruq\OneDrive - York University\Desktop\Unreal\UNREALxMATLAB\DroneExp1\DroneExp1\Intermediate\Build\Win64\UE4Editor\Development\DroneExp1\IceSpawnerClass.cpp.obj"
+"C:\Users\admin_faruq\OneDrive - York University\Desktop\Unreal\UNREALxMATLAB\DroneExp1\DroneExp1\Intermediate\Build\Win64\UE4Editor\Development\DroneExp1\MyBuoyancyComponent.cpp.obj"
+"C:\Users\admin_faruq\OneDrive - York University\Desktop\Unreal\UNREALxMATLAB\DroneExp1\DroneExp1\Intermediate\Build\Win64\UE4Editor\Development\DroneExp1\MyBuoyancyComponent1.cpp.obj"
+"C:\Users\admin_faruq\OneDrive - York University\Desktop\Unreal\UNREALxMATLAB\DroneExp1\DroneExp1\Intermediate\Build\Win64\UE4Editor\Development\DroneExp1\MyShipAnimInstance.cpp.obj"
+"C:\Users\admin_faruq\OneDrive - York University\Desktop\Unreal\UNREALxMATLAB\DroneExp1\DroneExp1\Intermediate\Build\Win64\UE4Editor\Development\DroneExp1\MySim3dActor.cpp.obj"
+"C:\Users\admin_faruq\OneDrive - York University\Desktop\Unreal\UNREALxMATLAB\DroneExp1\DroneExp1\Intermediate\Build\Win64\UE4Editor\Development\DroneExp1\DroneExp1.cpp.obj"
+"C:\Users\admin_faruq\OneDrive - York University\Desktop\Unreal\UNREALxMATLAB\DroneExp1\DroneExp1\Intermediate\Build\Win64\UE4Editor\Development\DroneExp1\DroneExp1GameModeBase.cpp.obj"
+"C:\Users\admin_faruq\OneDrive - York University\Desktop\Unreal\UNREALxMATLAB\DroneExp1\DroneExp1\Intermediate\Build\Win64\UE4Editor\Development\DroneExp1\BuoyancyPlacement.gen.cpp.obj"
+"C:\Users\admin_faruq\OneDrive - York University\Desktop\Unreal\UNREALxMATLAB\DroneExp1\DroneExp1\Intermediate\Build\Win64\UE4Editor\Development\DroneExp1\DroneExp1.init.gen.cpp.obj"
+"C:\Users\admin_faruq\OneDrive - York University\Desktop\Unreal\UNREALxMATLAB\DroneExp1\DroneExp1\Intermediate\Build\Win64\UE4Editor\Development\DroneExp1\DroneExp1GameModeBase.gen.cpp.obj"
+"C:\Users\admin_faruq\OneDrive - York University\Desktop\Unreal\UNREALxMATLAB\DroneExp1\DroneExp1\Intermediate\Build\Win64\UE4Editor\Development\DroneExp1\IceSpawnerClass.gen.cpp.obj"
+"C:\Users\admin_faruq\OneDrive - York University\Desktop\Unreal\UNREALxMATLAB\DroneExp1\DroneExp1\Intermediate\Build\Win64\UE4Editor\Development\DroneExp1\MyBuoyancyComponent.gen.cpp.obj"
+"C:\Users\admin_faruq\OneDrive - York University\Desktop\Unreal\UNREALxMATLAB\DroneExp1\DroneExp1\Intermediate\Build\Win64\UE4Editor\Development\DroneExp1\MyBuoyancyComponent1.gen.cpp.obj"
+"C:\Users\admin_faruq\OneDrive - York University\Desktop\Unreal\UNREALxMATLAB\DroneExp1\DroneExp1\Intermediate\Build\Win64\UE4Editor\Development\DroneExp1\MyShipAnimInstance.gen.cpp.obj"
+"C:\Users\admin_faruq\OneDrive - York University\Desktop\Unreal\UNREALxMATLAB\DroneExp1\DroneExp1\Intermediate\Build\Win64\UE4Editor\Development\DroneExp1\MySim3dActor.gen.cpp.obj"
+"C:\Users\admin_faruq\OneDrive - York University\Desktop\Unreal\UNREALxMATLAB\DroneExp1\DroneExp1\Intermediate\Build\Win64\UE4Editor\Development\DroneExp1\Default.rc2.res"
+/OUT:"C:\Users\admin_faruq\OneDrive - York University\Desktop\Unreal\UNREALxMATLAB\DroneExp1\DroneExp1\Intermediate\Build\Win64\UE4Editor\Development\DroneExp1\UE4Editor-DroneExp1-0312.lib"
+/INCLUDE:IMPLEMENT_MODULE_DroneExp1

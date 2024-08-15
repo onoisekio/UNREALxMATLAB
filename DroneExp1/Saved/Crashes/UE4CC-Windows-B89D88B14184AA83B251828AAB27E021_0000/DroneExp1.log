@@ -1,0 +1,1235 @@
+﻿Log file open, 02/27/24 15:36:35
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: DroneExp1
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 59 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.156123
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin BlueprintMaterialTextureNodes
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin Landmass
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Water
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin MathWorksSimulation
+LogPluginManager: Mounting plugin MathWorksUAVContent
+LogPluginManager: Mounting plugin MathWorksAutomotiveContent
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cleaning working directory: C:/Users/admin_faruq/AppData/Local/Temp/UnrealXGEWorkingDir/
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+Sim3dInterfaceLog: Display: Sim3dInterface was constructed successfully.
+Sim3dInterfaceLog: Display: Sim3dInterface is not ready.
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.51.0
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: 12th Gen Intel(R) Core(TM) i7-12700, GPU: NVIDIA RTX A2000
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
+[2024.02.27-20.36.48:953][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2024.02.27-20.36.48:953][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2024.02.27-20.36.48:953][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/Config/Windows/Engine.ini]
+[2024.02.27-20.36.48:953][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2024.02.27-20.36.48:953][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/Config/Windows/Engine.ini]
+[2024.02.27-20.36.48:953][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/Config/Windows/Engine.ini]
+[2024.02.27-20.36.48:953][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2024.02.27-20.36.48:953][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2024.02.27-20.36.48:953][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2024.02.27-20.36.48:953][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2024.02.27-20.36.48:953][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2024.02.27-20.36.48:953][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2024.02.27-20.36.48:953][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2024.02.27-20.36.48:953][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2024.02.27-20.36.48:953][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2024.02.27-20.36.48:953][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2024.02.27-20.36.48:953][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2024.02.27-20.36.48:953][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2024.02.27-20.36.48:953][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2024.02.27-20.36.48:953][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2024.02.27-20.36.48:953][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/Config/Windows/Engine.ini]
+[2024.02.27-20.36.48:953][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2024.02.27-20.36.48:954][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2024.02.27-20.36.48:954][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2024.02.27-20.36.48:954][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2024.02.27-20.36.48:954][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2024.02.27-20.36.48:954][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2024.02.27-20.36.48:954][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2024.02.27-20.36.48:954][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2024.02.27-20.36.48:954][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2024.02.27-20.36.48:954][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2024.02.27-20.36.48:954][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2024.02.27-20.36.48:954][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2024.02.27-20.36.48:954][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2024.02.27-20.36.48:954][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2024.02.27-20.36.48:954][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/Config/Windows/Engine.ini]
+[2024.02.27-20.36.48:954][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/Config/Windows/Engine.ini]
+[2024.02.27-20.36.48:964][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/Config/Windows/Scalability.ini]
+[2024.02.27-20.36.48:964][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2024.02.27-20.36.48:964][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2024.02.27-20.36.48:964][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/Config/Windows/Scalability.ini]
+[2024.02.27-20.36.48:964][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2024.02.27-20.36.48:964][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/Config/Windows/Scalability.ini]
+[2024.02.27-20.36.48:964][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2024.02.27-20.36.48:964][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2024.02.27-20.36.48:964][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2024.02.27-20.36.48:964][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2024.02.27-20.36.48:964][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2024.02.27-20.36.48:964][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2024.02.27-20.36.48:964][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2024.02.27-20.36.48:964][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2024.02.27-20.36.48:964][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2024.02.27-20.36.48:964][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2024.02.27-20.36.48:964][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2024.02.27-20.36.48:964][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2024.02.27-20.36.48:964][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2024.02.27-20.36.48:964][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2024.02.27-20.36.48:964][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2024.02.27-20.36.48:964][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2024.02.27-20.36.48:964][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2024.02.27-20.36.48:964][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2024.02.27-20.36.48:964][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/Config/Windows/Scalability.ini]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/Config/Windows/Scalability.ini]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/Config/Windows/Scalability.ini]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/Config/Windows/Scalability.ini]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/Config/Windows/Scalability.ini]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2024.02.27-20.36.48:965][  0]LogInit: Selected Device Profile: [Windows]
+[2024.02.27-20.36.48:965][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2024.02.27-20.36.48:965][  0]LogHAL: Display: Platform has ~ 16 GB [16853479424 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2024.02.27-20.36.48:965][  0]LogInit: Going up to parent DeviceProfile []
+[2024.02.27-20.36.48:965][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/Config/Windows/Scalability.ini]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/Config/Windows/Scalability.ini]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/Config/Windows/Scalability.ini]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/Config/Windows/Scalability.ini]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/Config/Windows/Scalability.ini]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/Config/Windows/Scalability.ini]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2024.02.27-20.36.48:965][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2024.02.27-20.36.48:966][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2024.02.27-20.36.48:966][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2024.02.27-20.36.48:966][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2024.02.27-20.36.48:966][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2024.02.27-20.36.48:966][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2024.02.27-20.36.48:966][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2024.02.27-20.36.48:966][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2024.02.27-20.36.48:966][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2024.02.27-20.36.48:966][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2024.02.27-20.36.48:966][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2024.02.27-20.36.48:966][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2024.02.27-20.36.48:966][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2024.02.27-20.36.48:966][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2024.02.27-20.36.48:966][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2024.02.27-20.36.48:966][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2024.02.27-20.36.48:966][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2024.02.27-20.36.48:966][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2024.02.27-20.36.48:966][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2024.02.27-20.36.48:966][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2024.02.27-20.36.48:966][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2024.02.27-20.36.48:966][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2024.02.27-20.36.48:966][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2024.02.27-20.36.48:966][  0]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2024.02.27-20.36.48:966][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/Config/Windows/Scalability.ini]
+[2024.02.27-20.36.48:966][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2024.02.27-20.36.48:966][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2024.02.27-20.36.48:966][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/Config/Windows/Scalability.ini]
+[2024.02.27-20.36.48:966][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2024.02.27-20.36.48:966][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2024.02.27-20.36.48:966][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2024.02.27-20.36.48:966][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2024.02.27-20.36.48:966][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2024.02.27-20.36.48:966][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2024.02.27-20.36.48:966][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2024.02.27-20.36.48:966][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/Config/Windows/Engine.ini]
+[2024.02.27-20.36.48:966][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/Config/Windows/Editor.ini]
+[2024.02.27-20.36.48:966][  0]LogInit: Computer: CHRONOS
+[2024.02.27-20.36.48:966][  0]LogInit: User: adminfaruq
+[2024.02.27-20.36.48:966][  0]LogInit: CPU Page size=4096, Cores=12
+[2024.02.27-20.36.48:966][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2024.02.27-20.36.48:966][  0]LogMemory: Memory total: Physical=15.7GB (16GB approx)
+[2024.02.27-20.36.48:966][  0]LogMemory: Platform Memory Stats for Windows
+[2024.02.27-20.36.48:966][  0]LogMemory: Process Physical Memory: 179.73 MB used, 181.08 MB peak
+[2024.02.27-20.36.48:966][  0]LogMemory: Process Virtual Memory: 147.14 MB used, 147.14 MB peak
+[2024.02.27-20.36.48:966][  0]LogMemory: Physical Memory: 12734.68 MB used,  3338.05 MB free, 16072.73 MB total
+[2024.02.27-20.36.48:966][  0]LogMemory: Virtual Memory: 134204200.00 MB used,  13527.10 MB free, 134217728.00 MB total
+[2024.02.27-20.36.48:969][  0]LogWindows: WindowsPlatformFeatures enabled
+[2024.02.27-20.36.48:982][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2024.02.27-20.36.48:984][  0]LogInit: Using OS detected language (en-US).
+[2024.02.27-20.36.48:984][  0]LogInit: Using OS detected locale (en-US).
+[2024.02.27-20.36.48:986][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2024.02.27-20.36.49:146][  0]LogInit: Setting process to per monitor DPI aware
+[2024.02.27-20.36.49:151][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.02.27-20.36.49:161][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2024.02.27-20.36.49:161][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2024.02.27-20.36.49:299][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2024.02.27-20.36.49:299][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2024.02.27-20.36.49:299][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2024.02.27-20.36.49:299][  0]LogD3D11RHI: D3D11 adapters:
+[2024.02.27-20.36.49:393][  0]LogD3D11RHI:    0. 'NVIDIA RTX A2000' (Feature Level 11_0)
+[2024.02.27-20.36.49:393][  0]LogD3D11RHI:       6004/0/8036 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2024.02.27-20.36.49:480][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 770' (Feature Level 11_0)
+[2024.02.27-20.36.49:480][  0]LogD3D11RHI:       128/0/8036 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2024.02.27-20.36.49:482][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2024.02.27-20.36.49:482][  0]LogD3D11RHI:       0/0/8036 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2024.02.27-20.36.49:482][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2024.02.27-20.36.49:486][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2024.02.27-20.36.49:486][  0]LogD3D11RHI:     GPU DeviceId: 0x2531 (for the marketing name, search the web for "GPU Device Id")
+[2024.02.27-20.36.49:486][  0]LogWindows: EnumDisplayDevices:
+[2024.02.27-20.36.49:486][  0]LogWindows:    0. 'NVIDIA RTX A2000' (P:1 D:1)
+[2024.02.27-20.36.49:486][  0]LogWindows:    1. 'NVIDIA RTX A2000' (P:0 D:1)
+[2024.02.27-20.36.49:486][  0]LogWindows:    2. 'NVIDIA RTX A2000' (P:0 D:0)
+[2024.02.27-20.36.49:487][  0]LogWindows:    3. 'NVIDIA RTX A2000' (P:0 D:0)
+[2024.02.27-20.36.49:487][  0]LogWindows:    4. 'Intel(R) UHD Graphics 770' (P:0 D:0)
+[2024.02.27-20.36.49:487][  0]LogWindows:    5. 'Intel(R) UHD Graphics 770' (P:0 D:0)
+[2024.02.27-20.36.49:487][  0]LogWindows:    6. 'Intel(R) UHD Graphics 770' (P:0 D:0)
+[2024.02.27-20.36.49:487][  0]LogWindows:    7. 'Intel(R) UHD Graphics 770' (P:0 D:0)
+[2024.02.27-20.36.49:487][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2024.02.27-20.36.49:487][  0]LogD3D11RHI:     Adapter Name: NVIDIA RTX A2000
+[2024.02.27-20.36.49:487][  0]LogD3D11RHI:   Driver Version: 537.70 (internal:31.0.15.3770, unified:537.70)
+[2024.02.27-20.36.49:487][  0]LogD3D11RHI:      Driver Date: 10-18-2023
+[2024.02.27-20.36.49:487][  0]LogRHI: Texture pool is 4202 MB (70% of 6004 MB)
+[2024.02.27-20.36.49:554][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2024.02.27-20.36.49:554][  0]LogD3D11RHI: Async texture creation enabled
+[2024.02.27-20.36.49:554][  0]LogD3D11RHI: Array index from any shader is supported
+[2024.02.27-20.36.49:566][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2024.02.27-20.36.49:566][  0]LogRHI: GeForceNow SDK initialized: 1
+[2024.02.27-20.36.49:762][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2024.02.27-20.36.49:775][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2024.02.27-20.36.49:775][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2024.02.27-20.36.49:775][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2024.02.27-20.36.49:775][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2024.02.27-20.36.49:775][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2024.02.27-20.36.49:775][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2024.02.27-20.36.49:775][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2024.02.27-20.36.49:775][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2024.02.27-20.36.49:775][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2024.02.27-20.36.49:775][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2024.02.27-20.36.49:787][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2024.02.27-20.36.49:788][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2024.02.27-20.36.49:793][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2024.02.27-20.36.49:798][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2024.02.27-20.36.49:803][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2024.02.27-20.36.49:808][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2024.02.27-20.36.49:812][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2024.02.27-20.36.49:817][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2024.02.27-20.36.49:821][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2024.02.27-20.36.49:834][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2024.02.27-20.36.49:834][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2024.02.27-20.36.49:838][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2024.02.27-20.36.49:843][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2024.02.27-20.36.49:847][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2024.02.27-20.36.49:852][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2024.02.27-20.36.49:859][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2024.02.27-20.36.49:859][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2024.02.27-20.36.49:864][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2024.02.27-20.36.49:868][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2024.02.27-20.36.49:873][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2024.02.27-20.36.49:877][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2024.02.27-20.36.49:877][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2024.02.27-20.36.49:881][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2024.02.27-20.36.49:914][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2024.02.27-20.36.49:914][  0]LogShaderCompilers: Guid format shader working directory is -60 characters bigger than the processId version (../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Intermediate/Shaders/WorkingDirectory/21396/).
+[2024.02.27-20.36.49:915][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/admin_faruq/AppData/Local/Temp/UnrealShaderWorkingDir/F00380984EC5E0BD1D74AEB88CFB3BF1/'.
+[2024.02.27-20.36.49:915][  0]LogShaderCompilers: Display: Using XGE Controller for Shader Compilation.
+[2024.02.27-20.36.50:462][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2024.02.27-20.36.50:501][  0]LogDerivedDataCache: Loaded boot cache 0.04s 81MB C:/Users/admin_faruq/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2024.02.27-20.36.50:502][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/admin_faruq/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2024.02.27-20.36.50:502][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2024.02.27-20.36.50:502][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2024.02.27-20.36.50:502][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2024.02.27-20.36.50:502][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2024.02.27-20.36.50:510][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2024.02.27-20.36.50:510][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2024.02.27-20.36.50:510][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2024.02.27-20.36.50:516][  0]LogDerivedDataCache: Speed tests for C:/Users/admin_faruq/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2024.02.27-20.36.50:516][  0]LogDerivedDataCache: Display: Performance to C:/Users/admin_faruq/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=332.27MBs, RandomWriteSpeed=391.71MBs. Assigned SpeedClass 'Local'
+[2024.02.27-20.36.50:516][  0]LogDerivedDataCache: Using Local data cache path C:/Users/admin_faruq/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2024.02.27-20.36.50:516][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2024.02.27-20.36.50:516][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2024.02.27-20.36.50:546][  0]LogSlate: Using FreeType 2.10.0
+[2024.02.27-20.36.50:546][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2024.02.27-20.36.50:561][  0]LogAssetRegistry: FAssetRegistry took 0.0021 seconds to start up
+[2024.02.27-20.36.50:694][  0]LogInit: Selected Device Profile: [Windows]
+[2024.02.27-20.36.50:694][  0]LogInit: Active device profile: [000002C626825D00][000002C624C47CC0 49] Windows
+[2024.02.27-20.36.50:694][  0]LogInit: Profiles: [000002C626825D00][000002C624C47CC0 49] Windows, [000002C6267E6500][000002C624C4E180 49] WindowsNoEditor, [000002C626827500][000002C624C52300 49] WindowsServer, [000002C6267E4C00][000002C624C56480 49] WindowsClient, [000002C626824E00][000002C624C5A600 49] IOS, [000002C6267E4900][000002C623CD4780 49] iPadAir, [000002C626826C00][000002C623CD8900 49] iPadAir2, [000002C626797200][000002C623CE0BC0 49] IPadPro, [000002C626797300][000002C623CDCC00 49] iPadAir3, [000002C626825400][000002C623CE4D80 49] iPadAir4, [000002C626796800][000002C623CE8F00 49] iPadMini2, [000002C626827100][000002C623CED080 49] iPadMini3, [000002C626795500][000002C623CF1200 49] iPadMini4, [000002C626825000][000002C623CF5380 49] iPadMini5, [000002C6267D6B00][000002C623CFD640 49] iPhone6, [000002C6267D6C00][000002C623CF9680 49] iPodTouch6, [000002C626797A00][000002C623D018C0 49] iPhone7, [000002C626797800][000002C624C4B900 49] iPodTouch7, [000002C6267D6800][000002C623D05A40 49] iPhone5S, [000002C626796400][000002C623D09B80 49] iPhone6Plus, [000002C6267D5400][000002C623D11D00 49] iPhone6S, [000002C626794600][000002C623D141C0 49] iPhone6SPlus, [000002C6267D6900][000002C623D18340 49] iPhone7Plus, [000002C626797500][000002C623D1C4C0 49] iPhoneSE, [000002C6267D7000][000002C62469A640 49] iPhone8, [000002C626797E00][000002C62469E7C0 49] iPhone8Plus, [000002C6267D5F00][000002C6246A2940 49] iPhoneX, [000002C626795F00][000002C6246A6AC0 49] iPhoneXS, [000002C6267D4400][000002C6246AAC40 49] iPhoneXSMax, [000002C626797000][000002C6246AEDC0 49] iPhoneXR, [000002C6267D5100][000002C6246B2F40 49] iPhone11, [000002C626795A00][000002C6246B70C0 49] iPhone11Pro, [000002C6267D7600][000002C6246BB240 49] iPhone11ProMax, [000002C626796B00][000002C6246BF3C0 49] iPhoneSE2, [000002C6267D7800][000002C6246C3540 49] iPhone12Mini, [000002C626796900][000002C6246C76C0 49] iPhone12, [000002C6267D5C00][000002C623D0D800 49] iPhone12Pro, [000002C626796700][000002C6246CB940 49] iPhone12ProMax, [000002C6267D4C00][000002C6246CFA80 49] iPadPro105, [000002C626796100][000002C6246D3BC0 49] iPadPro129, [000002C626795600][000002C6246DBD40 49] iPadPro97, [000002C6267E5A00][000002C6246DE200 49] iPadPro2_129, [000002C626794900][000002C6246E2380 49] iPad5, [000002C6267E6400][000002C6246E6500 49] iPad6, [000002C626795E00][000002C6246EA680 49] iPad7, [000002C6267E7E00][000002C6246EE800 49] iPad8, [000002C626795400][000002C6246F2980 49] iPadPro11, [000002C6267E7F00][000002C6246F6B00 49] iPadPro2_11, [000002C6267E6000][000002C6246FAC80 49] iPadPro3_129, [000002C6267D7900][000002C6246FEE00 49] iPadPro4_129, [000002C6267E5900][000002C624702F80 49] AppleTV, [000002C6267D7D00][000002C624707100 49] AppleTV4K, [000002C6267E4E00][000002C62470B280 49] TVOS, [000002C6267D7500][000002C62470F400 49] Mac, [000002C6267E7A00][000002C624713580 49] MacClient, [000002C6267D5200][000002C624717700 49] MacNoEditor, [000002C626797900][000002C62471B880 49] MacServer, [000002C6267D6300][000002C6246D79C0 49] Linux, [000002C626794400][000002C62471FB00 49] LinuxAArch64, [000002C6267D4D00][000002C624723C40 49] LinuxNoEditor, [000002C626794100][000002C62472A100 49] LinuxAArch64NoEditor, [000002C6267D7F00][000002C62472E280 49] LinuxClient, [000002C626797100][000002C624732400 49] LinuxAArch64Client, [000002C6267D5700][000002C624736580 49] LinuxServer, [000002C626797C00][000002C62473A700 49] LinuxAArch64Server, [000002C6267D6100][000002C62473E880 49] Android, [000002C626796D00][000002C624742A00 49] Android_Low, [000002C6267D6E00][000002C624746B80 49] Android_Mid, [000002C626796600][000002C62474AD00 49] Android_High, [000002C6267D4500][000002C62474EE80 49] Android_Default, [000002C626796500][000002C624753000 49] Android_Adreno4xx, [000002C6267D5000][000002C624757180 49] Android_Adreno5xx_Low, [000002C626796000][000002C62475B300 49] Android_Adreno5xx, [000002C6267D4E00][000002C62475F480 49] Android_Adreno6xx, [000002C626794D00][000002C624763600 49] Android_Adreno6xx_Vulkan, [000002C6267D6500][000002C624767780 49] Android_Mali_T6xx, [000002C626794500][000002C62476B900 49] Android_Mali_T7xx, [000002C6267D6400][000002C624727A40 49] Android_Mali_T8xx, [000002C626794B00][000002C62476FB80 49] Android_Mali_G71, [000002C6267D5800][000002C624773CC0 49] Android_Mali_G72, [000002C626795000][000002C62477A180 49] Android_Mali_G72_Vulkan, [000002C6267D4A00][000002C62477E300 49] Android_Mali_G76, [000002C626795900][000002C624782480 49] Android_Mali_G76_Vulkan, [000002C6267D6600][000002C624786600 49] Android_Mali_G77, [000002C626795D00][000002C62478A780 49] Android_Mali_G77_Vulkan, [000002C6267D7100][000002C62478E900 49] Android_Vulkan_SM5, [000002C626797B00][000002C624792A80 49] Android_PowerVR_G6xxx, [000002C6267D4F00][000002C624796C00 49] Android_PowerVR_GT7xxx, [000002C626796F00][000002C62479AD80 49] Android_PowerVR_GE8xxx, [000002C6267D7200][000002C62479EF00 49] Android_PowerVR_GM9xxx, [000002C626794800][000002C6247A3080 49] Android_PowerVR_GM9xxx_Vulkan, [000002C6267D7B00][000002C6247A7200 49] Android_TegraK1, [000002C626797700][000002C6247AB380 49] Android_Unknown_Vulkan, [000002C6267D5900][000002C6247AF500 49] Lumin, [000002C626795200][000002C6247B3680 49] Lumin_Desktop, [000002C6267D7400][000002C6247B7800 49] HoloLens, 
+[2024.02.27-20.36.50:758][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2024.02.27-20.36.50:758][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2024.02.27-20.36.50:758][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2024.02.27-20.36.50:758][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2024.02.27-20.36.50:758][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2024.02.27-20.36.50:771][  0]LogNetVersion: DroneExp1 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 126652168)
+[2024.02.27-20.36.51:045][  0]Sim3dVehicleLightingLog: Display: Creating LightModule
+[2024.02.27-20.36.51:045][  0]Sim3dVehicleLightingLog: Display: Creating LightModule
+[2024.02.27-20.36.51:045][  0]Sim3dVehicleLightingLog: Display: Creating LightModule
+[2024.02.27-20.36.51:048][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2024.02.27-20.36.51:075][  0]LogPackageLocalizationCache: Processed 27 localized package path(s) for 1 prioritized culture(s) in 0.026836 seconds
+[2024.02.27-20.36.51:078][  0]LogUObjectArray: 17926 objects as part of root set at end of initial load.
+[2024.02.27-20.36.51:078][  0]LogUObjectAllocator: 5619216 out of 0 bytes used by permanent object pool.
+[2024.02.27-20.36.51:078][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2024.02.27-20.36.51:280][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2024.02.27-20.36.51:284][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2024.02.27-20.36.51:477][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2024.02.27-20.36.51:488][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2024.02.27-20.36.51:488][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2024.02.27-20.36.51:522][  0]SourceControl: Source control is disabled
+[2024.02.27-20.36.51:522][  0]SourceControl: Source control is disabled
+[2024.02.27-20.36.51:524][  0]SourceControl: Source control is disabled
+[2024.02.27-20.36.51:526][  0]SourceControl: Source control is disabled
+[2024.02.27-20.36.51:531][  0]SourceControl: Source control is disabled
+[2024.02.27-20.36.51:532][  0]LogUProjectInfo: Found projects:
+[2024.02.27-20.36.51:548][  0]LogCollectionManager: Loaded 0 collections in 0.000915 seconds
+[2024.02.27-20.36.51:557][  0]LogFileCache: Scanning file cache for directory 'C:/Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/Collections/' took 0.00s
+[2024.02.27-20.36.51:557][  0]LogFileCache: Scanning file cache for directory 'C:/Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Developers/adminfaruq/Collections/' took 0.00s
+[2024.02.27-20.36.51:557][  0]LogFileCache: Scanning file cache for directory 'C:/Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Collections/' took 0.00s
+[2024.02.27-20.36.51:557][  0]Sim3dVehicleLightingLog: Display: Creating LightModule
+[2024.02.27-20.36.51:557][  0]Sim3dVehicleLightingLog: Display: Creating LightModule
+[2024.02.27-20.36.51:557][  0]Sim3dVehicleLightingLog: Display: Creating LightModule
+[2024.02.27-20.36.51:571][  0]LogOcInput: OculusInput pre-init called
+[2024.02.27-20.36.51:707][  0]LogEngine: Initializing Engine...
+[2024.02.27-20.36.51:708][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2024.02.27-20.36.51:708][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2024.02.27-20.36.51:708][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2024.02.27-20.36.51:775][  0]LogInit: Initializing FReadOnlyCVARCache
+[2024.02.27-20.36.51:781][  0]LogAIModule: Creating AISystem for world Untitled
+[2024.02.27-20.36.51:789][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2024.02.27-20.36.51:791][  0]LogAudio: Display: Audio Device Manager Initialized
+[2024.02.27-20.36.51:791][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2024.02.27-20.36.51:791][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.27-20.36.51:791][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.27-20.36.51:791][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.27-20.36.51:791][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.27-20.36.51:791][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.02.27-20.36.51:791][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.27-20.36.51:791][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.02.27-20.36.51:791][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.27-20.36.51:791][  0]LogAudio: Display: Using built-in audio occlusion.
+[2024.02.27-20.36.51:791][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2024.02.27-20.36.51:799][  0]LogAudioMixer: Display: 0: FrontLeft
+[2024.02.27-20.36.51:799][  0]LogAudioMixer: Display: 1: FrontRight
+[2024.02.27-20.36.52:548][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2024.02.27-20.36.52:552][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.27-20.36.52:554][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.27-20.36.52:554][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.27-20.36.52:555][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.02.27-20.36.52:555][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.02.27-20.36.52:555][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.02.27-20.36.52:556][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.02.27-20.36.52:556][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.02.27-20.36.52:556][  0]LogInit: FAudioDevice initialized.
+[2024.02.27-20.36.52:556][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2024.02.27-20.36.52:557][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2024.02.27-20.36.52:587][  0]LogDerivedDataCache: Saved boot cache 0.03s 81MB C:/Users/admin_faruq/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2024.02.27-20.36.52:587][  0]LogInit: Texture streaming: Enabled
+[2024.02.27-20.36.52:595][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2024.02.27-20.36.52:597][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2024.02.27-20.36.52:597][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={D0C36539-4D8D-09DA-474D-3499251798FC}
+[2024.02.27-20.36.52:597][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2024.02.27-20.36.52:599][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2024.02.27-20.36.52:616][  0]LogInit: Transaction tracking system initialized
+[2024.02.27-20.36.52:631][  0]BlueprintLog: New page: Editor Load
+[2024.02.27-20.36.52:671][  0]LocalizationService: Localization service is disabled
+[2024.02.27-20.36.52:685][  0]TimingProfiler: Initialize
+[2024.02.27-20.36.52:685][  0]TimingProfiler: OnSessionChanged
+[2024.02.27-20.36.52:685][  0]LoadingProfiler: Initialize
+[2024.02.27-20.36.52:685][  0]LoadingProfiler: OnSessionChanged
+[2024.02.27-20.36.52:685][  0]NetworkingProfiler: Initialize
+[2024.02.27-20.36.52:685][  0]NetworkingProfiler: OnSessionChanged
+[2024.02.27-20.36.52:685][  0]MemoryProfiler: Initialize
+[2024.02.27-20.36.52:685][  0]MemoryProfiler: OnSessionChanged
+[2024.02.27-20.36.52:763][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2024.02.27-20.36.52:763][  0]LogCook: Display: Mobile HDR setting 1
+[2024.02.27-20.36.52:858][  0]LogFileCache: Scanning file cache for directory 'C:/Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/' took 0.00s
+[2024.02.27-20.36.52:955][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2024.02.27-20.36.52:958][  0]SourceControl: Source control is disabled
+[2024.02.27-20.36.52:958][  0]LogUnrealEdMisc: Loading editor; pre map load, took 17.667
+[2024.02.27-20.36.52:958][  0]Cmd: MAP LOAD FILE="../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.02.27-20.36.52:958][  0]LightingResults: New page: Lighting Build
+[2024.02.27-20.36.52:959][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2024.02.27-20.36.52:959][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.27-20.36.52:959][  0]MapCheck: New page: Map Check
+[2024.02.27-20.36.52:959][  0]LightingResults: New page: Lighting Build
+[2024.02.27-20.36.52:964][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.02.27-20.36.53:197][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level1'.
+[2024.02.27-20.36.53:198][  0]LogAIModule: Creating AISystem for world Level1
+[2024.02.27-20.36.53:237][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.02.27-20.36.53:250][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.02.27-20.36.53:250][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.02.27-20.36.53:251][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.127ms to complete.
+[2024.02.27-20.36.53:251][  0]LogFileHelpers: Loading map 'Level1' took 0.293
+[2024.02.27-20.36.53:252][  0]LogUnrealEdMisc: Total Editor Startup Time, took 17.962
+[2024.02.27-20.36.53:376][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.27-20.36.53:380][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.27-20.36.53:383][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.27-20.36.53:385][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.27-20.36.53:395][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0058 seconds. Added 3726 classes and 881 folders.
+[2024.02.27-20.36.53:399][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0001 seconds. Added 0 classes and 0 folders.
+[2024.02.27-20.36.53:400][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2024.02.27-20.36.53:400][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.02.27-20.36.53:400][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2024.02.27-20.36.53:400][  0]LogPakFile: OnPakFileMounted2Time == 0.000005
+[2024.02.27-20.36.53:400][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2024.02.27-20.36.53:400][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.02.27-20.36.53:400][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2024.02.27-20.36.53:400][  0]LogPakFile: OnPakFileMounted2Time == 0.000007
+[2024.02.27-20.36.53:401][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2024.02.27-20.36.53:401][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.02.27-20.36.53:401][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2024.02.27-20.36.53:401][  0]LogPakFile: OnPakFileMounted2Time == 0.000008
+[2024.02.27-20.36.53:401][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2024.02.27-20.36.53:401][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.02.27-20.36.53:401][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2024.02.27-20.36.53:401][  0]LogPakFile: OnPakFileMounted2Time == 0.000008
+[2024.02.27-20.36.53:401][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2024.02.27-20.36.53:401][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.02.27-20.36.53:401][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2024.02.27-20.36.53:401][  0]LogPakFile: OnPakFileMounted2Time == 0.000009
+[2024.02.27-20.36.53:401][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2024.02.27-20.36.53:401][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.02.27-20.36.53:401][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2024.02.27-20.36.53:401][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2024.02.27-20.36.53:402][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2024.02.27-20.36.53:402][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.02.27-20.36.53:402][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2024.02.27-20.36.53:402][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2024.02.27-20.36.53:402][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2024.02.27-20.36.53:402][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.02.27-20.36.53:402][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2024.02.27-20.36.53:402][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2024.02.27-20.36.53:402][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2024.02.27-20.36.53:402][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.02.27-20.36.53:402][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2024.02.27-20.36.53:402][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2024.02.27-20.36.53:402][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2024.02.27-20.36.53:402][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.02.27-20.36.53:402][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2024.02.27-20.36.53:402][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2024.02.27-20.36.53:403][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2024.02.27-20.36.53:403][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.02.27-20.36.53:403][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2024.02.27-20.36.53:403][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2024.02.27-20.36.53:403][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2024.02.27-20.36.53:403][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.02.27-20.36.53:403][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2024.02.27-20.36.53:403][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2024.02.27-20.36.53:403][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2024.02.27-20.36.53:403][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.02.27-20.36.53:403][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2024.02.27-20.36.53:403][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2024.02.27-20.36.53:403][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2024.02.27-20.36.53:403][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.02.27-20.36.53:403][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2024.02.27-20.36.53:403][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2024.02.27-20.36.53:404][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2024.02.27-20.36.53:404][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.02.27-20.36.53:404][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2024.02.27-20.36.53:404][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2024.02.27-20.36.53:404][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2024.02.27-20.36.53:404][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.02.27-20.36.53:404][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2024.02.27-20.36.53:404][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2024.02.27-20.36.53:404][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2024.02.27-20.36.53:404][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.02.27-20.36.53:404][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2024.02.27-20.36.53:404][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2024.02.27-20.36.53:404][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2024.02.27-20.36.53:404][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.02.27-20.36.53:404][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2024.02.27-20.36.53:404][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2024.02.27-20.36.53:405][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2024.02.27-20.36.53:405][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.02.27-20.36.53:405][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2024.02.27-20.36.53:405][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2024.02.27-20.36.53:405][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2024.02.27-20.36.53:405][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.02.27-20.36.53:405][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2024.02.27-20.36.53:405][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2024.02.27-20.36.53:405][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2024.02.27-20.36.53:405][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.02.27-20.36.53:405][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2024.02.27-20.36.53:405][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2024.02.27-20.36.53:405][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2024.02.27-20.36.53:405][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.02.27-20.36.53:405][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2024.02.27-20.36.53:405][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2024.02.27-20.36.53:406][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2024.02.27-20.36.53:406][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.02.27-20.36.53:406][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2024.02.27-20.36.53:406][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2024.02.27-20.36.53:406][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2024.02.27-20.36.53:406][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.02.27-20.36.53:406][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2024.02.27-20.36.53:406][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2024.02.27-20.36.53:406][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2024.02.27-20.36.53:406][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.02.27-20.36.53:406][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2024.02.27-20.36.53:406][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2024.02.27-20.36.53:406][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2024.02.27-20.36.53:406][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.02.27-20.36.53:406][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2024.02.27-20.36.53:406][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2024.02.27-20.36.53:444][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2024.02.27-20.36.53:447][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2024.02.27-20.36.53:488][  0]LogSlate: Took 0.000091 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.02.27-20.36.53:489][  0]LogSlate: Took 0.000079 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2024.02.27-20.36.53:491][  0]LogSlate: Took 0.000077 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.02.27-20.36.53:550][  0]LogRenderer: Reallocating scene render targets to support 1172x572 Format 10 NumSamples 1 (Frame:1).
+[2024.02.27-20.36.53:878][  0]LogSlate: Took 0.000129 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.02.27-20.36.53:921][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2024.02.27-20.36.53:921][  0]LogLoad: (Engine Initialization) Total time: 18.63 seconds
+[2024.02.27-20.36.53:921][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2024.02.27-20.36.53:921][  0]LogInit: First time updating LLM stats...
+[2024.02.27-20.36.53:958][  0]LogAssetRegistry: Asset discovery search completed in 3.3980 seconds
+[2024.02.27-20.36.53:959][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2024.02.27-20.36.53:995][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2024.02.27-20.36.55:276][  4]LogSlate: Took 0.000186 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.02.27-20.36.58:899][207]Cmd: DELETE
+[2024.02.27-20.36.58:901][207]Cmd: ACTOR DELETE
+[2024.02.27-20.36.58:941][207]LogEditorActor: Deleted Actor: IceSpawner_C
+[2024.02.27-20.36.58:946][207]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.02.27-20.36.58:949][207]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2024.02.27-20.37.00:230][339]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2024.02.27-20.37.00:411][339]LogSavePackage: Moving '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/Level145D67FE54066CDA6280FBA8E5C23F8A7.tmp' to '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Level1.umap'
+[2024.02.27-20.37.00:845][339]LogSavePackage: Moving '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/Level1_BuiltData0C6D201F4477E5A48BFE9DB54365E263.tmp' to '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Level1_BuiltData.uasset'
+[2024.02.27-20.37.00:856][339]AssetCheck: New page: Asset Save: multiple assets
+[2024.02.27-20.37.00:856][339]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level1_BuiltData.Level1_BuiltData
+[2024.02.27-20.37.00:856][339]LogContentValidation: Display: Validating World /Game/Level1.Level1
+[2024.02.27-20.37.02:299][504]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2024.02.27-20.37.02:302][504]Candidate modules for hot reload:
+[2024.02.27-20.37.02:303][504]  DroneExp1
+[2024.02.27-20.37.02:303][504]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=DroneExp1,2641 DroneExp1Editor Win64 Development -Project="C:/Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/DroneExp1.uproject" "C:/Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/DroneExp1.uproject"  -IgnoreJunk]
+[2024.02.27-20.37.02:304][504]Warning: Starting HotReload took  0.0s.
+[2024.02.27-20.37.03:972][540]CompilerResultsLog: New page: Compilation - Feb 27, 2024, 10:37:03 AM
+[2024.02.27-20.37.03:972][540]CompilerResultsLog: Building DroneExp1Editor...
+[2024.02.27-20.37.03:972][540]CompilerResultsLog: Using Visual Studio 2019 14.34.31937 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2024.02.27-20.37.03:972][540]CompilerResultsLog: Distributing 3 actions to XGE
+[2024.02.27-20.37.03:972][540]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2024.02.27-20.37.03:972][540]CompilerResultsLog: License is invalid:
+[2024.02.27-20.37.03:972][540]CompilerResultsLog:     License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+[2024.02.27-20.37.03:972][540]CompilerResultsLog:     This build will run in standalone mode.
+[2024.02.27-20.37.03:972][540]CompilerResultsLog: 
+[2024.02.27-20.37.03:972][540]CompilerResultsLog: -------------------------------------------------------------------------------
+[2024.02.27-20.37.03:972][540]CompilerResultsLog: 
+[2024.02.27-20.37.03:972][540]CompilerResultsLog: Build ID: {87D15551-B194-421C-81F0-FCE4DA176AF9}
+[2024.02.27-20.37.03:972][540]CompilerResultsLog: 
+[2024.02.27-20.37.03:972][540]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2024.02.27-20.37.03:972][540]CompilerResultsLog: UE4Editor-DroneExp1-2641.lib (0:00.09 at +0:00)
+[2024.02.27-20.37.03:972][540]CompilerResultsLog:    Creating library C:\Users\admin_faruq\OneDrive - York University\Desktop\Unreal\UNREALxMATLAB\DroneExp1\DroneExp1\Intermediate\Build\Win64\UE4Editor\Development\DroneExp1\UE4Editor-DroneExp1-2641.lib and object C:\Users\admin_faruq\OneDrive - York University\Desktop\Unreal\UNREALxMATLAB\DroneExp1\DroneExp1\Intermediate\Build\Win64\UE4Editor\Development\DroneExp1\UE4Editor-DroneExp1-2641.exp
+[2024.02.27-20.37.03:972][540]CompilerResultsLog: UE4Editor-DroneExp1-2641.dll (0:00.71 at +0:00)
+[2024.02.27-20.37.03:972][540]CompilerResultsLog:    Creating library C:\Users\admin_faruq\OneDrive - York University\Desktop\Unreal\UNREALxMATLAB\DroneExp1\DroneExp1\Intermediate\Build\Win64\UE4Editor\Development\DroneExp1\UE4Editor-DroneExp1-2641.suppressed.lib and object C:\Users\admin_faruq\OneDrive - York University\Desktop\Unreal\UNREALxMATLAB\DroneExp1\DroneExp1\Intermediate\Build\Win64\UE4Editor\Development\DroneExp1\UE4Editor-DroneExp1-2641.suppressed.exp
+[2024.02.27-20.37.03:972][540]CompilerResultsLog: DroneExp1Editor.target (0:00.12 at +0:00)
+[2024.02.27-20.37.03:972][540]CompilerResultsLog: ---------------------- Done ----------------------
+[2024.02.27-20.37.03:972][540]CompilerResultsLog: 
+[2024.02.27-20.37.03:972][540]CompilerResultsLog:     Rebuild All: 1 succeeded, 0 failed, 0 skipped
+[2024.02.27-20.37.03:972][540]CompilerResultsLog: 
+[2024.02.27-20.37.03:972][540]CompilerResultsLog: 1 build system warning(s):
+[2024.02.27-20.37.03:972][540]CompilerResultsLog:    - License is invalid
+[2024.02.27-20.37.03:972][540]CompilerResultsLog: 
+[2024.02.27-20.37.03:972][540]CompilerResultsLog: Total time in XGE executor: 1.07 seconds
+[2024.02.27-20.37.03:972][540]CompilerResultsLog: Total execution time: 1.51 seconds
+[2024.02.27-20.37.03:972][540]LogMainFrame: MainFrame: Module compiling took 1.673 seconds
+[2024.02.27-20.37.03:997][540]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'DroneExp1' in 0.0002 seconds. Added 7 classes and 3 folders.
+[2024.02.27-20.37.03:998][540]Display: HotReload successful (7 functions remapped  0 scriptstructs remapped)
+[2024.02.27-20.37.04:036][540]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0056 seconds. Added 3726 classes and 881 folders.
+[2024.02.27-20.37.04:036][540]Display: HotReload took  1.7s.
+[2024.02.27-20.37.18:932][670]LogTemp: Repeating last play command: Selected Viewport
+[2024.02.27-20.37.18:935][670]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.27-20.37.18:935][670]PIE: New page: PIE session: Level1 (Feb 27, 2024, 10:37:18 AM)
+[2024.02.27-20.37.18:937][670]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2024.02.27-20.37.18:938][670]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2024.02.27-20.37.18:938][670]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level1
+[2024.02.27-20.37.18:989][670]LogPlayLevel: PIE: StaticDuplicateObject took: (0.050902s)
+[2024.02.27-20.37.18:990][670]LogAIModule: Creating AISystem for world Level1
+[2024.02.27-20.37.18:990][670]LogPlayLevel: PIE: World Init took: (0.000918s)
+[2024.02.27-20.37.18:990][670]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1.Level1 to /Game/UEDPIE_0_Level1.Level1 (0.051930s)
+[2024.02.27-20.37.18:993][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.02.27-20.37.18:995][670]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.02.27-20.37.18:995][670]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.27-20.37.18:995][670]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.27-20.37.18:995][670]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.27-20.37.18:995][670]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.27-20.37.18:995][670]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.02.27-20.37.18:995][670]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.27-20.37.18:996][670]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.02.27-20.37.18:996][670]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.27-20.37.18:996][670]LogAudio: Display: Using built-in audio occlusion.
+[2024.02.27-20.37.18:996][670]LogAudioMixer: Display: Initializing audio mixer.
+[2024.02.27-20.37.18:997][670]LogAudioMixer: Display: 0: FrontLeft
+[2024.02.27-20.37.18:997][670]LogAudioMixer: Display: 1: FrontRight
+[2024.02.27-20.37.19:036][670]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2024.02.27-20.37.19:036][670]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.27-20.37.19:036][670]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.27-20.37.19:036][670]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.27-20.37.19:036][670]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.02.27-20.37.19:036][670]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.02.27-20.37.19:036][670]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.02.27-20.37.19:052][670]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.02.27-20.37.19:052][670]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.02.27-20.37.19:052][670]LogInit: FAudioDevice initialized.
+[2024.02.27-20.37.19:052][670]LogAudio: Display: Audio Device (ID: 2) registered with world 'Level1'.
+[2024.02.27-20.37.19:059][670]LogLoad: Game class is 'GameModeBase'
+[2024.02.27-20.37.19:061][670]LogWorld: Bringing World /Game/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2024.02.27-15.37.19
+[2024.02.27-20.37.19:069][670]Sim3dInterfaceLog: Display: Sim3dInterface is ready.
+[2024.02.27-20.37.19:069][670]Sim3dInterfaceLog: Display: An actor with the tag Sim3dLevelScriptActor registered with Sim3dInterface.
+[2024.02.27-20.37.19:070][670]Sim3dInterfaceLog: Display: An actor with the tag SimulinkActor1 registered with Sim3dInterface.
+[2024.02.27-20.37.19:101][670]Sim3dInterfaceLog: Display: ASim3dLevelScriptActor::CreateActorsInScene - Received create message for the actor Camera6.
+[2024.02.27-20.37.19:101][670]Sim3dInterfaceLog: Display: An actor with the tag Camera6 registered with Sim3dInterface.
+[2024.02.27-20.37.19:101][670]Sim3dInterfaceLog: Display: ASim3dLevelScriptActor::CreateActorsInScene - Received create message for the actor Camera4.
+[2024.02.27-20.37.19:101][670]Sim3dInterfaceLog: Display: An actor with the tag Camera4 registered with Sim3dInterface.
+[2024.02.27-20.37.19:101][670]Sim3dInterfaceLog: Display: ASim3dLevelScriptActor::CreateActorsInScene - Received create message for the actor MainCamera1.
+[2024.02.27-20.37.19:101][670]Sim3dInterfaceLog: Display: An actor with the tag MainCamera1 registered with Sim3dInterface.
+[2024.02.27-20.37.19:101][670]Sim3dInterfaceLog: Display: ASim3dLevelScriptActor::CreateActorsInScene - Received create message for the actor SimulinkVehicle1.
+[2024.02.27-20.37.19:101][670]Sim3dInterfaceLog: Display: An actor with the tag SimulinkVehicle1 registered with Sim3dInterface.
+[2024.02.27-20.37.19:101][670]Sim3dInterfaceLog: Display: ASim3dLevelScriptActor::CreateActorsInScene - Received create message for the actor SimulinkVehicle2.
+[2024.02.27-20.37.19:101][670]Sim3dInterfaceLog: Display: An actor with the tag SimulinkVehicle2 registered with Sim3dInterface.
+[2024.02.27-20.37.19:101][670]Sim3dInterfaceLog: Display: Actor Root Actor is pushed to the queue
+[2024.02.27-20.37.19:101][670]Sim3dInterfaceLog: Display: Actor MainCamera1 is pushed to the queue
+[2024.02.27-20.37.19:101][670]Sim3dInterfaceLog: Display: Actor SimulinkVehicle1 is pushed to the queue
+[2024.02.27-20.37.19:101][670]Sim3dInterfaceLog: Display: Actor SimulinkVehicle2 is pushed to the queue
+[2024.02.27-20.37.19:101][670]Sim3dInterfaceLog: Display: Actor Camera4 is pushed to the queue
+[2024.02.27-20.37.19:101][670]Sim3dInterfaceLog: Display: Actor Camera6 is pushed to the queue
+[2024.02.27-20.37.19:101][670]Sim3dInterfaceLog: Display: ASim3dLevelScriptActor::CreateActorsInScene - Actor type id: Sim3dMainCamera.
+[2024.02.27-20.37.19:116][670]Sim3dInterfaceLog: Display: ASim3dLevelScriptActor::CreateActorsInScene - Actor type id: Sim3dQuadRotor.
+[2024.02.27-20.37.19:135][670]Sim3dInterfaceLog: Display: ASim3dLevelScriptActor::CreateActorsInScene - Actor type id: Sim3dQuadRotor.
+[2024.02.27-20.37.19:155][670]Sim3dInterfaceLog: Display: ASim3dLevelScriptActor::CreateActorsInScene - Actor type id: Sim3dCamera.
+[2024.02.27-20.37.19:172][670]Sim3dInterfaceLog: Display: ASim3dLevelScriptActor::CreateActorsInScene - Parent of created actor: Sim3dQuadRotor_0.
+[2024.02.27-20.37.19:172][670]Sim3dInterfaceLog: Display: ASim3dLevelScriptActor::CreateActorsInScene - Actor type id: Sim3dCamera.
+[2024.02.27-20.37.19:189][670]Sim3dInterfaceLog: Display: ASim3dLevelScriptActor::CreateActorsInScene - Parent of created actor: Sim3dQuadRotor_1.
+[2024.02.27-20.37.19:190][670]LogWorld: Bringing up level for play took: 0.130567
+[2024.02.27-20.37.19:190][670]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2024.02.27-20.37.19:205][670]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 20 classes and 0 folders.
+[2024.02.27-20.37.19:206][670]Sim3dInterfaceLog: Display: Mesh : /MathWorksUAVContent/UAVs/Quadrotor_UAV/Mesh/SK_QuadrotorUAV.SK_QuadrotorUAV
+[2024.02.27-20.37.19:206][670]Sim3dInterfaceLog: Display: Color : /MathWorksUAVContent/UAVs/Quadrotor_UAV/Material/M_QuadrotorUAV_BodyBlack.M_QuadrotorUAV_BodyBlack
+[2024.02.27-20.37.19:206][670]Sim3dInterfaceLog: Display: Animation : /MathWorksUAVContent/UAVs/Quadrotor_UAV/Animation/QuadRotorAnimBP.QuadRotorAnimBP_C
+[2024.02.27-20.37.19:206][670]Sim3dInterfaceLog: Display: Size : 8192
+[2024.02.27-20.37.19:384][670]LogUObjectGlobals: Warning: Failed to find object 'MaterialInstance /MathWorksUAVContent/UAVs/Quadrotor_UAV/Material/M_QuadrotorUAV_BodyBlack.M_QuadrotorUAV_BodyBlack'
+[2024.02.27-20.37.19:409][670]Sim3dInterfaceLog: Display: Mesh : /MathWorksUAVContent/UAVs/Quadrotor_UAV/Mesh/SK_QuadrotorUAV.SK_QuadrotorUAV
+[2024.02.27-20.37.19:409][670]Sim3dInterfaceLog: Display: Color : /MathWorksUAVContent/UAVs/Quadrotor_UAV/Material/M_QuadrotorUAV_BodyBlack.M_QuadrotorUAV_BodyBlack
+[2024.02.27-20.37.19:409][670]Sim3dInterfaceLog: Display: Animation : /MathWorksUAVContent/UAVs/Quadrotor_UAV/Animation/QuadRotorAnimBP.QuadRotorAnimBP_C
+[2024.02.27-20.37.19:409][670]Sim3dInterfaceLog: Display: Size : 8192
+[2024.02.27-20.37.19:413][670]PIE: Server logged in
+[2024.02.27-20.37.19:414][670]PIE: Play in editor total start time 0.48 seconds.
+[2024.02.27-20.37.19:445][670]Sim3dInterfaceLog: Display: Sim3dInterface::readCommand - UE4 INITIALIZE, MATLAB RUN
+[2024.02.27-20.37.19:483][671]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2024.02.27-20.37.33:496][ 54]Sim3dInterfaceLog: Display: Sim3dInterface::readCommand - UE4 RUN, MATLAB STOP
+[2024.02.27-20.37.33:579][ 54]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.27-20.37.33:579][ 54]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level1
+[2024.02.27-20.37.33:613][ 54]Sim3dInterfaceLog: Display: Sim3dInterface is closed.
+[2024.02.27-20.37.33:614][ 54]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2024.02.27-20.37.33:615][ 54]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.27-20.37.33:622][ 54]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.27-20.37.33:625][ 54]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.27-20.37.33:628][ 54]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.27-20.37.33:630][ 54]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.02.27-20.37.33:632][ 54]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.02.27-20.37.33:649][ 54]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.27-20.37.33:657][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.02.27-20.37.33:702][ 57]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2024.02.27-20.37.39:523][869]LogTexture: Display: Building textures: WaterVelocityTexture (RGBA16F, 1024X1024)
+[2024.02.27-20.37.39:555][869]Water Texture Update Time: 0.083924 secs
+[2024.02.27-20.37.48:864][419]LogTexture: Display: Building textures: WaterVelocityTexture (RGBA16F, 1024X1024)
+[2024.02.27-20.37.48:894][419]Water Texture Update Time: 0.046298 secs
+[2024.02.27-20.37.51:612][815]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.02.27-20.37.51:764][815]LogSavePackage: Moving '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/Level1F70DCF3A4049054A1994449FA49048B0.tmp' to '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Level1.umap'
+[2024.02.27-20.37.52:089][815]LogSavePackage: Moving '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/Level1_BuiltDataFB4C9BFB4A419EFE6AB0FCBECA5365BC.tmp' to '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Level1_BuiltData.uasset'
+[2024.02.27-20.37.52:097][815]AssetCheck: New page: Asset Save: multiple assets
+[2024.02.27-20.37.52:097][815]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level1_BuiltData.Level1_BuiltData
+[2024.02.27-20.37.52:097][815]LogContentValidation: Display: Validating World /Game/Level1.Level1
+[2024.02.27-20.37.52:789][931]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2024.02.27-20.37.52:791][931]Candidate modules for hot reload:
+[2024.02.27-20.37.52:791][931]  DroneExp1
+[2024.02.27-20.37.52:791][931]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=DroneExp1,7675 DroneExp1Editor Win64 Development -Project="C:/Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/DroneExp1.uproject" "C:/Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/DroneExp1.uproject"  -IgnoreJunk]
+[2024.02.27-20.37.52:793][931]Warning: Starting HotReload took  0.0s.
+[2024.02.27-20.37.54:597][142]CompilerResultsLog: New page: Compilation - Feb 27, 2024, 10:37:54 AM
+[2024.02.27-20.37.54:597][142]CompilerResultsLog: Building DroneExp1Editor...
+[2024.02.27-20.37.54:597][142]CompilerResultsLog: Using Visual Studio 2019 14.34.31937 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2024.02.27-20.37.54:597][142]CompilerResultsLog: Distributing 3 actions to XGE
+[2024.02.27-20.37.54:597][142]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2024.02.27-20.37.54:597][142]CompilerResultsLog: License is invalid:
+[2024.02.27-20.37.54:597][142]CompilerResultsLog:     License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+[2024.02.27-20.37.54:597][142]CompilerResultsLog:     This build will run in standalone mode.
+[2024.02.27-20.37.54:597][142]CompilerResultsLog: 
+[2024.02.27-20.37.54:597][142]CompilerResultsLog: -------------------------------------------------------------------------------
+[2024.02.27-20.37.54:597][142]CompilerResultsLog: 
+[2024.02.27-20.37.54:597][142]CompilerResultsLog: Build ID: {26FDEE16-98A1-41A2-81BF-BBBF1E9A794E}
+[2024.02.27-20.37.54:597][142]CompilerResultsLog: 
+[2024.02.27-20.37.54:597][142]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2024.02.27-20.37.54:597][142]CompilerResultsLog: UE4Editor-DroneExp1-7675.lib (0:00.09 at +0:00)
+[2024.02.27-20.37.54:597][142]CompilerResultsLog:    Creating library C:\Users\admin_faruq\OneDrive - York University\Desktop\Unreal\UNREALxMATLAB\DroneExp1\DroneExp1\Intermediate\Build\Win64\UE4Editor\Development\DroneExp1\UE4Editor-DroneExp1-7675.lib and object C:\Users\admin_faruq\OneDrive - York University\Desktop\Unreal\UNREALxMATLAB\DroneExp1\DroneExp1\Intermediate\Build\Win64\UE4Editor\Development\DroneExp1\UE4Editor-DroneExp1-7675.exp
+[2024.02.27-20.37.54:597][142]CompilerResultsLog: UE4Editor-DroneExp1-7675.dll (0:00.70 at +0:00)
+[2024.02.27-20.37.54:597][142]CompilerResultsLog:    Creating library C:\Users\admin_faruq\OneDrive - York University\Desktop\Unreal\UNREALxMATLAB\DroneExp1\DroneExp1\Intermediate\Build\Win64\UE4Editor\Development\DroneExp1\UE4Editor-DroneExp1-7675.suppressed.lib and object C:\Users\admin_faruq\OneDrive - York University\Desktop\Unreal\UNREALxMATLAB\DroneExp1\DroneExp1\Intermediate\Build\Win64\UE4Editor\Development\DroneExp1\UE4Editor-DroneExp1-7675.suppressed.exp
+[2024.02.27-20.37.54:597][142]CompilerResultsLog: DroneExp1Editor.target (0:00.12 at +0:00)
+[2024.02.27-20.37.54:597][142]CompilerResultsLog: ---------------------- Done ----------------------
+[2024.02.27-20.37.54:597][142]CompilerResultsLog: 
+[2024.02.27-20.37.54:597][142]CompilerResultsLog:     Rebuild All: 1 succeeded, 0 failed, 0 skipped
+[2024.02.27-20.37.54:597][142]CompilerResultsLog: 
+[2024.02.27-20.37.54:597][142]CompilerResultsLog: 1 build system warning(s):
+[2024.02.27-20.37.54:597][142]CompilerResultsLog:    - License is invalid
+[2024.02.27-20.37.54:597][142]CompilerResultsLog: 
+[2024.02.27-20.37.54:597][142]CompilerResultsLog: Total time in XGE executor: 1.28 seconds
+[2024.02.27-20.37.54:597][142]CompilerResultsLog: Total execution time: 1.75 seconds
+[2024.02.27-20.37.54:597][142]LogMainFrame: MainFrame: Module compiling took 1.808 seconds
+[2024.02.27-20.37.54:621][142]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'DroneExp1' in 0.0002 seconds. Added 7 classes and 3 folders.
+[2024.02.27-20.37.54:622][142]Display: HotReload successful (7 functions remapped  0 scriptstructs remapped)
+[2024.02.27-20.37.54:642][142]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0067 seconds. Added 3726 classes and 881 folders.
+[2024.02.27-20.37.54:642][142]Display: HotReload took  1.9s.
+[2024.02.27-20.38.05:819][719]LogTemp: Repeating last play command: Selected Viewport
+[2024.02.27-20.38.05:823][719]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.27-20.38.05:823][719]PIE: New page: PIE session: Level1 (Feb 27, 2024, 10:38:05 AM)
+[2024.02.27-20.38.05:823][719]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level1
+[2024.02.27-20.38.05:872][719]LogPlayLevel: PIE: StaticDuplicateObject took: (0.048702s)
+[2024.02.27-20.38.05:872][719]LogAIModule: Creating AISystem for world Level1
+[2024.02.27-20.38.05:873][719]LogPlayLevel: PIE: World Init took: (0.001035s)
+[2024.02.27-20.38.05:873][719]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1.Level1 to /Game/UEDPIE_0_Level1.Level1 (0.049855s)
+[2024.02.27-20.38.05:877][719]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.02.27-20.38.05:879][719]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.02.27-20.38.05:879][719]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.27-20.38.05:879][719]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.27-20.38.05:879][719]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.27-20.38.05:879][719]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.27-20.38.05:879][719]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.02.27-20.38.05:879][719]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.27-20.38.05:879][719]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.02.27-20.38.05:879][719]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.27-20.38.05:879][719]LogAudio: Display: Using built-in audio occlusion.
+[2024.02.27-20.38.05:879][719]LogAudioMixer: Display: Initializing audio mixer.
+[2024.02.27-20.38.05:881][719]LogAudioMixer: Display: 0: FrontLeft
+[2024.02.27-20.38.05:881][719]LogAudioMixer: Display: 1: FrontRight
+[2024.02.27-20.38.05:920][719]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2024.02.27-20.38.05:920][719]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.27-20.38.05:920][719]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.27-20.38.05:920][719]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.27-20.38.05:921][719]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.02.27-20.38.05:921][719]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.02.27-20.38.05:921][719]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.02.27-20.38.05:937][719]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.02.27-20.38.05:937][719]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.02.27-20.38.05:937][719]LogInit: FAudioDevice initialized.
+[2024.02.27-20.38.05:937][719]LogAudio: Display: Audio Device (ID: 3) registered with world 'Level1'.
+[2024.02.27-20.38.05:942][719]LogLoad: Game class is 'GameModeBase'
+[2024.02.27-20.38.05:944][719]LogWorld: Bringing World /Game/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2024.02.27-15.38.05
+[2024.02.27-20.38.08:982][719]Sim3dInterfaceLog: Display: Sim3dInterface is ready.
+[2024.02.27-20.38.08:982][719]Sim3dInterfaceLog: Display: An actor with the tag Sim3dLevelScriptActor registered with Sim3dInterface.
+[2024.02.27-20.38.08:982][719]Sim3dInterfaceLog: Display: An actor with the tag SimulinkActor1 registered with Sim3dInterface.
+[2024.02.27-20.38.09:024][719]Sim3dInterfaceLog: Display: ASim3dLevelScriptActor::CreateActorsInScene - Received create message for the actor Camera6.
+[2024.02.27-20.38.09:024][719]Sim3dInterfaceLog: Display: An actor with the tag Camera6 registered with Sim3dInterface.
+[2024.02.27-20.38.09:024][719]Sim3dInterfaceLog: Display: ASim3dLevelScriptActor::CreateActorsInScene - Received create message for the actor Camera4.
+[2024.02.27-20.38.09:024][719]Sim3dInterfaceLog: Display: An actor with the tag Camera4 registered with Sim3dInterface.
+[2024.02.27-20.38.09:024][719]Sim3dInterfaceLog: Display: ASim3dLevelScriptActor::CreateActorsInScene - Received create message for the actor MainCamera1.
+[2024.02.27-20.38.09:024][719]Sim3dInterfaceLog: Display: An actor with the tag MainCamera1 registered with Sim3dInterface.
+[2024.02.27-20.38.09:024][719]Sim3dInterfaceLog: Display: ASim3dLevelScriptActor::CreateActorsInScene - Received create message for the actor SimulinkVehicle1.
+[2024.02.27-20.38.09:024][719]Sim3dInterfaceLog: Display: An actor with the tag SimulinkVehicle1 registered with Sim3dInterface.
+[2024.02.27-20.38.09:024][719]Sim3dInterfaceLog: Display: ASim3dLevelScriptActor::CreateActorsInScene - Received create message for the actor SimulinkVehicle2.
+[2024.02.27-20.38.09:024][719]Sim3dInterfaceLog: Display: An actor with the tag SimulinkVehicle2 registered with Sim3dInterface.
+[2024.02.27-20.38.09:024][719]Sim3dInterfaceLog: Display: Actor Root Actor is pushed to the queue
+[2024.02.27-20.38.09:024][719]Sim3dInterfaceLog: Display: Actor MainCamera1 is pushed to the queue
+[2024.02.27-20.38.09:024][719]Sim3dInterfaceLog: Display: Actor SimulinkVehicle1 is pushed to the queue
+[2024.02.27-20.38.09:024][719]Sim3dInterfaceLog: Display: Actor SimulinkVehicle2 is pushed to the queue
+[2024.02.27-20.38.09:024][719]Sim3dInterfaceLog: Display: Actor Camera4 is pushed to the queue
+[2024.02.27-20.38.09:024][719]Sim3dInterfaceLog: Display: Actor Camera6 is pushed to the queue
+[2024.02.27-20.38.09:024][719]Sim3dInterfaceLog: Display: ASim3dLevelScriptActor::CreateActorsInScene - Actor type id: Sim3dMainCamera.
+[2024.02.27-20.38.09:038][719]Sim3dInterfaceLog: Display: ASim3dLevelScriptActor::CreateActorsInScene - Actor type id: Sim3dQuadRotor.
+[2024.02.27-20.38.09:058][719]Sim3dInterfaceLog: Display: ASim3dLevelScriptActor::CreateActorsInScene - Actor type id: Sim3dQuadRotor.
+[2024.02.27-20.38.09:079][719]Sim3dInterfaceLog: Display: ASim3dLevelScriptActor::CreateActorsInScene - Actor type id: Sim3dCamera.
+[2024.02.27-20.38.09:096][719]Sim3dInterfaceLog: Display: ASim3dLevelScriptActor::CreateActorsInScene - Parent of created actor: Sim3dQuadRotor_0.
+[2024.02.27-20.38.09:096][719]Sim3dInterfaceLog: Display: ASim3dLevelScriptActor::CreateActorsInScene - Actor type id: Sim3dCamera.
+[2024.02.27-20.38.09:111][719]Sim3dInterfaceLog: Display: ASim3dLevelScriptActor::CreateActorsInScene - Parent of created actor: Sim3dQuadRotor_1.
+[2024.02.27-20.38.09:111][719]LogWorld: Bringing up level for play took: 3.169845
+[2024.02.27-20.38.09:112][719]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2024.02.27-20.38.09:114][719]Sim3dInterfaceLog: Display: Mesh : /MathWorksUAVContent/UAVs/Quadrotor_UAV/Mesh/SK_QuadrotorUAV.SK_QuadrotorUAV
+[2024.02.27-20.38.09:114][719]Sim3dInterfaceLog: Display: Color : /MathWorksUAVContent/UAVs/Quadrotor_UAV/Material/M_QuadrotorUAV_BodyBlack.M_QuadrotorUAV_BodyBlack
+[2024.02.27-20.38.09:114][719]Sim3dInterfaceLog: Display: Animation : /MathWorksUAVContent/UAVs/Quadrotor_UAV/Animation/QuadRotorAnimBP.QuadRotorAnimBP_C
+[2024.02.27-20.38.09:114][719]Sim3dInterfaceLog: Display: Size : 8192
+[2024.02.27-20.38.09:114][719]Sim3dInterfaceLog: Display: Mesh : /MathWorksUAVContent/UAVs/Quadrotor_UAV/Mesh/SK_QuadrotorUAV.SK_QuadrotorUAV
+[2024.02.27-20.38.09:114][719]Sim3dInterfaceLog: Display: Color : /MathWorksUAVContent/UAVs/Quadrotor_UAV/Material/M_QuadrotorUAV_BodyBlack.M_QuadrotorUAV_BodyBlack
+[2024.02.27-20.38.09:114][719]Sim3dInterfaceLog: Display: Animation : /MathWorksUAVContent/UAVs/Quadrotor_UAV/Animation/QuadRotorAnimBP.QuadRotorAnimBP_C
+[2024.02.27-20.38.09:114][719]Sim3dInterfaceLog: Display: Size : 8192
+[2024.02.27-20.38.09:118][719]PIE: Server logged in
+[2024.02.27-20.38.09:118][719]PIE: Play in editor total start time 3.297 seconds.
+[2024.02.27-20.38.09:132][719]Sim3dInterfaceLog: Display: Sim3dInterface::readCommand - UE4 INITIALIZE, MATLAB RUN
+[2024.02.27-20.38.23:256][ 62]Sim3dInterfaceLog: Display: Sim3dInterface::readCommand - UE4 RUN, MATLAB STOP
+[2024.02.27-20.38.23:328][ 62]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.27-20.38.23:328][ 62]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level1
+[2024.02.27-20.38.23:370][ 62]Sim3dInterfaceLog: Display: Sim3dInterface is closed.
+[2024.02.27-20.38.23:370][ 62]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2024.02.27-20.38.23:371][ 62]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.27-20.38.23:376][ 62]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.27-20.38.23:402][ 62]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.27-20.38.23:406][ 62]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.27-20.38.23:406][ 62]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.02.27-20.38.23:407][ 62]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.02.27-20.38.23:425][ 62]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.27-20.38.23:428][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.02.27-20.38.23:500][ 65]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2024.02.27-20.38.47:284][ 28]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2024.02.27-20.38.47:286][ 28]Candidate modules for hot reload:
+[2024.02.27-20.38.47:287][ 28]  DroneExp1
+[2024.02.27-20.38.47:287][ 28]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=DroneExp1,7885 DroneExp1Editor Win64 Development -Project="C:/Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/DroneExp1.uproject" "C:/Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/DroneExp1.uproject"  -IgnoreJunk]
+[2024.02.27-20.38.47:288][ 28]Warning: Starting HotReload took  0.0s.
+[2024.02.27-20.38.48:905][225]CompilerResultsLog: New page: Compilation - Feb 27, 2024, 10:38:48 AM
+[2024.02.27-20.38.48:905][225]CompilerResultsLog: Building DroneExp1Editor...
+[2024.02.27-20.38.48:905][225]CompilerResultsLog: Using Visual Studio 2019 14.34.31937 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2024.02.27-20.38.48:905][225]CompilerResultsLog: Distributing 3 actions to XGE
+[2024.02.27-20.38.48:905][225]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2024.02.27-20.38.48:905][225]CompilerResultsLog: License is invalid:
+[2024.02.27-20.38.48:905][225]CompilerResultsLog:     License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+[2024.02.27-20.38.48:905][225]CompilerResultsLog:     This build will run in standalone mode.
+[2024.02.27-20.38.48:905][225]CompilerResultsLog: 
+[2024.02.27-20.38.48:905][225]CompilerResultsLog: -------------------------------------------------------------------------------
+[2024.02.27-20.38.48:905][225]CompilerResultsLog: 
+[2024.02.27-20.38.48:905][225]CompilerResultsLog: Build ID: {BD8C4D96-F1E4-4839-8B42-1B635E5AC1A8}
+[2024.02.27-20.38.48:905][225]CompilerResultsLog: 
+[2024.02.27-20.38.48:905][225]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2024.02.27-20.38.48:905][225]CompilerResultsLog: UE4Editor-DroneExp1-7885.lib (0:00.09 at +0:00)
+[2024.02.27-20.38.48:905][225]CompilerResultsLog:    Creating library C:\Users\admin_faruq\OneDrive - York University\Desktop\Unreal\UNREALxMATLAB\DroneExp1\DroneExp1\Intermediate\Build\Win64\UE4Editor\Development\DroneExp1\UE4Editor-DroneExp1-7885.lib and object C:\Users\admin_faruq\OneDrive - York University\Desktop\Unreal\UNREALxMATLAB\DroneExp1\DroneExp1\Intermediate\Build\Win64\UE4Editor\Development\DroneExp1\UE4Editor-DroneExp1-7885.exp
+[2024.02.27-20.38.48:905][225]CompilerResultsLog: UE4Editor-DroneExp1-7885.dll (0:00.75 at +0:00)
+[2024.02.27-20.38.48:905][225]CompilerResultsLog:    Creating library C:\Users\admin_faruq\OneDrive - York University\Desktop\Unreal\UNREALxMATLAB\DroneExp1\DroneExp1\Intermediate\Build\Win64\UE4Editor\Development\DroneExp1\UE4Editor-DroneExp1-7885.suppressed.lib and object C:\Users\admin_faruq\OneDrive - York University\Desktop\Unreal\UNREALxMATLAB\DroneExp1\DroneExp1\Intermediate\Build\Win64\UE4Editor\Development\DroneExp1\UE4Editor-DroneExp1-7885.suppressed.exp
+[2024.02.27-20.38.48:905][225]CompilerResultsLog: DroneExp1Editor.target (0:00.12 at +0:00)
+[2024.02.27-20.38.48:905][225]CompilerResultsLog: ---------------------- Done ----------------------
+[2024.02.27-20.38.48:905][225]CompilerResultsLog: 
+[2024.02.27-20.38.48:905][225]CompilerResultsLog:     Rebuild All: 1 succeeded, 0 failed, 0 skipped
+[2024.02.27-20.38.48:905][225]CompilerResultsLog: 
+[2024.02.27-20.38.48:905][225]CompilerResultsLog: 1 build system warning(s):
+[2024.02.27-20.38.48:905][225]CompilerResultsLog:    - License is invalid
+[2024.02.27-20.38.48:905][225]CompilerResultsLog: 
+[2024.02.27-20.38.48:905][225]CompilerResultsLog: Total time in XGE executor: 1.17 seconds
+[2024.02.27-20.38.48:905][225]CompilerResultsLog: Total execution time: 1.57 seconds
+[2024.02.27-20.38.48:905][225]LogMainFrame: MainFrame: Module compiling took 1.620 seconds
+[2024.02.27-20.38.48:928][225]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'DroneExp1' in 0.0002 seconds. Added 7 classes and 3 folders.
+[2024.02.27-20.38.48:928][225]Display: HotReload successful (7 functions remapped  0 scriptstructs remapped)
+[2024.02.27-20.38.48:949][225]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0056 seconds. Added 3726 classes and 881 folders.
+[2024.02.27-20.38.48:949][225]Display: HotReload took  1.7s.
+[2024.02.27-20.38.55:761][418]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.02.27-20.38.55:910][418]LogSavePackage: Moving '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/Level1AE6832C14CD864C3FE0847909CEFEC44.tmp' to '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Level1.umap'
+[2024.02.27-20.38.56:242][418]LogSavePackage: Moving '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/Level1_BuiltData7A4424ED4BC66A32F25839816B63A3BD.tmp' to '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Level1_BuiltData.uasset'
+[2024.02.27-20.38.56:249][418]AssetCheck: New page: Asset Save: multiple assets
+[2024.02.27-20.38.56:249][418]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level1_BuiltData.Level1_BuiltData
+[2024.02.27-20.38.56:249][418]LogContentValidation: Display: Validating World /Game/Level1.Level1
+[2024.02.27-20.38.58:652][852]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2024.02.27-20.38.58:654][852]Candidate modules for hot reload:
+[2024.02.27-20.38.58:654][852]  DroneExp1
+[2024.02.27-20.38.58:654][852]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=DroneExp1,1027 DroneExp1Editor Win64 Development -Project="C:/Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/DroneExp1.uproject" "C:/Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/DroneExp1.uproject"  -IgnoreJunk]
+[2024.02.27-20.38.58:657][852]Warning: Starting HotReload took  0.0s.
+[2024.02.27-20.39.00:143][  6]CompilerResultsLog: New page: Compilation - Feb 27, 2024, 10:39:00 AM
+[2024.02.27-20.39.00:143][  6]CompilerResultsLog: Building DroneExp1Editor...
+[2024.02.27-20.39.00:143][  6]CompilerResultsLog: Using Visual Studio 2019 14.34.31937 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2024.02.27-20.39.00:143][  6]CompilerResultsLog: Distributing 3 actions to XGE
+[2024.02.27-20.39.00:143][  6]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2024.02.27-20.39.00:143][  6]CompilerResultsLog: License is invalid:
+[2024.02.27-20.39.00:143][  6]CompilerResultsLog:     License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+[2024.02.27-20.39.00:143][  6]CompilerResultsLog:     This build will run in standalone mode.
+[2024.02.27-20.39.00:143][  6]CompilerResultsLog: 
+[2024.02.27-20.39.00:143][  6]CompilerResultsLog: -------------------------------------------------------------------------------
+[2024.02.27-20.39.00:143][  6]CompilerResultsLog: 
+[2024.02.27-20.39.00:143][  6]CompilerResultsLog: Build ID: {51798A7F-B610-4AAF-9D86-21947AC16DED}
+[2024.02.27-20.39.00:143][  6]CompilerResultsLog: 
+[2024.02.27-20.39.00:143][  6]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2024.02.27-20.39.00:143][  6]CompilerResultsLog: UE4Editor-DroneExp1-1027.lib (0:00.07 at +0:00)
+[2024.02.27-20.39.00:143][  6]CompilerResultsLog:    Creating library C:\Users\admin_faruq\OneDrive - York University\Desktop\Unreal\UNREALxMATLAB\DroneExp1\DroneExp1\Intermediate\Build\Win64\UE4Editor\Development\DroneExp1\UE4Editor-DroneExp1-1027.lib and object C:\Users\admin_faruq\OneDrive - York University\Desktop\Unreal\UNREALxMATLAB\DroneExp1\DroneExp1\Intermediate\Build\Win64\UE4Editor\Development\DroneExp1\UE4Editor-DroneExp1-1027.exp
+[2024.02.27-20.39.00:143][  6]CompilerResultsLog: UE4Editor-DroneExp1-1027.dll (0:00.71 at +0:00)
+[2024.02.27-20.39.00:143][  6]CompilerResultsLog:    Creating library C:\Users\admin_faruq\OneDrive - York University\Desktop\Unreal\UNREALxMATLAB\DroneExp1\DroneExp1\Intermediate\Build\Win64\UE4Editor\Development\DroneExp1\UE4Editor-DroneExp1-1027.suppressed.lib and object C:\Users\admin_faruq\OneDrive - York University\Desktop\Unreal\UNREALxMATLAB\DroneExp1\DroneExp1\Intermediate\Build\Win64\UE4Editor\Development\DroneExp1\UE4Editor-DroneExp1-1027.suppressed.exp
+[2024.02.27-20.39.00:143][  6]CompilerResultsLog: DroneExp1Editor.target (0:00.12 at +0:00)
+[2024.02.27-20.39.00:143][  6]CompilerResultsLog: ---------------------- Done ----------------------
+[2024.02.27-20.39.00:143][  6]CompilerResultsLog: 
+[2024.02.27-20.39.00:143][  6]CompilerResultsLog:     Rebuild All: 1 succeeded, 0 failed, 0 skipped
+[2024.02.27-20.39.00:143][  6]CompilerResultsLog: 
+[2024.02.27-20.39.00:143][  6]CompilerResultsLog: 1 build system warning(s):
+[2024.02.27-20.39.00:143][  6]CompilerResultsLog:    - License is invalid
+[2024.02.27-20.39.00:143][  6]CompilerResultsLog: 
+[2024.02.27-20.39.00:143][  6]CompilerResultsLog: Total time in XGE executor: 1.07 seconds
+[2024.02.27-20.39.00:143][  6]CompilerResultsLog: Total execution time: 1.44 seconds
+[2024.02.27-20.39.00:143][  6]LogMainFrame: MainFrame: Module compiling took 1.491 seconds
+[2024.02.27-20.39.00:165][  6]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'DroneExp1' in 0.0002 seconds. Added 7 classes and 3 folders.
+[2024.02.27-20.39.00:166][  6]Display: HotReload successful (7 functions remapped  0 scriptstructs remapped)
+[2024.02.27-20.39.00:186][  6]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0057 seconds. Added 3726 classes and 881 folders.
+[2024.02.27-20.39.00:186][  6]Display: HotReload took  1.5s.
+[2024.02.27-20.39.22:362][245]LogTemp: Repeating last play command: Selected Viewport
+[2024.02.27-20.39.22:366][245]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.27-20.39.22:366][245]PIE: New page: PIE session: Level1 (Feb 27, 2024, 10:39:22 AM)
+[2024.02.27-20.39.22:366][245]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level1
+[2024.02.27-20.39.22:419][245]LogPlayLevel: PIE: StaticDuplicateObject took: (0.052981s)
+[2024.02.27-20.39.22:420][245]LogAIModule: Creating AISystem for world Level1
+[2024.02.27-20.39.22:420][245]LogPlayLevel: PIE: World Init took: (0.000778s)
+[2024.02.27-20.39.22:420][245]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1.Level1 to /Game/UEDPIE_0_Level1.Level1 (0.053876s)
+[2024.02.27-20.39.22:424][245]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2024.02.27-20.39.22:426][245]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.02.27-20.39.22:426][245]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.27-20.39.22:426][245]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.27-20.39.22:426][245]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.27-20.39.22:426][245]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.27-20.39.22:426][245]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.02.27-20.39.22:426][245]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.27-20.39.22:426][245]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.02.27-20.39.22:426][245]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.27-20.39.22:427][245]LogAudio: Display: Using built-in audio occlusion.
+[2024.02.27-20.39.22:427][245]LogAudioMixer: Display: Initializing audio mixer.
+[2024.02.27-20.39.22:429][245]LogAudioMixer: Display: 0: FrontLeft
+[2024.02.27-20.39.22:429][245]LogAudioMixer: Display: 1: FrontRight
+[2024.02.27-20.39.22:467][245]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2024.02.27-20.39.22:467][245]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.27-20.39.22:468][245]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.27-20.39.22:468][245]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.27-20.39.22:468][245]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.02.27-20.39.22:468][245]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.02.27-20.39.22:468][245]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.02.27-20.39.22:483][245]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.02.27-20.39.22:483][245]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.02.27-20.39.22:483][245]LogInit: FAudioDevice initialized.
+[2024.02.27-20.39.22:483][245]LogAudio: Display: Audio Device (ID: 4) registered with world 'Level1'.
+[2024.02.27-20.39.22:491][245]LogLoad: Game class is 'GameModeBase'
+[2024.02.27-20.39.22:493][245]LogWorld: Bringing World /Game/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2024.02.27-15.39.22
+[2024.02.27-20.39.22:525][245]Sim3dInterfaceLog: Display: Sim3dInterface is ready.
+[2024.02.27-20.39.22:525][245]Sim3dInterfaceLog: Display: An actor with the tag Sim3dLevelScriptActor registered with Sim3dInterface.
+[2024.02.27-20.39.22:526][245]Sim3dInterfaceLog: Display: An actor with the tag SimulinkActor1 registered with Sim3dInterface.
+[2024.02.27-20.39.22:552][245]Sim3dInterfaceLog: Display: ASim3dLevelScriptActor::CreateActorsInScene - Received create message for the actor Camera6.
+[2024.02.27-20.39.22:552][245]Sim3dInterfaceLog: Display: An actor with the tag Camera6 registered with Sim3dInterface.
+[2024.02.27-20.39.22:552][245]Sim3dInterfaceLog: Display: ASim3dLevelScriptActor::CreateActorsInScene - Received create message for the actor Camera4.
+[2024.02.27-20.39.22:552][245]Sim3dInterfaceLog: Display: An actor with the tag Camera4 registered with Sim3dInterface.
+[2024.02.27-20.39.22:552][245]Sim3dInterfaceLog: Display: ASim3dLevelScriptActor::CreateActorsInScene - Received create message for the actor MainCamera1.
+[2024.02.27-20.39.22:552][245]Sim3dInterfaceLog: Display: An actor with the tag MainCamera1 registered with Sim3dInterface.
+[2024.02.27-20.39.22:552][245]Sim3dInterfaceLog: Display: ASim3dLevelScriptActor::CreateActorsInScene - Received create message for the actor SimulinkVehicle1.
+[2024.02.27-20.39.22:552][245]Sim3dInterfaceLog: Display: An actor with the tag SimulinkVehicle1 registered with Sim3dInterface.
+[2024.02.27-20.39.22:552][245]Sim3dInterfaceLog: Display: ASim3dLevelScriptActor::CreateActorsInScene - Received create message for the actor SimulinkVehicle2.
+[2024.02.27-20.39.22:552][245]Sim3dInterfaceLog: Display: An actor with the tag SimulinkVehicle2 registered with Sim3dInterface.
+[2024.02.27-20.39.22:552][245]Sim3dInterfaceLog: Display: Actor Root Actor is pushed to the queue
+[2024.02.27-20.39.22:552][245]Sim3dInterfaceLog: Display: Actor MainCamera1 is pushed to the queue
+[2024.02.27-20.39.22:552][245]Sim3dInterfaceLog: Display: Actor SimulinkVehicle1 is pushed to the queue
+[2024.02.27-20.39.22:552][245]Sim3dInterfaceLog: Display: Actor SimulinkVehicle2 is pushed to the queue
+[2024.02.27-20.39.22:552][245]Sim3dInterfaceLog: Display: Actor Camera4 is pushed to the queue
+[2024.02.27-20.39.22:552][245]Sim3dInterfaceLog: Display: Actor Camera6 is pushed to the queue
+[2024.02.27-20.39.22:552][245]Sim3dInterfaceLog: Display: ASim3dLevelScriptActor::CreateActorsInScene - Actor type id: Sim3dMainCamera.
+[2024.02.27-20.39.22:565][245]Sim3dInterfaceLog: Display: ASim3dLevelScriptActor::CreateActorsInScene - Actor type id: Sim3dQuadRotor.
+[2024.02.27-20.39.22:588][245]Sim3dInterfaceLog: Display: ASim3dLevelScriptActor::CreateActorsInScene - Actor type id: Sim3dQuadRotor.
+[2024.02.27-20.39.22:609][245]Sim3dInterfaceLog: Display: ASim3dLevelScriptActor::CreateActorsInScene - Actor type id: Sim3dCamera.
+[2024.02.27-20.39.22:624][245]Sim3dInterfaceLog: Display: ASim3dLevelScriptActor::CreateActorsInScene - Parent of created actor: Sim3dQuadRotor_0.
+[2024.02.27-20.39.22:624][245]Sim3dInterfaceLog: Display: ASim3dLevelScriptActor::CreateActorsInScene - Actor type id: Sim3dCamera.
+[2024.02.27-20.39.22:641][245]Sim3dInterfaceLog: Display: ASim3dLevelScriptActor::CreateActorsInScene - Parent of created actor: Sim3dQuadRotor_1.
+[2024.02.27-20.39.22:641][245]LogWorld: Bringing up level for play took: 0.148613
+[2024.02.27-20.39.22:641][245]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2024.02.27-20.39.22:643][245]LogTemp: Using XML
+[2024.02.27-20.39.22:646][245]LogTemp: Warning: RootNode tag is: IceConcentrations
+[2024.02.27-20.39.22:646][245]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [IcePieceBP1_C]

@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\DroneExp1.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{B01F9F1F-DF01-49C6-BDED-7A81614FE10E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\DroneExp1.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\DroneExp1Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{C76CF88D-8684-474B-B933-94E470019824}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\DroneExp1">
+      <UniqueIdentifier>{BFD5FE09-4C98-4EC7-BE60-EE618478FCDC}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\DroneExp1\DroneExp1.Build.cs">
+      <Filter>Source\DroneExp1</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\DroneExp1\DroneExp1.cpp">
+      <Filter>Source\DroneExp1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DroneExp1\DroneExp1.h">
+      <Filter>Source\DroneExp1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DroneExp1\DroneExp1GameModeBase.cpp">
+      <Filter>Source\DroneExp1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DroneExp1\DroneExp1GameModeBase.h">
+      <Filter>Source\DroneExp1</Filter>
+    </ClInclude>
+    <Filter Include="Source\DroneExp1\Private">
+      <UniqueIdentifier>{D562CF9F-1EAE-459B-AC76-437122776CA0}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\DroneExp1\Private\BuoyancyPlacement.cpp">
+      <Filter>Source\DroneExp1\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\DroneExp1\Private\IceSpawnerClass.cpp">
+      <Filter>Source\DroneExp1\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\DroneExp1\Private\MyBuoyancyComponent.cpp">
+      <Filter>Source\DroneExp1\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\DroneExp1\Private\MyShipAnimInstance.cpp">
+      <Filter>Source\DroneExp1\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\DroneExp1\Private\MySim3dActor.cpp">
+      <Filter>Source\DroneExp1\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\DroneExp1\Public">
+      <UniqueIdentifier>{E517649C-B520-4106-9AB5-50DB68C644A7}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\DroneExp1\Public\BuoyancyPlacement.h">
+      <Filter>Source\DroneExp1\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\DroneExp1\Public\IceSpawnerClass.h">
+      <Filter>Source\DroneExp1\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\DroneExp1\Public\MyBuoyancyComponent.h">
+      <Filter>Source\DroneExp1\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\DroneExp1\Public\MyShipAnimInstance.h">
+      <Filter>Source\DroneExp1\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\DroneExp1\Public\MySim3dActor.h">
+      <Filter>Source\DroneExp1\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

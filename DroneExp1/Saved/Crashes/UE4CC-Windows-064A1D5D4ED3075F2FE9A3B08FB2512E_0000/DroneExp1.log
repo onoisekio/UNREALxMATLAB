@@ -1,0 +1,1692 @@
+﻿Log file open, 06/20/23 11:50:34
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: DroneExp1
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 59 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.559599
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin BlueprintMaterialTextureNodes
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin Landmass
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin Water
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin MathWorksSimulation
+LogPluginManager: Mounting plugin MathWorksAutomotiveContent
+LogPluginManager: Mounting plugin MathWorksUAVContent
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cleaning working directory: C:/Users/admin_faruq/AppData/Local/Temp/UnrealXGEWorkingDir/
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+Sim3dInterfaceLog: Display: Sim3dInterface was constructed successfully.
+Sim3dInterfaceLog: Display: Sim3dInterface is not ready.
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: 12th Gen Intel(R) Core(TM) i7-12700, GPU: NVIDIA RTX A2000
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/admin_faruq/OneDrive - York University/Desktop/UNREALxMATLAB/DroneExp1/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
+[2023.06.20-15.50.47:776][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2023.06.20-15.50.47:776][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2023.06.20-15.50.47:776][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/admin_faruq/OneDrive - York University/Desktop/UNREALxMATLAB/DroneExp1/Saved/Config/Windows/Engine.ini]
+[2023.06.20-15.50.47:776][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2023.06.20-15.50.47:776][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/admin_faruq/OneDrive - York University/Desktop/UNREALxMATLAB/DroneExp1/Saved/Config/Windows/Engine.ini]
+[2023.06.20-15.50.47:776][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/admin_faruq/OneDrive - York University/Desktop/UNREALxMATLAB/DroneExp1/Saved/Config/Windows/Engine.ini]
+[2023.06.20-15.50.47:776][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2023.06.20-15.50.47:776][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2023.06.20-15.50.47:776][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2023.06.20-15.50.47:776][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2023.06.20-15.50.47:776][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2023.06.20-15.50.47:776][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2023.06.20-15.50.47:776][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2023.06.20-15.50.47:776][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2023.06.20-15.50.47:776][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2023.06.20-15.50.47:776][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2023.06.20-15.50.47:776][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2023.06.20-15.50.47:776][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2023.06.20-15.50.47:776][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2023.06.20-15.50.47:776][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2023.06.20-15.50.47:776][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/admin_faruq/OneDrive - York University/Desktop/UNREALxMATLAB/DroneExp1/Saved/Config/Windows/Engine.ini]
+[2023.06.20-15.50.47:776][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2023.06.20-15.50.47:776][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2023.06.20-15.50.47:776][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2023.06.20-15.50.47:776][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2023.06.20-15.50.47:776][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2023.06.20-15.50.47:776][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2023.06.20-15.50.47:776][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2023.06.20-15.50.47:776][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2023.06.20-15.50.47:776][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2023.06.20-15.50.47:776][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2023.06.20-15.50.47:776][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2023.06.20-15.50.47:776][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2023.06.20-15.50.47:776][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2023.06.20-15.50.47:776][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2023.06.20-15.50.47:776][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/admin_faruq/OneDrive - York University/Desktop/UNREALxMATLAB/DroneExp1/Saved/Config/Windows/Engine.ini]
+[2023.06.20-15.50.47:776][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/admin_faruq/OneDrive - York University/Desktop/UNREALxMATLAB/DroneExp1/Saved/Config/Windows/Engine.ini]
+[2023.06.20-15.50.47:787][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/admin_faruq/OneDrive - York University/Desktop/UNREALxMATLAB/DroneExp1/Saved/Config/Windows/Scalability.ini]
+[2023.06.20-15.50.47:787][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.06.20-15.50.47:787][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.06.20-15.50.47:787][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/admin_faruq/OneDrive - York University/Desktop/UNREALxMATLAB/DroneExp1/Saved/Config/Windows/Scalability.ini]
+[2023.06.20-15.50.47:787][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.06.20-15.50.47:787][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/admin_faruq/OneDrive - York University/Desktop/UNREALxMATLAB/DroneExp1/Saved/Config/Windows/Scalability.ini]
+[2023.06.20-15.50.47:787][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.06.20-15.50.47:787][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.06.20-15.50.47:787][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.06.20-15.50.47:787][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.06.20-15.50.47:787][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.06.20-15.50.47:787][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.06.20-15.50.47:787][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.06.20-15.50.47:787][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.06.20-15.50.47:787][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.06.20-15.50.47:787][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.06.20-15.50.47:787][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.06.20-15.50.47:787][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.06.20-15.50.47:787][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.06.20-15.50.47:787][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.06.20-15.50.47:787][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.06.20-15.50.47:787][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.06.20-15.50.47:787][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.06.20-15.50.47:787][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.06.20-15.50.47:787][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/admin_faruq/OneDrive - York University/Desktop/UNREALxMATLAB/DroneExp1/Saved/Config/Windows/Scalability.ini]
+[2023.06.20-15.50.47:787][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.06.20-15.50.47:787][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.06.20-15.50.47:787][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.06.20-15.50.47:787][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.06.20-15.50.47:787][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.06.20-15.50.47:787][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.06.20-15.50.47:787][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.06.20-15.50.47:787][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.06.20-15.50.47:787][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.06.20-15.50.47:787][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.06.20-15.50.47:787][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.06.20-15.50.47:787][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.06.20-15.50.47:787][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.06.20-15.50.47:787][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.06.20-15.50.47:787][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.06.20-15.50.47:787][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.06.20-15.50.47:787][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.06.20-15.50.47:787][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.06.20-15.50.47:787][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.06.20-15.50.47:787][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.06.20-15.50.47:787][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.06.20-15.50.47:787][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.06.20-15.50.47:787][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.06.20-15.50.47:787][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.06.20-15.50.47:787][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.06.20-15.50.47:787][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.06.20-15.50.47:787][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.06.20-15.50.47:787][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.06.20-15.50.47:787][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.06.20-15.50.47:787][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.06.20-15.50.47:787][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/admin_faruq/OneDrive - York University/Desktop/UNREALxMATLAB/DroneExp1/Saved/Config/Windows/Scalability.ini]
+[2023.06.20-15.50.47:787][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.06.20-15.50.47:787][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.06.20-15.50.47:787][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.06.20-15.50.47:787][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.06.20-15.50.47:787][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.06.20-15.50.47:787][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.06.20-15.50.47:787][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.06.20-15.50.47:787][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.06.20-15.50.47:787][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.06.20-15.50.47:787][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/admin_faruq/OneDrive - York University/Desktop/UNREALxMATLAB/DroneExp1/Saved/Config/Windows/Scalability.ini]
+[2023.06.20-15.50.47:787][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.06.20-15.50.47:787][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.06.20-15.50.47:787][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.06.20-15.50.47:787][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.06.20-15.50.47:787][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.06.20-15.50.47:787][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.06.20-15.50.47:788][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.06.20-15.50.47:788][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.06.20-15.50.47:788][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.06.20-15.50.47:788][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.06.20-15.50.47:788][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.06.20-15.50.47:788][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.06.20-15.50.47:788][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.06.20-15.50.47:788][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.06.20-15.50.47:788][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.06.20-15.50.47:788][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.06.20-15.50.47:788][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.06.20-15.50.47:788][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.06.20-15.50.47:788][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.06.20-15.50.47:788][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.06.20-15.50.47:788][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.06.20-15.50.47:788][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.06.20-15.50.47:788][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.06.20-15.50.47:788][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.06.20-15.50.47:788][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.06.20-15.50.47:788][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.06.20-15.50.47:788][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.06.20-15.50.47:788][  0]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2023.06.20-15.50.47:788][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/admin_faruq/OneDrive - York University/Desktop/UNREALxMATLAB/DroneExp1/Saved/Config/Windows/Scalability.ini]
+[2023.06.20-15.50.47:788][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.06.20-15.50.47:788][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.06.20-15.50.47:788][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/admin_faruq/OneDrive - York University/Desktop/UNREALxMATLAB/DroneExp1/Saved/Config/Windows/Scalability.ini]
+[2023.06.20-15.50.47:788][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.06.20-15.50.47:788][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.06.20-15.50.47:788][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.06.20-15.50.47:788][  0]LogInit: Selected Device Profile: [Windows]
+[2023.06.20-15.50.47:788][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2023.06.20-15.50.47:788][  0]LogHAL: Display: Platform has ~ 16 GB [16853479424 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.06.20-15.50.47:788][  0]LogInit: Going up to parent DeviceProfile []
+[2023.06.20-15.50.47:788][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/admin_faruq/OneDrive - York University/Desktop/UNREALxMATLAB/DroneExp1/Saved/Config/Windows/Scalability.ini]
+[2023.06.20-15.50.47:788][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.06.20-15.50.47:788][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.06.20-15.50.47:788][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/admin_faruq/OneDrive - York University/Desktop/UNREALxMATLAB/DroneExp1/Saved/Config/Windows/Scalability.ini]
+[2023.06.20-15.50.47:788][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.06.20-15.50.47:788][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/admin_faruq/OneDrive - York University/Desktop/UNREALxMATLAB/DroneExp1/Saved/Config/Windows/Scalability.ini]
+[2023.06.20-15.50.47:788][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.06.20-15.50.47:788][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.06.20-15.50.47:788][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.06.20-15.50.47:788][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.06.20-15.50.47:788][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.06.20-15.50.47:788][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.06.20-15.50.47:788][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.06.20-15.50.47:788][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.06.20-15.50.47:788][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.06.20-15.50.47:788][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.06.20-15.50.47:788][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.06.20-15.50.47:788][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.06.20-15.50.47:788][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.06.20-15.50.47:788][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.06.20-15.50.47:788][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.06.20-15.50.47:788][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.06.20-15.50.47:788][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.06.20-15.50.47:788][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.06.20-15.50.47:788][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/admin_faruq/OneDrive - York University/Desktop/UNREALxMATLAB/DroneExp1/Saved/Config/Windows/Scalability.ini]
+[2023.06.20-15.50.47:788][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.06.20-15.50.47:788][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.06.20-15.50.47:788][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.06.20-15.50.47:788][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.06.20-15.50.47:789][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.06.20-15.50.47:789][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.06.20-15.50.47:789][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.06.20-15.50.47:789][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.06.20-15.50.47:789][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.06.20-15.50.47:789][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.06.20-15.50.47:789][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.06.20-15.50.47:789][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.06.20-15.50.47:789][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.06.20-15.50.47:789][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.06.20-15.50.47:789][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.06.20-15.50.47:789][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.06.20-15.50.47:789][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.06.20-15.50.47:789][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.06.20-15.50.47:789][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.06.20-15.50.47:789][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.06.20-15.50.47:789][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.06.20-15.50.47:789][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.06.20-15.50.47:789][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.06.20-15.50.47:789][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.06.20-15.50.47:789][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.06.20-15.50.47:789][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.06.20-15.50.47:789][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.06.20-15.50.47:789][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.06.20-15.50.47:789][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.06.20-15.50.47:789][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.06.20-15.50.47:789][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/admin_faruq/OneDrive - York University/Desktop/UNREALxMATLAB/DroneExp1/Saved/Config/Windows/Scalability.ini]
+[2023.06.20-15.50.47:789][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.06.20-15.50.47:789][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.06.20-15.50.47:789][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.06.20-15.50.47:789][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.06.20-15.50.47:789][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.06.20-15.50.47:789][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.06.20-15.50.47:789][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.06.20-15.50.47:789][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.06.20-15.50.47:789][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.06.20-15.50.47:789][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/admin_faruq/OneDrive - York University/Desktop/UNREALxMATLAB/DroneExp1/Saved/Config/Windows/Scalability.ini]
+[2023.06.20-15.50.47:789][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.06.20-15.50.47:789][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.06.20-15.50.47:789][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.06.20-15.50.47:789][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.06.20-15.50.47:789][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.06.20-15.50.47:789][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.06.20-15.50.47:789][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.06.20-15.50.47:789][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.06.20-15.50.47:789][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.06.20-15.50.47:789][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.06.20-15.50.47:789][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.06.20-15.50.47:789][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.06.20-15.50.47:789][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.06.20-15.50.47:789][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.06.20-15.50.47:789][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.06.20-15.50.47:789][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.06.20-15.50.47:789][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.06.20-15.50.47:789][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.06.20-15.50.47:789][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.06.20-15.50.47:789][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.06.20-15.50.47:789][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.06.20-15.50.47:789][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.06.20-15.50.47:789][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.06.20-15.50.47:789][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.06.20-15.50.47:789][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.06.20-15.50.47:789][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.06.20-15.50.47:789][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.06.20-15.50.47:789][  0]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2023.06.20-15.50.47:789][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/admin_faruq/OneDrive - York University/Desktop/UNREALxMATLAB/DroneExp1/Saved/Config/Windows/Scalability.ini]
+[2023.06.20-15.50.47:789][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.06.20-15.50.47:789][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.06.20-15.50.47:789][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/admin_faruq/OneDrive - York University/Desktop/UNREALxMATLAB/DroneExp1/Saved/Config/Windows/Scalability.ini]
+[2023.06.20-15.50.47:789][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.06.20-15.50.47:789][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.06.20-15.50.47:789][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.06.20-15.50.47:789][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.06.20-15.50.47:793][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2023.06.20-15.50.47:793][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2023.06.20-15.50.47:793][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2023.06.20-15.50.47:793][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/admin_faruq/OneDrive - York University/Desktop/UNREALxMATLAB/DroneExp1/Saved/Config/Windows/Engine.ini]
+[2023.06.20-15.50.47:793][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/admin_faruq/OneDrive - York University/Desktop/UNREALxMATLAB/DroneExp1/Saved/Config/Windows/Editor.ini]
+[2023.06.20-15.50.47:793][  0]LogInit: Computer: CHRONOS
+[2023.06.20-15.50.47:793][  0]LogInit: User: adminfaruq
+[2023.06.20-15.50.47:793][  0]LogInit: CPU Page size=4096, Cores=12
+[2023.06.20-15.50.47:793][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.06.20-15.50.47:793][  0]LogMemory: Memory total: Physical=15.7GB (16GB approx)
+[2023.06.20-15.50.47:793][  0]LogMemory: Platform Memory Stats for Windows
+[2023.06.20-15.50.47:793][  0]LogMemory: Process Physical Memory: 180.61 MB used, 180.61 MB peak
+[2023.06.20-15.50.47:793][  0]LogMemory: Process Virtual Memory: 136.79 MB used, 136.79 MB peak
+[2023.06.20-15.50.47:793][  0]LogMemory: Physical Memory: 11739.23 MB used,  4333.50 MB free, 16072.73 MB total
+[2023.06.20-15.50.47:793][  0]LogMemory: Virtual Memory: 134214496.00 MB used,  3233.61 MB free, 134217728.00 MB total
+[2023.06.20-15.50.47:801][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.06.20-15.50.48:002][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2023.06.20-15.50.48:004][  0]LogInit: Using OS detected language (en-US).
+[2023.06.20-15.50.48:004][  0]LogInit: Using OS detected locale (en-US).
+[2023.06.20-15.50.48:019][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2023.06.20-15.50.48:227][  0]LogInit: Setting process to per monitor DPI aware
+[2023.06.20-15.50.48:245][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.06.20-15.50.48:283][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.06.20-15.50.48:283][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.06.20-15.50.49:423][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.06.20-15.50.49:423][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2023.06.20-15.50.49:423][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2023.06.20-15.50.49:423][  0]LogD3D11RHI: D3D11 adapters:
+[2023.06.20-15.50.49:558][  0]LogD3D11RHI:    0. 'NVIDIA RTX A2000' (Feature Level 11_0)
+[2023.06.20-15.50.49:558][  0]LogD3D11RHI:       6004/0/8036 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2023.06.20-15.50.49:611][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 770' (Feature Level 11_0)
+[2023.06.20-15.50.49:611][  0]LogD3D11RHI:       128/0/8036 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2023.06.20-15.50.49:620][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2023.06.20-15.50.49:620][  0]LogD3D11RHI:       0/0/8036 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2023.06.20-15.50.49:620][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2023.06.20-15.50.49:626][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2023.06.20-15.50.49:626][  0]LogD3D11RHI:     GPU DeviceId: 0x2531 (for the marketing name, search the web for "GPU Device Id")
+[2023.06.20-15.50.49:626][  0]LogWindows: EnumDisplayDevices:
+[2023.06.20-15.50.49:627][  0]LogWindows:    0. 'NVIDIA RTX A2000' (P:1 D:1)
+[2023.06.20-15.50.49:627][  0]LogWindows:    1. 'NVIDIA RTX A2000' (P:0 D:1)
+[2023.06.20-15.50.49:627][  0]LogWindows:    2. 'NVIDIA RTX A2000' (P:0 D:0)
+[2023.06.20-15.50.49:627][  0]LogWindows:    3. 'NVIDIA RTX A2000' (P:0 D:0)
+[2023.06.20-15.50.49:627][  0]LogWindows:    4. 'Intel(R) UHD Graphics 770' (P:0 D:0)
+[2023.06.20-15.50.49:627][  0]LogWindows:    5. 'Intel(R) UHD Graphics 770' (P:0 D:0)
+[2023.06.20-15.50.49:628][  0]LogWindows:    6. 'Intel(R) UHD Graphics 770' (P:0 D:0)
+[2023.06.20-15.50.49:628][  0]LogWindows:    7. 'Intel(R) UHD Graphics 770' (P:0 D:0)
+[2023.06.20-15.50.49:628][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2023.06.20-15.50.49:628][  0]LogD3D11RHI:     Adapter Name: NVIDIA RTX A2000
+[2023.06.20-15.50.49:628][  0]LogD3D11RHI:   Driver Version: 528.86 (internal:31.0.15.2886, unified:528.86)
+[2023.06.20-15.50.49:628][  0]LogD3D11RHI:      Driver Date: 3-22-2023
+[2023.06.20-15.50.49:628][  0]LogRHI: Texture pool is 4202 MB (70% of 6004 MB)
+[2023.06.20-15.50.49:721][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2023.06.20-15.50.49:721][  0]LogD3D11RHI: Async texture creation enabled
+[2023.06.20-15.50.49:721][  0]LogD3D11RHI: Array index from any shader is supported
+[2023.06.20-15.50.49:736][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2023.06.20-15.50.49:738][  0]LogRHI: GeForceNow SDK initialized: 1
+[2023.06.20-15.50.50:164][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2023.06.20-15.50.50:191][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.06.20-15.50.50:191][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.06.20-15.50.50:191][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.06.20-15.50.50:191][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.06.20-15.50.50:191][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.06.20-15.50.50:191][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.06.20-15.50.50:191][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.06.20-15.50.50:191][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.06.20-15.50.50:191][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.06.20-15.50.50:191][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.06.20-15.50.50:242][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.06.20-15.50.50:242][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.06.20-15.50.50:263][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.06.20-15.50.50:280][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2023.06.20-15.50.50:297][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.06.20-15.50.50:313][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.06.20-15.50.50:330][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2023.06.20-15.50.50:350][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2023.06.20-15.50.50:366][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2023.06.20-15.50.50:399][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2023.06.20-15.50.50:399][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2023.06.20-15.50.50:414][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2023.06.20-15.50.50:434][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2023.06.20-15.50.50:450][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2023.06.20-15.50.50:465][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2023.06.20-15.50.50:485][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.06.20-15.50.50:485][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.06.20-15.50.50:502][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2023.06.20-15.50.50:522][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.06.20-15.50.50:538][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.06.20-15.50.50:554][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.06.20-15.50.50:554][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2023.06.20-15.50.50:610][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.06.20-15.50.50:953][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.06.20-15.50.50:953][  0]LogShaderCompilers: Guid format shader working directory is -43 characters bigger than the processId version (../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/UNREALxMATLAB/DroneExp1/Intermediate/Shaders/WorkingDirectory/13832/).
+[2023.06.20-15.50.50:953][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/admin_faruq/AppData/Local/Temp/UnrealShaderWorkingDir/194098634D9784F6B05CDDBFEF51AF41/'.
+[2023.06.20-15.50.50:953][  0]LogShaderCompilers: Display: Using XGE Controller for Shader Compilation.
+[2023.06.20-15.50.52:752][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2023.06.20-15.50.52:808][  0]LogDerivedDataCache: Loaded boot cache 0.06s 81MB C:/Users/admin_faruq/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2023.06.20-15.50.52:808][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/admin_faruq/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2023.06.20-15.50.52:808][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/UNREALxMATLAB/DroneExp1/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.06.20-15.50.52:808][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2023.06.20-15.50.52:808][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/UNREALxMATLAB/DroneExp1/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.06.20-15.50.52:808][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2023.06.20-15.50.52:819][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2023.06.20-15.50.52:819][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.06.20-15.50.52:819][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2023.06.20-15.50.52:860][  0]LogDerivedDataCache: Speed tests for C:/Users/admin_faruq/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.04 seconds
+[2023.06.20-15.50.52:860][  0]LogDerivedDataCache: Display: Performance to C:/Users/admin_faruq/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.11ms. RandomReadSpeed=49.53MBs, RandomWriteSpeed=45.53MBs. Assigned SpeedClass 'Local'
+[2023.06.20-15.50.52:861][  0]LogDerivedDataCache: Using Local data cache path C:/Users/admin_faruq/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.06.20-15.50.52:861][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.06.20-15.50.52:861][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2023.06.20-15.50.52:890][  0]LogSlate: Using FreeType 2.10.0
+[2023.06.20-15.50.52:896][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.06.20-15.50.52:952][  0]LogAssetRegistry: FAssetRegistry took 0.0032 seconds to start up
+[2023.06.20-15.50.53:214][  0]LogInit: Selected Device Profile: [Windows]
+[2023.06.20-15.50.53:214][  0]LogInit: Active device profile: [000001A1DA216100][000001A1D838A740 49] Windows
+[2023.06.20-15.50.53:214][  0]LogInit: Profiles: [000001A1DA216100][000001A1D838A740 49] Windows, [000001A1DA214100][000001A1D83928C0 49] WindowsNoEditor, [000001A1DA214F00][000001A1D8396A40 49] WindowsServer, [000001A1DA214200][000001A1D839ABC0 49] WindowsClient, [000001A1DA1AFE00][000001A1D839ED40 49] IOS, [000001A1DA1ABF00][000001A1D83A2EC0 49] iPadAir, [000001A1DA1AC500][000001A1D83A7040 49] iPadAir2, [000001A1DA14D900][000001A1D83B5300 49] IPadPro, [000001A1DA14DA00][000001A1D83AB340 49] iPadAir3, [000001A1DA1AF900][000001A1D83BF4C0 49] iPadAir4, [000001A1DA14C600][000001A1D83C3640 49] iPadMini2, [000001A1DA1AC800][000001A1D838F780 49] iPadMini3, [000001A1DA14E100][000001A1D83C78C0 49] iPadMini4, [000001A1DA1AF500][000001A1D83CBA00 49] iPadMini5, [000001A1DA1A8B00][000001A1D83D7CC0 49] iPhone6, [000001A1DA1A8A00][000001A1D83D3D00 49] iPodTouch6, [000001A1DA14C200][000001A1D83DE300 49] iPhone7, [000001A1DA14C300][000001A1D83DA340 49] iPodTouch7, [000001A1DA1A9800][000001A1D83E24C0 49] iPhone5S, [000001A1DA14D400][000001A1D83E6640 49] iPhone6Plus, [000001A1DA1AA400][000001A1D83EA7C0 49] iPhone6S, [000001A1DA14CE00][000001A1D83EE940 49] iPhone6SPlus, [000001A1DA1AB700][000001A1D83F2AC0 49] iPhone7Plus, [000001A1DA14C400][000001A1D83F6C40 49] iPhoneSE, [000001A1DA1AB500][000001A1D83FADC0 49] iPhone8, [000001A1DA14DF00][000001A1D83FEF40 49] iPhone8Plus, [000001A1DA1A8800][000001A1D84030C0 49] iPhoneX, [000001A1DA14C700][000001A1D8407240 49] iPhoneXS, [000001A1DA1AAC00][000001A1D840B3C0 49] iPhoneXSMax, [000001A1DA14EF00][000001A1D840F540 49] iPhoneXR, [000001A1DA1A9400][000001A1D84136C0 49] iPhone11, [000001A1DA14E200][000001A1D83CF800 49] iPhone11Pro, [000001A1DA1AA500][000001A1D8417940 49] iPhone11ProMax, [000001A1DA14E300][000001A1D841BA80 49] iPhoneSE2, [000001A1DA1AAA00][000001A1D8423C00 49] iPhone12Mini, [000001A1DA14FE00][000001A1D84260C0 49] iPhone12, [000001A1DA1AA900][000001A1D842A240 49] iPhone12Pro, [000001A1DA14E000][000001A1D842E3C0 49] iPhone12ProMax, [000001A1DA1ABD00][000001A1D8432540 49] iPadPro105, [000001A1DA14E700][000001A1D84366C0 49] iPadPro129, [000001A1DA1A8E00][000001A1D843A840 49] iPadPro97, [000001A1DA14F000][000001A1D7D329C0 49] iPadPro2_129, [000001A1DA1A9B00][000001A1D7D36B40 49] iPad5, [000001A1DA14F600][000001A1D7D3ACC0 49] iPad6, [000001A1DA1A9F00][000001A1D7D3EE40 49] iPad7, [000001A1DA14D500][000001A1D7D42FC0 49] iPad8, [000001A1DA1A8900][000001A1D7D47140 49] iPadPro11, [000001A1DA14DB00][000001A1D7D4B2C0 49] iPadPro2_11, [000001A1DA1A8200][000001A1D7D4F440 49] iPadPro3_129, [000001A1DA14F100][000001A1D7D535C0 49] iPadPro4_129, [000001A1DA1A8100][000001A1D7D57740 49] AppleTV, [000001A1DA14F200][000001A1D841F880 49] AppleTV4K, [000001A1DA1AA800][000001A1D7D5B9C0 49] TVOS, [000001A1DA14DC00][000001A1D7D5FB00 49] Mac, [000001A1DA1A9000][000001A1D7D6FC40 49] MacClient, [000001A1DA14EE00][000001A1D7D96100 49] MacNoEditor, [000001A1DA1AA100][000001A1D7D9A280 49] MacServer, [000001A1DA14F700][000001A1D7D9E400 49] Linux, [000001A1DA1AB100][000001A1D7DA2580 49] LinuxAArch64, [000001A1DA14C900][000001A1D7DA6700 49] LinuxNoEditor, [000001A1DA1ABC00][000001A1D7DAA880 49] LinuxAArch64NoEditor, [000001A1DA14C500][000001A1D7DAEA00 49] LinuxClient, [000001A1DA1ABB00][000001A1D7DB2B80 49] LinuxAArch64Client, [000001A1DA14E600][000001A1D7DB6D00 49] LinuxServer, [000001A1DA1AB600][000001A1D7DBAE80 49] LinuxAArch64Server, [000001A1DA14EA00][000001A1D7DBF000 49] Android, [000001A1DA1AA000][000001A1D7DC3180 49] Android_Low, [000001A1DA215000][000001A1D7DC7300 49] Android_Mid, [000001A1DA1ADD00][000001A1D7DCB480 49] Android_High, [000001A1DA214D00][000001A1D7DCF600 49] Android_Default, [000001A1DA1AEE00][000001A1D7DD3780 49] Android_Adreno4xx, [000001A1DA215700][000001A1D7D938C0 49] Android_Adreno5xx_Low, [000001A1DA1AD200][000001A1D7DD7A00 49] Android_Adreno5xx, [000001A1DA216400][000001A1D7DDBB40 49] Android_Adreno6xx, [000001A1DA1AC900][000001A1D7DDFC80 49] Android_Adreno6xx_Vulkan, [000001A1DA214600][000001A1D7DE6140 49] Android_Mali_T6xx, [000001A1DA1AE700][000001A1D7DEA2C0 49] Android_Mali_T7xx, [000001A1DA215A00][000001A1D7DEE440 49] Android_Mali_T8xx, [000001A1DA1AE200][000001A1D7DF25C0 49] Android_Mali_G71, [000001A1DA216200][000001A1D7DF6740 49] Android_Mali_G72, [000001A1DA1AE600][000001A1D7DFA8C0 49] Android_Mali_G72_Vulkan, [000001A1DA215C00][000001A1D7DFEA40 49] Android_Mali_G76, [000001A1DA1AD300][000001A1D7E02BC0 49] Android_Mali_G76_Vulkan, [000001A1DA214700][000001A1D7E06D40 49] Android_Mali_G77, [000001A1DA1AFC00][000001A1D7E0AEC0 49] Android_Mali_G77_Vulkan, [000001A1DA215300][000001A1D7E0F040 49] Android_Vulkan_SM5, [000001A1DA1AD600][000001A1D7E131C0 49] Android_PowerVR_G6xxx, [000001A1DA215B00][000001A1D7E17340 49] Android_PowerVR_GT7xxx, [000001A1DA1AEC00][000001A1D7E1B4C0 49] Android_PowerVR_GE8xxx, [000001A1DA214400][000001A1D7E1F640 49] Android_PowerVR_GM9xxx, [000001A1DA1AF400][000001A1D7E237C0 49] Android_PowerVR_GM9xxx_Vulkan, [000001A1DA1AB800][000001A1D7E27940 49] Android_TegraK1, [000001A1DA14C800][000001A1D7DE3A80 49] Android_Unknown_Vulkan, [000001A1DA1A9200][000001A1D7E2BBC0 49] Lumin, [000001A1DA14F400][000001A1D7E2FD00 49] Lumin_Desktop, [000001A1DA1AA200][000001A1D7E361C0 49] HoloLens, 
+[2023.06.20-15.50.53:460][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.06.20-15.50.53:460][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.06.20-15.50.53:460][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.06.20-15.50.53:460][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.06.20-15.50.53:460][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.06.20-15.50.53:496][  0]LogNetVersion: DroneExp1 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 126652168)
+[2023.06.20-15.50.54:394][  0]Sim3dVehicleLightingLog: Display: Creating LightModule
+[2023.06.20-15.50.54:394][  0]Sim3dVehicleLightingLog: Display: Creating LightModule
+[2023.06.20-15.50.54:394][  0]Sim3dVehicleLightingLog: Display: Creating LightModule
+[2023.06.20-15.50.54:408][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2023.06.20-15.50.54:557][  0]LogPackageLocalizationCache: Processed 27 localized package path(s) for 1 prioritized culture(s) in 0.148989 seconds
+[2023.06.20-15.50.54:561][  0]LogUObjectArray: 17926 objects as part of root set at end of initial load.
+[2023.06.20-15.50.54:561][  0]LogUObjectAllocator: 5619216 out of 0 bytes used by permanent object pool.
+[2023.06.20-15.50.54:561][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.06.20-15.50.55:895][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.06.20-15.50.55:912][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.06.20-15.50.56:381][  0]SourceControl: Source control is disabled
+[2023.06.20-15.50.56:381][  0]SourceControl: Source control is disabled
+[2023.06.20-15.50.56:416][  0]SourceControl: Source control is disabled
+[2023.06.20-15.50.56:433][  0]SourceControl: Source control is disabled
+[2023.06.20-15.50.56:463][  0]SourceControl: Source control is disabled
+[2023.06.20-15.50.56:488][  0]LogUProjectInfo: Found projects:
+[2023.06.20-15.50.57:421][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.06.20-15.50.57:506][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.06.20-15.50.57:506][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.06.20-15.50.57:760][  0]LogCollectionManager: Loaded 0 collections in 0.001198 seconds
+[2023.06.20-15.50.57:792][  0]LogFileCache: Scanning file cache for directory 'C:/Users/admin_faruq/OneDrive - York University/Desktop/UNREALxMATLAB/DroneExp1/Saved/Collections/' took 0.00s
+[2023.06.20-15.50.57:792][  0]LogFileCache: Scanning file cache for directory 'C:/Users/admin_faruq/OneDrive - York University/Desktop/UNREALxMATLAB/DroneExp1/Content/Developers/adminfaruq/Collections/' took 0.00s
+[2023.06.20-15.50.57:792][  0]LogFileCache: Scanning file cache for directory 'C:/Users/admin_faruq/OneDrive - York University/Desktop/UNREALxMATLAB/DroneExp1/Content/Collections/' took 0.00s
+[2023.06.20-15.50.57:792][  0]Sim3dVehicleLightingLog: Display: Creating LightModule
+[2023.06.20-15.50.57:792][  0]Sim3dVehicleLightingLog: Display: Creating LightModule
+[2023.06.20-15.50.57:793][  0]Sim3dVehicleLightingLog: Display: Creating LightModule
+[2023.06.20-15.50.57:849][  0]LogOcInput: OculusInput pre-init called
+[2023.06.20-15.50.57:889][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2023.06.20-15.50.57:889][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2023.06.20-15.50.58:009][  0]LogEngine: Initializing Engine...
+[2023.06.20-15.50.58:012][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.06.20-15.50.58:012][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2023.06.20-15.50.58:013][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.06.20-15.50.58:154][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.06.20-15.50.58:191][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.06.20-15.50.58:191][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.06.20-15.50.58:211][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.06.20-15.50.58:211][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.06.20-15.50.58:211][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.20-15.50.58:211][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.20-15.50.58:211][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.20-15.50.58:211][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.20-15.50.58:211][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.20-15.50.58:211][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.06.20-15.50.58:211][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.20-15.50.58:211][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.20-15.50.58:212][  0]LogAudio: Display: Using built-in audio occlusion.
+[2023.06.20-15.50.58:212][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2023.06.20-15.50.58:289][  0]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.20-15.50.58:289][  0]LogAudioMixer: Display: 1: FrontRight
+[2023.06.20-15.50.58:393][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.06.20-15.50.58:395][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.20-15.50.58:404][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.20-15.50.58:404][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.20-15.50.58:405][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.06.20-15.50.58:405][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.06.20-15.50.58:405][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.06.20-15.50.58:406][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.06.20-15.50.58:406][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.06.20-15.50.58:406][  0]LogInit: FAudioDevice initialized.
+[2023.06.20-15.50.58:407][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.06.20-15.50.58:407][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.06.20-15.50.58:449][  0]LogDerivedDataCache: Saved boot cache 0.04s 81MB C:/Users/admin_faruq/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2023.06.20-15.50.58:452][  0]LogInit: Texture streaming: Enabled
+[2023.06.20-15.50.58:505][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2023.06.20-15.50.58:524][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.06.20-15.50.58:525][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=AbnormalShutdown, SessionId={F5947C00-4CF5-DABB-CC71-DC90DCD3133C}
+[2023.06.20-15.50.58:525][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2023.06.20-15.50.58:537][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2023.06.20-15.50.58:640][  0]LogInit: Transaction tracking system initialized
+[2023.06.20-15.50.58:754][  0]BlueprintLog: New page: Editor Load
+[2023.06.20-15.50.59:143][  0]LocalizationService: Localization service is disabled
+[2023.06.20-15.50.59:270][  0]TimingProfiler: Initialize
+[2023.06.20-15.50.59:271][  0]TimingProfiler: OnSessionChanged
+[2023.06.20-15.50.59:271][  0]LoadingProfiler: Initialize
+[2023.06.20-15.50.59:271][  0]LoadingProfiler: OnSessionChanged
+[2023.06.20-15.50.59:271][  0]NetworkingProfiler: Initialize
+[2023.06.20-15.50.59:271][  0]NetworkingProfiler: OnSessionChanged
+[2023.06.20-15.50.59:271][  0]MemoryProfiler: Initialize
+[2023.06.20-15.50.59:271][  0]MemoryProfiler: OnSessionChanged
+[2023.06.20-15.50.59:683][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2023.06.20-15.50.59:683][  0]LogCook: Display: Mobile HDR setting 1
+[2023.06.20-15.50.59:869][  0]LogFileCache: Scanning file cache for directory 'C:/Users/admin_faruq/OneDrive - York University/Desktop/UNREALxMATLAB/DroneExp1/Content/' took 0.01s
+[2023.06.20-15.51.00:522][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.06.20-15.51.00:529][  0]SourceControl: Source control is disabled
+[2023.06.20-15.51.00:529][  0]LogUnrealEdMisc: Loading editor; pre map load, took 27.657
+[2023.06.20-15.51.00:531][  0]Cmd: MAP LOAD FILE="../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/UNREALxMATLAB/DroneExp1/Content/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.06.20-15.51.00:533][  0]LightingResults: New page: Lighting Build
+[2023.06.20-15.51.00:534][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.06.20-15.51.00:534][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.20-15.51.00:534][  0]MapCheck: New page: Map Check
+[2023.06.20-15.51.00:534][  0]LightingResults: New page: Lighting Build
+[2023.06.20-15.51.00:539][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.06.20-15.51.01:252][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level1'.
+[2023.06.20-15.51.01:253][  0]LogAIModule: Creating AISystem for world Level1
+[2023.06.20-15.51.01:452][  0]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_11] 77
+[2023.06.20-15.51.01:452][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.06.20-15.51.01:458][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.06.20-15.51.01:458][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.06.20-15.51.01:459][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.179ms to complete.
+[2023.06.20-15.51.01:459][  0]LogFileHelpers: Loading map 'Level1' took 0.929
+[2023.06.20-15.51.01:463][  0]LogUnrealEdMisc: Total Editor Startup Time, took 28.590
+[2023.06.20-15.51.01:624][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.20-15.51.01:628][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.20-15.51.01:632][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.20-15.51.01:638][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.20-15.51.01:664][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0080 seconds. Added 3724 classes and 881 folders.
+[2023.06.20-15.51.01:668][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2023.06.20-15.51.01:678][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.06.20-15.51.01:678][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.06.20-15.51.01:678][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.06.20-15.51.01:678][  0]LogPakFile: OnPakFileMounted2Time == 0.000008
+[2023.06.20-15.51.01:681][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2023.06.20-15.51.01:681][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.06.20-15.51.01:681][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2023.06.20-15.51.01:681][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2023.06.20-15.51.01:685][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2023.06.20-15.51.01:685][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.06.20-15.51.01:685][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2023.06.20-15.51.01:685][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2023.06.20-15.51.01:690][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.06.20-15.51.01:690][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.06.20-15.51.01:690][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.06.20-15.51.01:690][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2023.06.20-15.51.01:692][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2023.06.20-15.51.01:692][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.06.20-15.51.01:692][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2023.06.20-15.51.01:692][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2023.06.20-15.51.01:695][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2023.06.20-15.51.01:695][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.06.20-15.51.01:695][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2023.06.20-15.51.01:695][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2023.06.20-15.51.01:698][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2023.06.20-15.51.01:698][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.06.20-15.51.01:698][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2023.06.20-15.51.01:698][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2023.06.20-15.51.01:703][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2023.06.20-15.51.01:703][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.06.20-15.51.01:703][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2023.06.20-15.51.01:703][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2023.06.20-15.51.01:707][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.06.20-15.51.01:707][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.06.20-15.51.01:707][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.06.20-15.51.01:707][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2023.06.20-15.51.01:710][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2023.06.20-15.51.01:710][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.06.20-15.51.01:710][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2023.06.20-15.51.01:710][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2023.06.20-15.51.01:713][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2023.06.20-15.51.01:713][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.06.20-15.51.01:713][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2023.06.20-15.51.01:713][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2023.06.20-15.51.01:718][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.06.20-15.51.01:718][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.06.20-15.51.01:718][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.06.20-15.51.01:718][  0]LogPakFile: OnPakFileMounted2Time == 0.000047
+[2023.06.20-15.51.01:721][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.06.20-15.51.01:721][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.06.20-15.51.01:721][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.06.20-15.51.01:721][  0]LogPakFile: OnPakFileMounted2Time == 0.000051
+[2023.06.20-15.51.01:724][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.06.20-15.51.01:724][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.06.20-15.51.01:725][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.06.20-15.51.01:725][  0]LogPakFile: OnPakFileMounted2Time == 0.000053
+[2023.06.20-15.51.01:727][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2023.06.20-15.51.01:727][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.06.20-15.51.01:727][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2023.06.20-15.51.01:727][  0]LogPakFile: OnPakFileMounted2Time == 0.000055
+[2023.06.20-15.51.01:730][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.06.20-15.51.01:730][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.06.20-15.51.01:730][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.06.20-15.51.01:730][  0]LogPakFile: OnPakFileMounted2Time == 0.000058
+[2023.06.20-15.51.01:734][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2023.06.20-15.51.01:734][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.06.20-15.51.01:734][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2023.06.20-15.51.01:734][  0]LogPakFile: OnPakFileMounted2Time == 0.000062
+[2023.06.20-15.51.01:736][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.06.20-15.51.01:736][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.06.20-15.51.01:736][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.06.20-15.51.01:737][  0]LogPakFile: OnPakFileMounted2Time == 0.000065
+[2023.06.20-15.51.01:740][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.06.20-15.51.01:740][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.06.20-15.51.01:740][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.06.20-15.51.01:740][  0]LogPakFile: OnPakFileMounted2Time == 0.000069
+[2023.06.20-15.51.01:742][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.06.20-15.51.01:742][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.06.20-15.51.01:742][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.06.20-15.51.01:742][  0]LogPakFile: OnPakFileMounted2Time == 0.000072
+[2023.06.20-15.51.01:745][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.06.20-15.51.01:745][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.06.20-15.51.01:745][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.06.20-15.51.01:745][  0]LogPakFile: OnPakFileMounted2Time == 0.000076
+[2023.06.20-15.51.01:748][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.06.20-15.51.01:748][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.06.20-15.51.01:748][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.06.20-15.51.01:748][  0]LogPakFile: OnPakFileMounted2Time == 0.000079
+[2023.06.20-15.51.01:752][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2023.06.20-15.51.01:752][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.06.20-15.51.01:752][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2023.06.20-15.51.01:752][  0]LogPakFile: OnPakFileMounted2Time == 0.000083
+[2023.06.20-15.51.01:757][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.06.20-15.51.01:757][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.06.20-15.51.01:757][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.06.20-15.51.01:757][  0]LogPakFile: OnPakFileMounted2Time == 0.000086
+[2023.06.20-15.51.01:760][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.06.20-15.51.01:760][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.06.20-15.51.01:760][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.06.20-15.51.01:760][  0]LogPakFile: OnPakFileMounted2Time == 0.000089
+[2023.06.20-15.51.01:762][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2023.06.20-15.51.01:762][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.06.20-15.51.01:762][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2023.06.20-15.51.01:762][  0]LogPakFile: OnPakFileMounted2Time == 0.000091
+[2023.06.20-15.51.01:988][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2023.06.20-15.51.01:992][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2023.06.20-15.51.02:038][  0]LogSlate: Took 0.004608 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.06.20-15.51.02:042][  0]LogSlate: Took 0.002268 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.06.20-15.51.02:046][  0]LogSlate: Took 0.002159 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.06.20-15.51.02:141][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2023.06.20-15.51.02:196][  0]LogSlate: Took 0.003231 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.06.20-15.51.02:415][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2023.06.20-15.51.02:415][  0]LogLoad: (Engine Initialization) Total time: 29.54 seconds
+[2023.06.20-15.51.02:415][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.06.20-15.51.02:415][  0]LogInit: First time updating LLM stats...
+[2023.06.20-15.51.02:450][  0]LogAssetRegistry: Asset discovery search completed in 9.4986 seconds
+[2023.06.20-15.51.02:451][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000006 seconds (updated 0 objects)
+[2023.06.20-15.51.02:476][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.06.20-15.51.02:570][  7]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.51.03:435][110]LogSlate: Took 0.000663 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.06.20-15.51.25:820][750]LogEditorViewport: Clicking on Actor (LMB): BuoyancyPlacementTestBP_C (BuoyancyPlacementTestBP)
+[2023.06.20-15.51.26:781][862]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_11] 77
+[2023.06.20-15.51.27:139][905]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_11] 77
+[2023.06.20-15.51.42:844][467]LogTemp: Repeating last play command: Selected Viewport
+[2023.06.20-15.51.42:856][467]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.20-15.51.42:856][467]PIE: New page: PIE session: Level1 (Jun 20, 2023, 7:51:42 AM)
+[2023.06.20-15.51.42:858][467]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2023.06.20-15.51.42:859][467]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.06.20-15.51.42:859][467]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level1
+[2023.06.20-15.51.42:881][467]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021514s)
+[2023.06.20-15.51.42:882][467]LogAIModule: Creating AISystem for world Level1
+[2023.06.20-15.51.42:882][467]LogPlayLevel: PIE: World Init took: (0.000919s)
+[2023.06.20-15.51.42:882][467]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1.Level1 to /Game/UEDPIE_0_Level1.Level1 (0.022548s)
+[2023.06.20-15.51.42:888][467]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.06.20-15.51.42:888][467]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.06.20-15.51.42:888][467]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.20-15.51.42:888][467]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.20-15.51.42:888][467]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.20-15.51.42:888][467]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.20-15.51.42:888][467]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.20-15.51.42:888][467]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.06.20-15.51.42:888][467]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.20-15.51.42:888][467]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.20-15.51.42:888][467]LogAudio: Display: Using built-in audio occlusion.
+[2023.06.20-15.51.42:888][467]LogAudioMixer: Display: Initializing audio mixer.
+[2023.06.20-15.51.42:891][467]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.20-15.51.42:891][467]LogAudioMixer: Display: 1: FrontRight
+[2023.06.20-15.51.42:937][467]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.06.20-15.51.42:937][467]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.20-15.51.42:937][467]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.20-15.51.42:937][467]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.20-15.51.42:938][467]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.06.20-15.51.42:938][467]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.06.20-15.51.42:938][467]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.06.20-15.51.42:954][467]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.06.20-15.51.42:954][467]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.06.20-15.51.42:954][467]LogInit: FAudioDevice initialized.
+[2023.06.20-15.51.42:954][467]LogAudio: Display: Audio Device (ID: 2) registered with world 'Level1'.
+[2023.06.20-15.51.42:965][467]LogLoad: Game class is 'GameModeBase'
+[2023.06.20-15.51.42:967][467]LogWorld: Bringing World /Game/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2023.06.20-11.51.42
+[2023.06.20-15.51.42:994][467]Sim3dInterfaceLog: Display: Sim3dInterface is ready.
+[2023.06.20-15.51.42:994][467]Sim3dInterfaceLog: Display: An actor with the tag Sim3dLevelScriptActor registered with Sim3dInterface.
+[2023.06.20-15.51.43:033][467]Sim3dInterfaceLog: Display: ASim3dLevelScriptActor::CreateActorsInScene - Received create message for the actor SimulinkVehicle1.
+[2023.06.20-15.51.43:033][467]Sim3dInterfaceLog: Display: An actor with the tag SimulinkVehicle1 registered with Sim3dInterface.
+[2023.06.20-15.51.43:033][467]Sim3dInterfaceLog: Display: ASim3dLevelScriptActor::CreateActorsInScene - Received create message for the actor MainCamera1.
+[2023.06.20-15.51.43:033][467]Sim3dInterfaceLog: Display: An actor with the tag MainCamera1 registered with Sim3dInterface.
+[2023.06.20-15.51.43:033][467]Sim3dInterfaceLog: Display: ASim3dLevelScriptActor::CreateActorsInScene - Received create message for the actor Camera4.
+[2023.06.20-15.51.43:033][467]Sim3dInterfaceLog: Display: An actor with the tag Camera4 registered with Sim3dInterface.
+[2023.06.20-15.51.43:033][467]Sim3dInterfaceLog: Display: ASim3dLevelScriptActor::CreateActorsInScene - Received create message for the actor Camera5.
+[2023.06.20-15.51.43:033][467]Sim3dInterfaceLog: Display: An actor with the tag Camera5 registered with Sim3dInterface.
+[2023.06.20-15.51.43:033][467]Sim3dInterfaceLog: Display: ASim3dLevelScriptActor::CreateActorsInScene - Received create message for the actor Lidar3.
+[2023.06.20-15.51.43:033][467]Sim3dInterfaceLog: Display: An actor with the tag Lidar3 registered with Sim3dInterface.
+[2023.06.20-15.51.43:033][467]Sim3dInterfaceLog: Display: Actor Root Actor is pushed to the queue
+[2023.06.20-15.51.43:033][467]Sim3dInterfaceLog: Display: Actor SimulinkVehicle1 is pushed to the queue
+[2023.06.20-15.51.43:033][467]Sim3dInterfaceLog: Display: Actor MainCamera1 is pushed to the queue
+[2023.06.20-15.51.43:033][467]Sim3dInterfaceLog: Display: Actor Camera4 is pushed to the queue
+[2023.06.20-15.51.43:033][467]Sim3dInterfaceLog: Display: Actor Camera5 is pushed to the queue
+[2023.06.20-15.51.43:033][467]Sim3dInterfaceLog: Display: Actor Lidar3 is pushed to the queue
+[2023.06.20-15.51.43:033][467]Sim3dInterfaceLog: Display: ASim3dLevelScriptActor::CreateActorsInScene - Actor type id: Sim3dQuadRotor.
+[2023.06.20-15.51.43:092][467]Sim3dInterfaceLog: Display: ASim3dLevelScriptActor::CreateActorsInScene - Actor type id: Sim3dMainCamera.
+[2023.06.20-15.51.43:131][467]Sim3dInterfaceLog: Display: ASim3dLevelScriptActor::CreateActorsInScene - Actor type id: Sim3dCamera.
+[2023.06.20-15.51.43:174][467]Sim3dInterfaceLog: Display: ASim3dLevelScriptActor::CreateActorsInScene - Parent of created actor: Sim3dQuadRotor_0.
+[2023.06.20-15.51.43:174][467]Sim3dInterfaceLog: Display: ASim3dLevelScriptActor::CreateActorsInScene - Actor type id: Sim3dCamera.
+[2023.06.20-15.51.43:219][467]Sim3dInterfaceLog: Display: ASim3dLevelScriptActor::CreateActorsInScene - Parent of created actor: Sim3dQuadRotor_0.
+[2023.06.20-15.51.43:219][467]Sim3dInterfaceLog: Display: ASim3dLevelScriptActor::CreateActorsInScene - Actor type id: Sim3dLidar.
+[2023.06.20-15.51.43:263][467]Sim3dInterfaceLog: Display: ASim3dLevelScriptActor::CreateActorsInScene - Parent of created actor: Sim3dQuadRotor_0.
+[2023.06.20-15.51.43:263][467]LogWorld: Bringing up level for play took: 0.297567
+[2023.06.20-15.51.43:263][467]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2023.06.20-15.51.43:268][467]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 20 classes and 0 folders.
+[2023.06.20-15.51.43:269][467]Sim3dInterfaceLog: Display: Mesh : /MathWorksUAVContent/UAVs/Quadrotor_UAV/Mesh/SK_QuadrotorUAV.SK_QuadrotorUAV
+[2023.06.20-15.51.43:269][467]Sim3dInterfaceLog: Display: Color : /MathWorksUAVContent/UAVs/Quadrotor_UAV/Material/M_QuadrotorUAV_BodyBlack.M_QuadrotorUAV_BodyBlack
+[2023.06.20-15.51.43:269][467]Sim3dInterfaceLog: Display: Animation : /MathWorksUAVContent/UAVs/Quadrotor_UAV/Animation/QuadRotorAnimBP.QuadRotorAnimBP_C
+[2023.06.20-15.51.43:269][467]Sim3dInterfaceLog: Display: Size : 8192
+[2023.06.20-15.51.43:437][467]LogUObjectGlobals: Warning: Failed to find object 'MaterialInstance /MathWorksUAVContent/UAVs/Quadrotor_UAV/Material/M_QuadrotorUAV_BodyBlack.M_QuadrotorUAV_BodyBlack'
+[2023.06.20-15.51.43:462][467]PIE: Server logged in
+[2023.06.20-15.51.43:463][467]PIE: Play in editor total start time 0.611 seconds.
+[2023.06.20-15.51.43:495][467]Sim3dInterfaceLog: Display: Sim3dInterface::readCommand - UE4 INITIALIZE, MATLAB RUN
+[2023.06.20-15.51.43:569][468]LogRenderer: Reallocating scene render targets to support 2048x684 Format 10 NumSamples 1 (Frame:1).
+[2023.06.20-15.51.43:577][468]LogRenderer: Reallocating scene render targets to support 2048x720 Format 10 NumSamples 1 (Frame:1).
+[2023.06.20-15.51.53:915][865]LogSlate: Took 0.002245 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.06.20-15.51.59:410][136]Sim3dInterfaceLog: Display: Sim3dInterface::readCommand - UE4 RUN, MATLAB STOP
+[2023.06.20-15.51.59:569][136]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.20-15.51.59:569][136]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level1
+[2023.06.20-15.51.59:698][136]Sim3dInterfaceLog: Display: Sim3dInterface is closed.
+[2023.06.20-15.51.59:698][136]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.06.20-15.51.59:698][136]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.20-15.51.59:708][136]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.20-15.51.59:714][136]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.20-15.51.59:718][136]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.20-15.51.59:718][136]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.20-15.51.59:719][136]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.20-15.51.59:738][136]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.20-15.51.59:741][136]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.06.20-15.51.59:817][142]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2023.06.20-15.52.13:706][ 73]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Objects/BuoyancyPlacementTestBP.BuoyancyPlacementTestBP
+[2023.06.20-15.52.14:014][ 73]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01.uasset: Failed to load '/Game/BeachScene/Effects/Niagara/RT_Foam': Can't find file.
+[2023.06.20-15.52.14:015][ 73]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01.uasset: Failed to load '/Game/BeachScene/Effects/Niagara/RT_Foam': Can't find file.
+[2023.06.20-15.52.14:015][ 73]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01.uasset: Failed to load '/Game/BeachScene/Effects/Niagara/RT_Foam': Can't find file.
+[2023.06.20-15.52.14:298][ 73]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01.uasset: Failed to load '/Game/BeachScene/Effects/Niagara/RT_Foam': Can't find file.
+[2023.06.20-15.52.14:298][ 73]LoadErrors: Failed to load /Game/BeachScene/Effects/Niagara/RT_Foam.RT_Foam Referenced by M_Fluid_Sim_01
+[2023.06.20-15.52.14:300][ 73]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01.uasset: Failed to load '/Game/BeachScene/Effects/Niagara/RT_Foam': Can't find file.
+[2023.06.20-15.52.14:300][ 73]LoadErrors: Failed to load /Game/BeachScene/Effects/Niagara/RT_Foam.RT_Foam Referenced by MaterialExpressionTextureSample_1
+[2023.06.20-15.52.14:315][ 73]LogMaterial: Display: Missing cached shader map for material M_Fluid_Sim_01, compiling. 
+[2023.06.20-15.52.14:319][ 73]LogMaterial: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.06.20-15.52.14:319][ 73]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.06.20-15.52.14:320][ 73]LogMaterial: Display: Missing cached shader map for material M_Fluid_Sim_01, compiling. 
+[2023.06.20-15.52.14:322][ 73]LogMaterial: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01_NoTerrain.uasset: Failed to compile Material Instance with Base M_Fluid_Sim_01 for platform PCD3D_SM5, Default Material will be used in game.
+[2023.06.20-15.52.14:322][ 73]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.06.20-15.52.14:384][ 73]LogBlueprintEditor: Perf: 0.6 total seconds to load all 7 blueprint libraries in project. Avoid references to content in blueprint libraries to shorten this time.
+[2023.06.20-15.52.14:384][ 73]LogBlueprintEditor: Perf: 0.5 seconds loading: /Water/FluidSimulation/Blueprints/Libraries/PhysicsMacros
+[2023.06.20-15.52.14:552][ 73]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0003 seconds. Added 126 classes and 0 folders.
+[2023.06.20-15.52.15:133][ 73]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.15:140][ 73]LogSlate: Took 0.002489 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.06.20-15.52.15:203][ 74]LogSlate: Took 0.003059 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.06.20-15.52.18:717][460]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_11] 77
+[2023.06.20-15.52.18:717][460]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.18:718][460]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.20:239][628]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.25:852][303]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.25:860][304]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.25:869][305]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.25:878][306]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.25:886][307]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.25:895][308]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.25:902][309]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.25:912][310]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.25:920][311]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.25:929][312]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.25:938][313]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.25:946][314]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.25:955][315]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.25:962][316]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.25:971][317]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.25:980][318]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.25:989][319]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.25:998][320]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:006][321]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:015][322]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:023][323]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:031][324]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:039][325]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:048][326]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:057][327]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:065][328]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:074][329]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:082][330]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:090][331]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:098][332]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:106][333]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:114][334]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:123][335]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:132][336]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:141][337]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:149][338]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:158][339]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:167][340]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:175][341]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:183][342]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:192][343]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:200][344]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:209][345]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:216][346]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:225][347]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:233][348]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:241][349]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:250][350]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:258][351]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:266][352]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:273][353]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:281][354]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:291][355]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:299][356]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:307][357]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:315][358]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:323][359]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:331][360]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:339][361]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:348][362]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:356][363]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:365][364]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:373][365]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:381][366]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:390][367]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:399][368]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:407][369]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:415][370]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:423][371]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:431][372]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:439][373]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:450][374]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:457][375]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:466][376]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:475][377]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:483][378]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:491][379]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:498][380]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:507][381]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:517][382]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:525][383]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:534][384]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:543][385]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:551][386]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:559][387]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:567][388]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:575][389]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:584][390]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:593][391]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:601][392]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:609][393]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:618][394]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:626][395]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:635][396]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:643][397]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:651][398]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:659][399]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:668][400]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:676][401]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:684][402]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:693][403]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:701][404]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:709][405]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:717][406]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:726][407]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:734][408]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:742][409]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:751][410]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:760][411]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:767][412]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:776][413]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:784][414]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:791][415]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:801][416]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:810][417]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:819][418]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:827][419]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:835][420]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:843][421]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:852][422]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:859][423]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:869][424]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:877][425]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:886][426]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:893][427]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:901][428]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:910][429]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:919][430]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:927][431]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:935][432]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:944][433]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:952][434]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:960][435]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:969][436]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:977][437]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:985][438]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.26:993][439]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:031][575]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:039][576]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:047][577]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:055][578]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:063][579]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:072][580]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:081][581]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:089][582]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:097][583]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:105][584]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:114][585]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:122][586]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:130][587]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:140][588]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:148][589]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:157][590]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:164][591]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:173][592]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:181][593]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:190][594]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:198][595]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:206][596]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:215][597]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:223][598]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:231][599]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:239][600]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:247][601]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:255][602]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:263][603]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:272][604]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:280][605]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:289][606]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:298][607]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:306][608]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:314][609]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:323][610]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:330][611]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:339][612]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:346][613]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:354][614]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:362][615]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:370][616]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:379][617]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:387][618]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:395][619]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:403][620]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:411][621]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:420][622]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:428][623]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:437][624]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:445][625]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:453][626]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:462][627]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:469][628]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:478][629]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:486][630]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:494][631]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:502][632]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:510][633]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:519][634]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:527][635]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:536][636]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:544][637]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:552][638]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:560][639]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:569][640]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:576][641]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:585][642]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:592][643]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:601][644]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:609][645]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:617][646]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:626][647]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:633][648]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:642][649]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:650][650]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:658][651]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:666][652]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:674][653]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:683][654]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:691][655]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:699][656]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:708][657]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:716][658]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:724][659]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:732][660]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:741][661]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:749][662]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:757][663]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:765][664]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:773][665]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:781][666]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:790][667]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:798][668]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:806][669]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:814][670]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:822][671]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:831][672]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:840][673]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:848][674]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:856][675]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:864][676]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:871][677]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:879][678]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:888][679]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:896][680]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:904][681]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:913][682]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:921][683]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:929][684]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:937][685]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:945][686]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:953][687]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:961][688]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:969][689]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:979][690]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:987][691]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.28:995][692]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.29:003][693]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.29:011][694]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.29:020][695]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.29:029][696]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.29:037][697]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.29:045][698]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.29:052][699]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.29:061][700]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.29:070][701]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.29:078][702]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.29:086][703]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.29:094][704]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.29:102][705]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.29:111][706]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.29:119][707]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.29:127][708]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.29:136][709]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.29:144][710]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.29:152][711]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.29:161][712]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.29:169][713]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.29:177][714]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.29:185][715]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.29:193][716]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.29:201][717]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.29:210][718]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.29:219][719]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.29:227][720]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.29:236][721]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.29:244][722]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.29:252][723]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.29:260][724]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.29:269][725]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.29:276][726]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.29:284][727]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.29:294][728]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.29:302][729]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.29:310][730]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.29:319][731]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.29:327][732]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.29:335][733]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.29:865][802]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.29:874][803]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.29:883][804]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.29:891][805]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.29:899][806]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.29:907][807]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.29:915][808]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.29:924][809]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.29:933][810]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.29:941][811]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.29:949][812]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.29:958][813]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.29:967][814]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.29:976][815]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.29:984][816]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.29:992][817]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:001][818]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:009][819]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:018][820]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:026][821]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:036][822]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:045][823]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:052][824]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:061][825]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:070][826]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:078][827]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:086][828]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:095][829]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:102][830]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:111][831]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:120][832]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:128][833]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:137][834]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:145][835]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:152][836]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:161][837]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:169][838]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:178][839]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:186][840]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:195][841]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:203][842]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:212][843]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:219][844]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:228][845]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:237][846]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:245][847]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:253][848]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:262][849]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:271][850]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:281][851]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:289][852]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:298][853]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:307][854]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:315][855]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:323][856]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:330][857]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:339][858]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:347][859]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:356][860]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:364][861]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:372][862]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:381][863]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:389][864]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:398][865]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:406][866]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:414][867]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:422][868]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:431][869]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:439][870]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:448][871]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:456][872]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:465][873]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:474][874]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:482][875]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:490][876]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:498][877]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:507][878]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:515][879]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:523][880]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:532][881]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:540][882]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:548][883]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:557][884]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:565][885]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:573][886]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:581][887]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:590][888]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:599][889]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:607][890]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:616][891]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:625][892]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:633][893]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:642][894]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:651][895]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:659][896]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:668][897]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:678][898]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:687][899]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:695][900]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:704][901]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:714][902]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:722][903]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:732][904]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:741][905]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:750][906]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:758][907]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:767][908]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:777][909]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:786][910]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:793][911]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:802][912]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:812][913]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:821][914]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:829][915]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:838][916]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:846][917]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:854][918]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:863][919]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:871][920]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:879][921]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:888][922]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:897][923]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:905][924]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:914][925]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:922][926]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:929][927]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:938][928]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:944][929]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:952][930]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:961][931]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:969][932]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:977][933]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:985][934]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.30:994][935]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.31:001][936]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.31:009][937]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.31:018][938]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.31:027][939]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.31:035][940]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.31:043][941]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.31:051][942]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.31:059][943]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.31:068][944]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.31:076][945]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.31:085][946]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.31:093][947]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.31:102][948]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.31:110][949]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.31:119][950]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.31:127][951]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.31:135][952]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.31:143][953]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.31:151][954]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.31:159][955]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.31:168][956]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.31:176][957]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.31:184][958]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.31:192][959]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.31:200][960]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.31:209][961]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.31:218][962]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.31:226][963]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.31:234][964]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.31:243][965]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.31:251][966]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.31:259][967]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.31:268][968]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.31:276][969]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.31:284][970]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.31:292][971]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.31:302][972]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.31:309][973]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.31:319][974]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.31:327][975]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.31:336][976]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.31:345][977]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.31:354][978]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.31:363][979]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.31:371][980]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.31:380][981]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.31:387][982]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.31:396][983]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.31:404][984]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.31:413][985]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.33:821][287]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_11] 77
+[2023.06.20-15.52.33:821][287]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.33:821][287]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.33:835][287]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.39:694][253]LogSavePackage: Moving '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/UNREALxMATLAB/DroneExp1/Saved/BuoyancyPlacementTestBPDDC4A5DE43CC247F21EEAD931E5D84EA.tmp' to '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/UNREALxMATLAB/DroneExp1/Content/Objects/BuoyancyPlacementTestBP.uasset'
+[2023.06.20-15.52.39:714][253]AssetCheck: New page: Asset Save: BuoyancyPlacementTestBP
+[2023.06.20-15.52.39:714][253]LogContentValidation: Display: Validating Blueprint /Game/Objects/BuoyancyPlacementTestBP.BuoyancyPlacementTestBP
+[2023.06.20-15.52.39:896][278]LogSavePackage: Moving '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/UNREALxMATLAB/DroneExp1/Saved/BuoyancyPlacementTestBP1489B097447B2A6D2D5893A49C59A6A6.tmp' to '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/UNREALxMATLAB/DroneExp1/Content/Objects/BuoyancyPlacementTestBP.uasset'
+[2023.06.20-15.52.39:907][278]AssetCheck: New page: Asset Save: BuoyancyPlacementTestBP
+[2023.06.20-15.52.39:907][278]LogContentValidation: Display: Validating Blueprint /Game/Objects/BuoyancyPlacementTestBP.BuoyancyPlacementTestBP
+[2023.06.20-15.52.40:440][359]BlueprintLog: New page: Compile BuoyancyPlacementTestBP
+[2023.06.20-15.52.40:447][359]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_11] 77
+[2023.06.20-15.52.40:452][359]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.40:452][359]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.40:489][359]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2023.06.20-15.52.40:490][359]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_11] 77
+[2023.06.20-15.52.40:491][359]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.40:491][359]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.40:492][359]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_1] 77
+[2023.06.20-15.52.40:493][359]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_11] 77
+[2023.06.20-15.52.40:493][359]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.40:494][359]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_1] 77
+[2023.06.20-15.52.40:528][359]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.41:355][487]LogSavePackage: Moving '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/UNREALxMATLAB/DroneExp1/Saved/BuoyancyPlacementTestBP01A78886440ADF4F1E3443904DA3EA00.tmp' to '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/UNREALxMATLAB/DroneExp1/Content/Objects/BuoyancyPlacementTestBP.uasset'
+[2023.06.20-15.52.41:370][487]AssetCheck: New page: Asset Save: BuoyancyPlacementTestBP
+[2023.06.20-15.52.41:370][487]LogContentValidation: Display: Validating Blueprint /Game/Objects/BuoyancyPlacementTestBP.BuoyancyPlacementTestBP
+[2023.06.20-15.52.55:753][373]LogEditorTransaction: Undo Set Node Enabled State
+[2023.06.20-15.52.55:755][373]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.55:756][373]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_11] 77
+[2023.06.20-15.52.55:757][373]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_11] 77
+[2023.06.20-15.52.55:758][373]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.55:758][373]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_1] 77
+[2023.06.20-15.52.55:808][373]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.59:730][899]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_11] 77
+[2023.06.20-15.52.59:730][899]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.52.59:731][899]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_1] 77
+[2023.06.20-15.53.01:452][120]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_11] 77
+[2023.06.20-15.53.01:452][120]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.53.01:453][120]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_1] 77
+[2023.06.20-15.53.01:463][120]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.53.01:908][193]LogSavePackage: Moving '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/UNREALxMATLAB/DroneExp1/Saved/BuoyancyPlacementTestBP04C4044543E46852399659A3C8A0685D.tmp' to '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/UNREALxMATLAB/DroneExp1/Content/Objects/BuoyancyPlacementTestBP.uasset'
+[2023.06.20-15.53.01:924][193]AssetCheck: New page: Asset Save: BuoyancyPlacementTestBP
+[2023.06.20-15.53.01:924][193]LogContentValidation: Display: Validating Blueprint /Game/Objects/BuoyancyPlacementTestBP.BuoyancyPlacementTestBP
+[2023.06.20-15.53.02:079][216]LogSavePackage: Moving '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/UNREALxMATLAB/DroneExp1/Saved/BuoyancyPlacementTestBP4881CEDE46457C0F95DC8EACE38D94BA.tmp' to '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/UNREALxMATLAB/DroneExp1/Content/Objects/BuoyancyPlacementTestBP.uasset'
+[2023.06.20-15.53.02:088][216]AssetCheck: New page: Asset Save: BuoyancyPlacementTestBP
+[2023.06.20-15.53.02:088][216]LogContentValidation: Display: Validating Blueprint /Game/Objects/BuoyancyPlacementTestBP.BuoyancyPlacementTestBP
+[2023.06.20-15.53.03:016][357]BlueprintLog: New page: Compile BuoyancyPlacementTestBP
+[2023.06.20-15.53.03:021][357]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_11] 77
+[2023.06.20-15.53.03:025][357]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.53.03:025][357]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_1] 77
+[2023.06.20-15.53.03:044][357]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2023.06.20-15.53.03:046][357]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_11] 77
+[2023.06.20-15.53.03:046][357]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.53.03:047][357]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_1] 77
+[2023.06.20-15.53.03:047][357]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_2] 77
+[2023.06.20-15.53.03:048][357]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_11] 77
+[2023.06.20-15.53.03:048][357]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.53.03:048][357]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_2] 77
+[2023.06.20-15.53.03:076][357]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.53.03:874][501]LogSavePackage: Moving '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/UNREALxMATLAB/DroneExp1/Saved/BuoyancyPlacementTestBP106D631F4EE17BD0CB9442AB3F66E225.tmp' to '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/UNREALxMATLAB/DroneExp1/Content/Objects/BuoyancyPlacementTestBP.uasset'
+[2023.06.20-15.53.03:889][501]AssetCheck: New page: Asset Save: BuoyancyPlacementTestBP
+[2023.06.20-15.53.03:889][501]LogContentValidation: Display: Validating Blueprint /Game/Objects/BuoyancyPlacementTestBP.BuoyancyPlacementTestBP
+[2023.06.20-15.53.04:061][529]LogSavePackage: Moving '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/UNREALxMATLAB/DroneExp1/Saved/BuoyancyPlacementTestBP034376E146453B3D0F7867ABCFFDF311.tmp' to '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/UNREALxMATLAB/DroneExp1/Content/Objects/BuoyancyPlacementTestBP.uasset'
+[2023.06.20-15.53.04:071][529]AssetCheck: New page: Asset Save: BuoyancyPlacementTestBP
+[2023.06.20-15.53.04:071][529]LogContentValidation: Display: Validating Blueprint /Game/Objects/BuoyancyPlacementTestBP.BuoyancyPlacementTestBP
+[2023.06.20-15.53.05:636][805]LogSlate: Window 'BuoyancyPlacementTestBP' being destroyed
+[2023.06.20-15.53.05:638][805]LogSlate: Window 'BuoyancyPlacementTestBP' being destroyed
+[2023.06.20-15.53.05:650][805]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.06.20-15.53.05:651][805]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.20-15.53.08:787][556]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_11] 77
+[2023.06.20-15.53.08:929][594]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_11] 77
+[2023.06.20-15.53.09:122][645]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_11] 77
+[2023.06.20-15.53.09:169][658]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_11] 77
+[2023.06.20-15.53.09:473][739]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_11] 77
+[2023.06.20-15.53.11:001][146]Cmd: DELETE
+[2023.06.20-15.53.11:001][146]Cmd: ACTOR DELETE
+[2023.06.20-15.53.11:005][146]LogEditorActor: Deleted Actor: BuoyancyPlacementTestBP_C
+[2023.06.20-15.53.11:018][146]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2023.06.20-15.53.11:022][146]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2023.06.20-15.53.11:351][230]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2023.06.20-15.53.11:427][230]LogSavePackage: Moving '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/UNREALxMATLAB/DroneExp1/Saved/Level181F0922D45D53B7EC04E6CACBDA00F7C.tmp' to '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/UNREALxMATLAB/DroneExp1/Content/Level1.umap'
+[2023.06.20-15.53.11:448][230]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1_BuiltData" FILE="../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/UNREALxMATLAB/DroneExp1/Content/Level1_BuiltData.uasset" SILENT=true
+[2023.06.20-15.53.11:616][230]LogSavePackage: Moving '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/UNREALxMATLAB/DroneExp1/Saved/Level1_BuiltDataCD0A5FDC4896D45DCC9D4D85374E07FF.tmp' to '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/UNREALxMATLAB/DroneExp1/Content/Level1_BuiltData.uasset'
+[2023.06.20-15.53.11:639][230]AssetCheck: New page: Asset Save: multiple assets
+[2023.06.20-15.53.11:639][230]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level1_BuiltData.Level1_BuiltData
+[2023.06.20-15.53.11:639][230]LogContentValidation: Display: Validating World /Game/Level1.Level1
+[2023.06.20-15.53.12:349][388]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_0] 77
+[2023.06.20-15.53.12:349][388]LogBlueprintUserMessages: [BuoyancyPlacementTestBP] 77
+[2023.06.20-15.53.12:351][388]LogBlueprintUserMessages: [BuoyancyPlacementTestBP] 77
+[2023.06.20-15.53.12:351][388]LogBlueprintUserMessages: [BuoyancyPlacementTestBP] 77
+[2023.06.20-15.53.12:357][388]LogBlueprintUserMessages: [BuoyancyPlacementTestBP] 77
+[2023.06.20-15.53.12:362][389]LogBlueprintUserMessages: [BuoyancyPlacementTestBP] 77
+[2023.06.20-15.53.12:373][391]LogBlueprintUserMessages: [BuoyancyPlacementTestBP] 77
+[2023.06.20-15.53.12:378][392]LogBlueprintUserMessages: [BuoyancyPlacementTestBP] 77
+[2023.06.20-15.53.12:388][394]LogBlueprintUserMessages: [BuoyancyPlacementTestBP] 77
+[2023.06.20-15.53.12:394][396]LogBlueprintUserMessages: [BuoyancyPlacementTestBP] 77
+[2023.06.20-15.53.12:402][398]LogBlueprintUserMessages: [BuoyancyPlacementTestBP] 77
+[2023.06.20-15.53.12:410][400]LogBlueprintUserMessages: [BuoyancyPlacementTestBP] 77
+[2023.06.20-15.53.12:419][402]LogBlueprintUserMessages: [BuoyancyPlacementTestBP] 77
+[2023.06.20-15.53.12:424][403]LogBlueprintUserMessages: [BuoyancyPlacementTestBP] 77
+[2023.06.20-15.53.12:435][406]LogBlueprintUserMessages: [BuoyancyPlacementTestBP] 77
+[2023.06.20-15.53.12:440][407]LogBlueprintUserMessages: [BuoyancyPlacementTestBP] 77
+[2023.06.20-15.53.12:451][410]LogBlueprintUserMessages: [BuoyancyPlacementTestBP] 77
+[2023.06.20-15.53.12:456][411]LogBlueprintUserMessages: [BuoyancyPlacementTestBP] 77
+[2023.06.20-15.53.12:465][414]LogBlueprintUserMessages: [BuoyancyPlacementTestBP] 77
+[2023.06.20-15.53.12:474][417]LogBlueprintUserMessages: [BuoyancyPlacementTestBP] 77
+[2023.06.20-15.53.12:481][419]LogBlueprintUserMessages: [BuoyancyPlacementTestBP] 77
+[2023.06.20-15.53.12:490][421]LogBlueprintUserMessages: [BuoyancyPlacementTestBP] 77
+[2023.06.20-15.53.12:499][423]LogBlueprintUserMessages: [BuoyancyPlacementTestBP] 77
+[2023.06.20-15.53.12:505][425]LogBlueprintUserMessages: [BuoyancyPlacementTestBP] 77
+[2023.06.20-15.53.12:514][428]LogBlueprintUserMessages: [BuoyancyPlacementTestBP] 77
+[2023.06.20-15.53.12:524][430]LogBlueprintUserMessages: [BuoyancyPlacementTestBP] 77
+[2023.06.20-15.53.12:529][431]LogBlueprintUserMessages: [BuoyancyPlacementTestBP] 77
+[2023.06.20-15.53.12:538][434]LogBlueprintUserMessages: [BuoyancyPlacementTestBP] 77
+[2023.06.20-15.53.12:547][436]LogBlueprintUserMessages: [BuoyancyPlacementTestBP] 77
+[2023.06.20-15.53.12:553][437]LogBlueprintUserMessages: [BuoyancyPlacementTestBP] 77
+[2023.06.20-15.53.12:562][440]LogBlueprintUserMessages: [BuoyancyPlacementTestBP] 77
+[2023.06.20-15.53.12:572][442]LogBlueprintUserMessages: [BuoyancyPlacementTestBP] 77
+[2023.06.20-15.53.12:577][443]LogBlueprintUserMessages: [BuoyancyPlacementTestBP] 77
+[2023.06.20-15.53.12:587][446]LogBlueprintUserMessages: [BuoyancyPlacementTestBP] 77
+[2023.06.20-15.53.12:596][448]LogBlueprintUserMessages: [BuoyancyPlacementTestBP] 77
+[2023.06.20-15.53.12:600][449]LogBlueprintUserMessages: [BuoyancyPlacementTestBP] 77
+[2023.06.20-15.53.12:611][452]LogBlueprintUserMessages: [BuoyancyPlacementTestBP] 77
+[2023.06.20-15.53.12:620][454]LogBlueprintUserMessages: [BuoyancyPlacementTestBP] 77
+[2023.06.20-15.53.12:625][455]LogBlueprintUserMessages: [BuoyancyPlacementTestBP] 77
+[2023.06.20-15.53.12:636][458]LogBlueprintUserMessages: [BuoyancyPlacementTestBP] 77
+[2023.06.20-15.53.12:641][459]LogBlueprintUserMessages: [BuoyancyPlacementTestBP] 77
+[2023.06.20-15.53.12:650][462]LogBlueprintUserMessages: [BuoyancyPlacementTestBP] 77
+[2023.06.20-15.53.12:656][464]LogBlueprintUserMessages: [BuoyancyPlacementTestBP] 77
+[2023.06.20-15.53.12:666][467]LogBlueprintUserMessages: [BuoyancyPlacementTestBP] 77
+[2023.06.20-15.53.12:675][469]LogBlueprintUserMessages: [BuoyancyPlacementTestBP] 77
+[2023.06.20-15.53.12:685][471]LogBlueprintUserMessages: [BuoyancyPlacementTestBP] 77
+[2023.06.20-15.53.12:689][472]LogBlueprintUserMessages: [BuoyancyPlacementTestBP] 77
+[2023.06.20-15.53.12:697][474]LogBlueprintUserMessages: [BuoyancyPlacementTestBP] 77
+[2023.06.20-15.53.12:705][476]LogBlueprintUserMessages: [BuoyancyPlacementTestBP] 77
+[2023.06.20-15.53.12:715][479]LogBlueprintUserMessages: [BuoyancyPlacementTestBP] 77
+[2023.06.20-15.53.12:724][481]LogBlueprintUserMessages: [BuoyancyPlacementTestBP] 77
+[2023.06.20-15.53.12:728][482]LogBlueprintUserMessages: [BuoyancyPlacementTestBP] 77
+[2023.06.20-15.53.12:738][485]LogBlueprintUserMessages: [BuoyancyPlacementTestBP] 77
+[2023.06.20-15.53.12:747][487]LogBlueprintUserMessages: [BuoyancyPlacementTestBP] 77
+[2023.06.20-15.53.12:762][492]LogBlueprintUserMessages: [BuoyancyPlacementTestBP] 77
+[2023.06.20-15.53.12:770][494]LogBlueprintUserMessages: [BuoyancyPlacementTestBP] 77
+[2023.06.20-15.53.12:885][533]LogBlueprintUserMessages: [BuoyancyPlacementTestBP] 77
+[2023.06.20-15.53.12:890][534]LogBlueprintUserMessages: [BuoyancyPlacementTestBP] 77
+[2023.06.20-15.53.12:896][536]LogBlueprintUserMessages: [BuoyancyPlacementTestBP] 77
+[2023.06.20-15.53.12:907][539]LogBlueprintUserMessages: [BuoyancyPlacementTestBP] 77
+[2023.06.20-15.53.12:915][541]LogBlueprintUserMessages: [BuoyancyPlacementTestBP] 77
+[2023.06.20-15.53.12:919][542]LogBlueprintUserMessages: [BuoyancyPlacementTestBP] 77
+[2023.06.20-15.53.12:929][545]LogBlueprintUserMessages: [BuoyancyPlacementTestBP] 77
+[2023.06.20-15.53.12:939][548]LogBlueprintUserMessages: [BuoyancyPlacementTestBP] 77
+[2023.06.20-15.53.12:944][549]LogBlueprintUserMessages: [BuoyancyPlacementTestBP] 77
+[2023.06.20-15.53.12:955][551]LogBlueprintUserMessages: [BuoyancyPlacementTestBP] 77
+[2023.06.20-15.53.12:961][553]LogBlueprintUserMessages: [BuoyancyPlacementTestBP] 77
+[2023.06.20-15.53.12:972][555]LogBlueprintUserMessages: [BuoyancyPlacementTestBP] 77
+[2023.06.20-15.53.12:976][556]LogBlueprintUserMessages: [BuoyancyPlacementTestBP] 77
+[2023.06.20-15.53.12:988][559]LogBlueprintUserMessages: [BuoyancyPlacementTestBP] 77
+[2023.06.20-15.53.12:993][560]LogBlueprintUserMessages: [BuoyancyPlacementTestBP] 77
+[2023.06.20-15.53.13:010][566]LogBlueprintUserMessages: [BuoyancyPlacementTestBP] 77
+[2023.06.20-15.53.13:029][571]LogBlueprintUserMessages: [BuoyancyPlacementTestBP] 77
+[2023.06.20-15.53.13:034][572]LogBlueprintUserMessages: [BuoyancyPlacementTestBP] 77
+[2023.06.20-15.53.13:194][625]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_C_1] 77
+[2023.06.20-15.53.13:195][625]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_2] 77
+[2023.06.20-15.53.13:201][625]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_2] 77
+[2023.06.20-15.53.13:201][625]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_2] 77
+[2023.06.20-15.53.13:755][771]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_2] 77
+[2023.06.20-15.53.13:793][781]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_2] 77
+[2023.06.20-15.53.13:819][788]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_2] 77
+[2023.06.20-15.53.13:842][794]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_2] 77
+[2023.06.20-15.53.13:864][800]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_2] 77
+[2023.06.20-15.53.14:089][860]LogBlueprintUserMessages: [BuoyancyPlacementTestBP_2] 77
+[2023.06.20-15.53.14:682][  6]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.06.20-15.53.14:746][  6]LogSavePackage: Moving '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/UNREALxMATLAB/DroneExp1/Saved/Level1C9778C854FBB720077B3BDA7F95FE789.tmp' to '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/UNREALxMATLAB/DroneExp1/Content/Level1.umap'
+[2023.06.20-15.53.14:765][  6]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1_BuiltData" FILE="../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/UNREALxMATLAB/DroneExp1/Content/Level1_BuiltData.uasset" SILENT=true
+[2023.06.20-15.53.14:893][  6]LogSavePackage: Moving '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/UNREALxMATLAB/DroneExp1/Saved/Level1_BuiltDataC69821EC487FD0A387B032893E1A1418.tmp' to '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/UNREALxMATLAB/DroneExp1/Content/Level1_BuiltData.uasset'
+[2023.06.20-15.53.14:907][  6]AssetCheck: New page: Asset Save: multiple assets
+[2023.06.20-15.53.14:907][  6]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level1_BuiltData.Level1_BuiltData
+[2023.06.20-15.53.14:907][  6]LogContentValidation: Display: Validating World /Game/Level1.Level1
+[2023.06.20-15.53.25:594][314]LogTemp: Repeating last play command: Selected Viewport
+[2023.06.20-15.53.25:608][314]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.20-15.53.25:608][314]PIE: New page: PIE session: Level1 (Jun 20, 2023, 7:53:25 AM)
+[2023.06.20-15.53.25:608][314]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level1
+[2023.06.20-15.53.25:627][314]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019955s)
+[2023.06.20-15.53.25:628][314]LogAIModule: Creating AISystem for world Level1
+[2023.06.20-15.53.25:628][314]LogPlayLevel: PIE: World Init took: (0.000920s)
+[2023.06.20-15.53.25:628][314]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1.Level1 to /Game/UEDPIE_0_Level1.Level1 (0.020971s)
+[2023.06.20-15.53.25:640][314]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.06.20-15.53.25:643][314]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.06.20-15.53.25:643][314]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.20-15.53.25:643][314]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.20-15.53.25:643][314]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.20-15.53.25:643][314]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.20-15.53.25:643][314]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.20-15.53.25:643][314]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.06.20-15.53.25:643][314]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.20-15.53.25:643][314]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.20-15.53.25:643][314]LogAudio: Display: Using built-in audio occlusion.
+[2023.06.20-15.53.25:643][314]LogAudioMixer: Display: Initializing audio mixer.
+[2023.06.20-15.53.25:646][314]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.20-15.53.25:646][314]LogAudioMixer: Display: 1: FrontRight
+[2023.06.20-15.53.25:697][314]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.06.20-15.53.25:697][314]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.20-15.53.25:697][314]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.20-15.53.25:697][314]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.20-15.53.25:697][314]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.06.20-15.53.25:697][314]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.06.20-15.53.25:697][314]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.06.20-15.53.25:715][314]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.06.20-15.53.25:715][314]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.06.20-15.53.25:715][314]LogInit: FAudioDevice initialized.
+[2023.06.20-15.53.25:715][314]LogAudio: Display: Audio Device (ID: 3) registered with world 'Level1'.
+[2023.06.20-15.53.25:727][314]LogLoad: Game class is 'GameModeBase'
+[2023.06.20-15.53.25:728][314]LogWorld: Bringing World /Game/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2023.06.20-11.53.25
+[2023.06.20-15.53.25:789][314]Sim3dInterfaceLog: Display: Sim3dInterface is ready.
+[2023.06.20-15.53.25:790][314]Sim3dInterfaceLog: Display: An actor with the tag Sim3dLevelScriptActor registered with Sim3dInterface.
+[2023.06.20-15.53.25:804][314]Sim3dInterfaceLog: Display: ASim3dLevelScriptActor::CreateActorsInScene - Received create message for the actor SimulinkVehicle1.
+[2023.06.20-15.53.25:804][314]Sim3dInterfaceLog: Display: An actor with the tag SimulinkVehicle1 registered with Sim3dInterface.
+[2023.06.20-15.53.25:804][314]Sim3dInterfaceLog: Display: ASim3dLevelScriptActor::CreateActorsInScene - Received create message for the actor MainCamera1.
+[2023.06.20-15.53.25:804][314]Sim3dInterfaceLog: Display: An actor with the tag MainCamera1 registered with Sim3dInterface.
+[2023.06.20-15.53.25:804][314]Sim3dInterfaceLog: Display: ASim3dLevelScriptActor::CreateActorsInScene - Received create message for the actor Camera4.
+[2023.06.20-15.53.25:804][314]Sim3dInterfaceLog: Display: An actor with the tag Camera4 registered with Sim3dInterface.
+[2023.06.20-15.53.25:804][314]Sim3dInterfaceLog: Display: ASim3dLevelScriptActor::CreateActorsInScene - Received create message for the actor Camera5.
+[2023.06.20-15.53.25:804][314]Sim3dInterfaceLog: Display: An actor with the tag Camera5 registered with Sim3dInterface.
+[2023.06.20-15.53.25:804][314]Sim3dInterfaceLog: Display: ASim3dLevelScriptActor::CreateActorsInScene - Received create message for the actor Lidar3.
+[2023.06.20-15.53.25:804][314]Sim3dInterfaceLog: Display: An actor with the tag Lidar3 registered with Sim3dInterface.
+[2023.06.20-15.53.25:804][314]Sim3dInterfaceLog: Display: Actor Root Actor is pushed to the queue
+[2023.06.20-15.53.25:804][314]Sim3dInterfaceLog: Display: Actor SimulinkVehicle1 is pushed to the queue
+[2023.06.20-15.53.25:804][314]Sim3dInterfaceLog: Display: Actor MainCamera1 is pushed to the queue
+[2023.06.20-15.53.25:804][314]Sim3dInterfaceLog: Display: Actor Camera4 is pushed to the queue
+[2023.06.20-15.53.25:804][314]Sim3dInterfaceLog: Display: Actor Camera5 is pushed to the queue
+[2023.06.20-15.53.25:804][314]Sim3dInterfaceLog: Display: Actor Lidar3 is pushed to the queue
+[2023.06.20-15.53.25:804][314]Sim3dInterfaceLog: Display: ASim3dLevelScriptActor::CreateActorsInScene - Actor type id: Sim3dQuadRotor.
+[2023.06.20-15.53.25:865][314]Sim3dInterfaceLog: Display: ASim3dLevelScriptActor::CreateActorsInScene - Actor type id: Sim3dMainCamera.
+[2023.06.20-15.53.25:906][314]Sim3dInterfaceLog: Display: ASim3dLevelScriptActor::CreateActorsInScene - Actor type id: Sim3dCamera.
+[2023.06.20-15.53.25:954][314]Sim3dInterfaceLog: Display: ASim3dLevelScriptActor::CreateActorsInScene - Parent of created actor: Sim3dQuadRotor_0.
+[2023.06.20-15.53.25:954][314]Sim3dInterfaceLog: Display: ASim3dLevelScriptActor::CreateActorsInScene - Actor type id: Sim3dCamera.
+[2023.06.20-15.53.26:004][314]Sim3dInterfaceLog: Display: ASim3dLevelScriptActor::CreateActorsInScene - Parent of created actor: Sim3dQuadRotor_0.
+[2023.06.20-15.53.26:004][314]Sim3dInterfaceLog: Display: ASim3dLevelScriptActor::CreateActorsInScene - Actor type id: Sim3dLidar.
+[2023.06.20-15.53.26:051][314]Sim3dInterfaceLog: Display: ASim3dLevelScriptActor::CreateActorsInScene - Parent of created actor: Sim3dQuadRotor_0.
+[2023.06.20-15.53.26:052][314]LogWorld: Bringing up level for play took: 0.324546
+[2023.06.20-15.53.26:052][314]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2023.06.20-15.53.26:054][314]Sim3dInterfaceLog: Display: Mesh : /MathWorksUAVContent/UAVs/Quadrotor_UAV/Mesh/SK_QuadrotorUAV.SK_QuadrotorUAV
+[2023.06.20-15.53.26:054][314]Sim3dInterfaceLog: Display: Color : /MathWorksUAVContent/UAVs/Quadrotor_UAV/Material/M_QuadrotorUAV_BodyBlack.M_QuadrotorUAV_BodyBlack
+[2023.06.20-15.53.26:054][314]Sim3dInterfaceLog: Display: Animation : /MathWorksUAVContent/UAVs/Quadrotor_UAV/Animation/QuadRotorAnimBP.QuadRotorAnimBP_C
+[2023.06.20-15.53.26:054][314]Sim3dInterfaceLog: Display: Size : 8192
+[2023.06.20-15.53.26:060][314]PIE: Server logged in
+[2023.06.20-15.53.26:061][314]PIE: Play in editor total start time 0.458 seconds.
+[2023.06.20-15.53.26:095][314]Sim3dInterfaceLog: Display: Sim3dInterface::readCommand - UE4 INITIALIZE, MATLAB RUN
+[2023.06.20-15.53.27:225][330]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2023.06.20-15.53.30:333][330]LogStats: FPlatformStackWalk::StackWalkAndDump -  3.107 s
+[2023.06.20-15.53.30:333][330]LogOutputDevice: Error: === Handled ensure: ===
+[2023.06.20-15.53.30:333][330]LogOutputDevice: Error: 
+[2023.06.20-15.53.30:333][330]LogOutputDevice: Error: Ensure condition failed: DetLL > (1.e-8f) || DetLL < -(1.e-8f) [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/Engine/Private/PhysicsEngine/SimpleSuspension.cpp] [Line: 225]
+[2023.06.20-15.53.30:333][330]LogOutputDevice: Error: Spring configuration is invalid! Please make sure no two springs are at the same location.
+[2023.06.20-15.53.30:333][330]LogOutputDevice: Error: Stack: 
+[2023.06.20-15.53.30:333][330]LogOutputDevice: Error: [Callstack] 0x00007ffb6b767a59 UE4Editor-Engine.dll!UnknownFunction []
+[2023.06.20-15.53.30:333][330]LogOutputDevice: Error: [Callstack] 0x00007ffb6aa8ca4d UE4Editor-Engine.dll!UnknownFunction []
+[2023.06.20-15.53.30:333][330]LogOutputDevice: Error: [Callstack] 0x00007ffb6aa8c4c3 UE4Editor-Engine.dll!UnknownFunction []
+[2023.06.20-15.53.30:333][330]LogOutputDevice: Error: [Callstack] 0x00007ffb5a03e032 UE4Editor-Water.dll!UnknownFunction []
+[2023.06.20-15.53.30:333][330]LogOutputDevice: Error: [Callstack] 0x00007ffb5a07d593 UE4Editor-Water.dll!UnknownFunction []
+[2023.06.20-15.53.30:333][330]LogOutputDevice: Error: [Callstack] 0x00007ffb6a060b43 UE4Editor-Engine.dll!UnknownFunction []
+[2023.06.20-15.53.30:333][330]LogOutputDevice: Error: [Callstack] 0x00007ffb6a095244 UE4Editor-Engine.dll!UnknownFunction []
+[2023.06.20-15.53.30:333][330]LogOutputDevice: Error: [Callstack] 0x00007ffb6aeb297e UE4Editor-Engine.dll!UnknownFunction []
+[2023.06.20-15.53.30:333][330]LogOutputDevice: Error: [Callstack] 0x00007ffb6aebb56f UE4Editor-Engine.dll!UnknownFunction []
+[2023.06.20-15.53.30:333][330]LogOutputDevice: Error: [Callstack] 0x00007ffbb706ecdc UE4Editor-Core.dll!UnknownFunction []
+[2023.06.20-15.53.30:333][330]LogOutputDevice: Error: [Callstack] 0x00007ffbb706f0ce UE4Editor-Core.dll!UnknownFunction []
+[2023.06.20-15.53.30:333][330]LogOutputDevice: Error: [Callstack] 0x00007ffbb70808fd UE4Editor-Core.dll!UnknownFunction []
+[2023.06.20-15.53.30:333][330]LogOutputDevice: Error: [Callstack] 0x00007ffb6aed8464 UE4Editor-Engine.dll!UnknownFunction []
+[2023.06.20-15.53.30:333][330]LogOutputDevice: Error: [Callstack] 0x00007ffb6aededaa UE4Editor-Engine.dll!UnknownFunction []
+[2023.06.20-15.53.30:333][330]LogOutputDevice: Error: [Callstack] 0x00007ffb6a5fad8f UE4Editor-Engine.dll!UnknownFunction []
+[2023.06.20-15.53.30:333][330]LogOutputDevice: Error: [Callstack] 0x00007ffb6a60659d UE4Editor-Engine.dll!UnknownFunction []
+[2023.06.20-15.53.30:333][330]LogOutputDevice: Error: [Callstack] 0x00007ffb68529423 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2023.06.20-15.53.30:333][330]LogOutputDevice: Error: [Callstack] 0x00007ffb68e450e6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2023.06.20-15.53.30:333][330]LogOutputDevice: Error: [Callstack] 0x00007ff6dfaa9bc2 UE4Editor.exe!UnknownFunction []
+[2023.06.20-15.53.30:333][330]LogOutputDevice: Error: [Callstack] 0x00007ff6dfac117c UE4Editor.exe!UnknownFunction []
+[2023.06.20-15.53.30:333][330]LogOutputDevice: Error: [Callstack] 0x00007ff6dfac125a UE4Editor.exe!UnknownFunction []
+[2023.06.20-15.53.30:333][330]LogOutputDevice: Error: [Callstack] 0x00007ff6dfad52bd UE4Editor.exe!UnknownFunction []
+[2023.06.20-15.53.30:333][330]LogOutputDevice: Error: [Callstack] 0x00007ff6dfad7fea UE4Editor.exe!UnknownFunction []
+[2023.06.20-15.53.30:333][330]LogOutputDevice: Error: [Callstack] 0x00007ffccb977614 KERNEL32.DLL!UnknownFunction []
+[2023.06.20-15.53.30:333][330]LogOutputDevice: Error: [Callstack] 0x00007ffcccb426f1 ntdll.dll!UnknownFunction []
+[2023.06.20-15.53.30:333][330]LogOutputDevice: Error: 

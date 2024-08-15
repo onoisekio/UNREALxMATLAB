@@ -1,0 +1,1701 @@
+﻿Log file open, 02/20/24 11:41:53
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: DroneExp1
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 59 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.487545
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin BlueprintMaterialTextureNodes
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin Landmass
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Water
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin MathWorksAutomotiveContent
+LogPluginManager: Mounting plugin MathWorksSimulation
+LogPluginManager: Mounting plugin MathWorksUAVContent
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cleaning working directory: C:/Users/admin_faruq/AppData/Local/Temp/UnrealXGEWorkingDir/
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+Sim3dInterfaceLog: Display: Sim3dInterface was constructed successfully.
+Sim3dInterfaceLog: Display: Sim3dInterface is not ready.
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.51.0
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: 12th Gen Intel(R) Core(TM) i7-12700, GPU: NVIDIA RTX A2000
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
+[2024.02.20-16.42.07:516][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2024.02.20-16.42.07:516][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2024.02.20-16.42.07:516][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/Config/Windows/Engine.ini]
+[2024.02.20-16.42.07:516][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2024.02.20-16.42.07:516][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/Config/Windows/Engine.ini]
+[2024.02.20-16.42.07:516][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/Config/Windows/Engine.ini]
+[2024.02.20-16.42.07:516][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2024.02.20-16.42.07:516][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2024.02.20-16.42.07:516][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2024.02.20-16.42.07:516][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2024.02.20-16.42.07:516][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2024.02.20-16.42.07:516][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2024.02.20-16.42.07:516][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2024.02.20-16.42.07:516][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2024.02.20-16.42.07:516][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2024.02.20-16.42.07:516][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2024.02.20-16.42.07:516][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2024.02.20-16.42.07:516][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2024.02.20-16.42.07:516][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2024.02.20-16.42.07:516][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2024.02.20-16.42.07:516][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/Config/Windows/Engine.ini]
+[2024.02.20-16.42.07:516][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2024.02.20-16.42.07:516][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2024.02.20-16.42.07:516][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2024.02.20-16.42.07:516][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2024.02.20-16.42.07:516][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2024.02.20-16.42.07:516][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2024.02.20-16.42.07:516][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2024.02.20-16.42.07:516][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2024.02.20-16.42.07:516][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2024.02.20-16.42.07:516][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2024.02.20-16.42.07:516][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2024.02.20-16.42.07:516][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2024.02.20-16.42.07:516][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2024.02.20-16.42.07:516][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2024.02.20-16.42.07:516][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/Config/Windows/Engine.ini]
+[2024.02.20-16.42.07:516][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/Config/Windows/Engine.ini]
+[2024.02.20-16.42.07:524][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/Config/Windows/Scalability.ini]
+[2024.02.20-16.42.07:524][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2024.02.20-16.42.07:524][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2024.02.20-16.42.07:524][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/Config/Windows/Scalability.ini]
+[2024.02.20-16.42.07:524][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2024.02.20-16.42.07:524][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/Config/Windows/Scalability.ini]
+[2024.02.20-16.42.07:524][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2024.02.20-16.42.07:524][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2024.02.20-16.42.07:524][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2024.02.20-16.42.07:524][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2024.02.20-16.42.07:524][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2024.02.20-16.42.07:524][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2024.02.20-16.42.07:524][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2024.02.20-16.42.07:524][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2024.02.20-16.42.07:524][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2024.02.20-16.42.07:524][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2024.02.20-16.42.07:524][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2024.02.20-16.42.07:524][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2024.02.20-16.42.07:524][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2024.02.20-16.42.07:524][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2024.02.20-16.42.07:524][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2024.02.20-16.42.07:524][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2024.02.20-16.42.07:524][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2024.02.20-16.42.07:524][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2024.02.20-16.42.07:524][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/Config/Windows/Scalability.ini]
+[2024.02.20-16.42.07:524][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2024.02.20-16.42.07:524][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2024.02.20-16.42.07:524][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2024.02.20-16.42.07:524][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2024.02.20-16.42.07:524][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2024.02.20-16.42.07:524][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2024.02.20-16.42.07:524][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2024.02.20-16.42.07:524][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2024.02.20-16.42.07:524][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2024.02.20-16.42.07:524][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2024.02.20-16.42.07:524][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2024.02.20-16.42.07:524][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2024.02.20-16.42.07:524][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2024.02.20-16.42.07:524][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2024.02.20-16.42.07:524][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2024.02.20-16.42.07:524][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2024.02.20-16.42.07:524][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2024.02.20-16.42.07:524][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2024.02.20-16.42.07:524][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2024.02.20-16.42.07:524][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2024.02.20-16.42.07:525][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2024.02.20-16.42.07:525][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2024.02.20-16.42.07:525][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2024.02.20-16.42.07:525][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2024.02.20-16.42.07:525][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2024.02.20-16.42.07:525][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2024.02.20-16.42.07:525][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2024.02.20-16.42.07:525][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2024.02.20-16.42.07:525][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2024.02.20-16.42.07:525][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2024.02.20-16.42.07:525][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/Config/Windows/Scalability.ini]
+[2024.02.20-16.42.07:525][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2024.02.20-16.42.07:525][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2024.02.20-16.42.07:525][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2024.02.20-16.42.07:525][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2024.02.20-16.42.07:525][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2024.02.20-16.42.07:525][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2024.02.20-16.42.07:525][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2024.02.20-16.42.07:525][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2024.02.20-16.42.07:525][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2024.02.20-16.42.07:525][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/Config/Windows/Scalability.ini]
+[2024.02.20-16.42.07:525][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2024.02.20-16.42.07:525][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2024.02.20-16.42.07:525][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2024.02.20-16.42.07:525][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2024.02.20-16.42.07:525][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2024.02.20-16.42.07:525][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2024.02.20-16.42.07:525][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2024.02.20-16.42.07:525][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2024.02.20-16.42.07:525][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2024.02.20-16.42.07:525][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2024.02.20-16.42.07:525][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2024.02.20-16.42.07:525][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2024.02.20-16.42.07:525][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2024.02.20-16.42.07:525][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2024.02.20-16.42.07:525][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2024.02.20-16.42.07:525][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2024.02.20-16.42.07:525][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2024.02.20-16.42.07:525][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2024.02.20-16.42.07:525][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2024.02.20-16.42.07:525][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2024.02.20-16.42.07:525][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2024.02.20-16.42.07:525][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2024.02.20-16.42.07:525][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2024.02.20-16.42.07:525][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2024.02.20-16.42.07:525][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2024.02.20-16.42.07:525][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2024.02.20-16.42.07:525][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2024.02.20-16.42.07:525][  0]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2024.02.20-16.42.07:525][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/Config/Windows/Scalability.ini]
+[2024.02.20-16.42.07:525][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2024.02.20-16.42.07:525][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2024.02.20-16.42.07:525][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/Config/Windows/Scalability.ini]
+[2024.02.20-16.42.07:525][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2024.02.20-16.42.07:525][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2024.02.20-16.42.07:525][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2024.02.20-16.42.07:525][  0]LogInit: Selected Device Profile: [Windows]
+[2024.02.20-16.42.07:526][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2024.02.20-16.42.07:526][  0]LogHAL: Display: Platform has ~ 16 GB [16853479424 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2024.02.20-16.42.07:526][  0]LogInit: Going up to parent DeviceProfile []
+[2024.02.20-16.42.07:526][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/Config/Windows/Scalability.ini]
+[2024.02.20-16.42.07:526][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2024.02.20-16.42.07:526][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2024.02.20-16.42.07:526][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/Config/Windows/Scalability.ini]
+[2024.02.20-16.42.07:526][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2024.02.20-16.42.07:526][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/Config/Windows/Scalability.ini]
+[2024.02.20-16.42.07:526][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2024.02.20-16.42.07:526][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2024.02.20-16.42.07:526][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2024.02.20-16.42.07:526][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2024.02.20-16.42.07:526][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2024.02.20-16.42.07:526][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2024.02.20-16.42.07:526][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2024.02.20-16.42.07:526][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2024.02.20-16.42.07:526][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2024.02.20-16.42.07:526][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2024.02.20-16.42.07:526][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2024.02.20-16.42.07:526][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2024.02.20-16.42.07:526][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2024.02.20-16.42.07:526][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2024.02.20-16.42.07:526][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2024.02.20-16.42.07:526][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2024.02.20-16.42.07:526][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2024.02.20-16.42.07:526][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2024.02.20-16.42.07:526][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/Config/Windows/Scalability.ini]
+[2024.02.20-16.42.07:526][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2024.02.20-16.42.07:526][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2024.02.20-16.42.07:526][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2024.02.20-16.42.07:526][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2024.02.20-16.42.07:526][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2024.02.20-16.42.07:526][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2024.02.20-16.42.07:526][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2024.02.20-16.42.07:526][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2024.02.20-16.42.07:526][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2024.02.20-16.42.07:526][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2024.02.20-16.42.07:526][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2024.02.20-16.42.07:526][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2024.02.20-16.42.07:526][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2024.02.20-16.42.07:526][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2024.02.20-16.42.07:526][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2024.02.20-16.42.07:526][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2024.02.20-16.42.07:526][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2024.02.20-16.42.07:526][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2024.02.20-16.42.07:526][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2024.02.20-16.42.07:526][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2024.02.20-16.42.07:526][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2024.02.20-16.42.07:526][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2024.02.20-16.42.07:526][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2024.02.20-16.42.07:526][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2024.02.20-16.42.07:526][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2024.02.20-16.42.07:526][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2024.02.20-16.42.07:526][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2024.02.20-16.42.07:526][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2024.02.20-16.42.07:526][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2024.02.20-16.42.07:526][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2024.02.20-16.42.07:526][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/Config/Windows/Scalability.ini]
+[2024.02.20-16.42.07:527][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2024.02.20-16.42.07:527][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2024.02.20-16.42.07:527][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2024.02.20-16.42.07:527][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2024.02.20-16.42.07:527][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2024.02.20-16.42.07:527][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2024.02.20-16.42.07:527][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2024.02.20-16.42.07:527][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2024.02.20-16.42.07:527][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2024.02.20-16.42.07:527][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/Config/Windows/Scalability.ini]
+[2024.02.20-16.42.07:527][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2024.02.20-16.42.07:527][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2024.02.20-16.42.07:527][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2024.02.20-16.42.07:527][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2024.02.20-16.42.07:527][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2024.02.20-16.42.07:527][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2024.02.20-16.42.07:527][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2024.02.20-16.42.07:527][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2024.02.20-16.42.07:527][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2024.02.20-16.42.07:527][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2024.02.20-16.42.07:527][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2024.02.20-16.42.07:527][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2024.02.20-16.42.07:527][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2024.02.20-16.42.07:527][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2024.02.20-16.42.07:527][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2024.02.20-16.42.07:527][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2024.02.20-16.42.07:527][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2024.02.20-16.42.07:527][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2024.02.20-16.42.07:527][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2024.02.20-16.42.07:527][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2024.02.20-16.42.07:527][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2024.02.20-16.42.07:527][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2024.02.20-16.42.07:527][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2024.02.20-16.42.07:527][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2024.02.20-16.42.07:527][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2024.02.20-16.42.07:527][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2024.02.20-16.42.07:527][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2024.02.20-16.42.07:527][  0]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2024.02.20-16.42.07:527][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/Config/Windows/Scalability.ini]
+[2024.02.20-16.42.07:527][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2024.02.20-16.42.07:527][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2024.02.20-16.42.07:527][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/Config/Windows/Scalability.ini]
+[2024.02.20-16.42.07:527][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2024.02.20-16.42.07:527][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2024.02.20-16.42.07:527][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2024.02.20-16.42.07:527][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2024.02.20-16.42.07:531][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2024.02.20-16.42.07:531][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2024.02.20-16.42.07:531][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2024.02.20-16.42.07:531][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/Config/Windows/Engine.ini]
+[2024.02.20-16.42.07:531][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/Config/Windows/Editor.ini]
+[2024.02.20-16.42.07:532][  0]LogInit: Computer: CHRONOS
+[2024.02.20-16.42.07:532][  0]LogInit: User: adminfaruq
+[2024.02.20-16.42.07:532][  0]LogInit: CPU Page size=4096, Cores=12
+[2024.02.20-16.42.07:532][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2024.02.20-16.42.07:532][  0]LogMemory: Memory total: Physical=15.7GB (16GB approx)
+[2024.02.20-16.42.07:532][  0]LogMemory: Platform Memory Stats for Windows
+[2024.02.20-16.42.07:532][  0]LogMemory: Process Physical Memory: 180.21 MB used, 181.73 MB peak
+[2024.02.20-16.42.07:532][  0]LogMemory: Process Virtual Memory: 136.84 MB used, 136.84 MB peak
+[2024.02.20-16.42.07:532][  0]LogMemory: Physical Memory: 11383.22 MB used,  4689.51 MB free, 16072.73 MB total
+[2024.02.20-16.42.07:532][  0]LogMemory: Virtual Memory: 134200264.00 MB used,  17463.61 MB free, 134217728.00 MB total
+[2024.02.20-16.42.07:536][  0]LogWindows: WindowsPlatformFeatures enabled
+[2024.02.20-16.42.07:590][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2024.02.20-16.42.07:591][  0]LogInit: Using OS detected language (en-US).
+[2024.02.20-16.42.07:591][  0]LogInit: Using OS detected locale (en-US).
+[2024.02.20-16.42.07:600][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2024.02.20-16.42.07:818][  0]LogInit: Setting process to per monitor DPI aware
+[2024.02.20-16.42.07:836][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.02.20-16.42.07:873][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2024.02.20-16.42.07:873][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2024.02.20-16.42.09:495][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2024.02.20-16.42.09:495][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2024.02.20-16.42.09:495][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2024.02.20-16.42.09:495][  0]LogD3D11RHI: D3D11 adapters:
+[2024.02.20-16.42.09:624][  0]LogD3D11RHI:    0. 'NVIDIA RTX A2000' (Feature Level 11_0)
+[2024.02.20-16.42.09:624][  0]LogD3D11RHI:       6004/0/8036 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2024.02.20-16.42.09:673][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 770' (Feature Level 11_0)
+[2024.02.20-16.42.09:673][  0]LogD3D11RHI:       128/0/8036 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2024.02.20-16.42.09:674][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2024.02.20-16.42.09:674][  0]LogD3D11RHI:       0/0/8036 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2024.02.20-16.42.09:674][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2024.02.20-16.42.09:680][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2024.02.20-16.42.09:680][  0]LogD3D11RHI:     GPU DeviceId: 0x2531 (for the marketing name, search the web for "GPU Device Id")
+[2024.02.20-16.42.09:680][  0]LogWindows: EnumDisplayDevices:
+[2024.02.20-16.42.09:680][  0]LogWindows:    0. 'NVIDIA RTX A2000' (P:1 D:1)
+[2024.02.20-16.42.09:680][  0]LogWindows:    1. 'NVIDIA RTX A2000' (P:0 D:1)
+[2024.02.20-16.42.09:680][  0]LogWindows:    2. 'NVIDIA RTX A2000' (P:0 D:0)
+[2024.02.20-16.42.09:680][  0]LogWindows:    3. 'NVIDIA RTX A2000' (P:0 D:0)
+[2024.02.20-16.42.09:680][  0]LogWindows:    4. 'Intel(R) UHD Graphics 770' (P:0 D:0)
+[2024.02.20-16.42.09:680][  0]LogWindows:    5. 'Intel(R) UHD Graphics 770' (P:0 D:0)
+[2024.02.20-16.42.09:681][  0]LogWindows:    6. 'Intel(R) UHD Graphics 770' (P:0 D:0)
+[2024.02.20-16.42.09:681][  0]LogWindows:    7. 'Intel(R) UHD Graphics 770' (P:0 D:0)
+[2024.02.20-16.42.09:681][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2024.02.20-16.42.09:682][  0]LogD3D11RHI:     Adapter Name: NVIDIA RTX A2000
+[2024.02.20-16.42.09:682][  0]LogD3D11RHI:   Driver Version: 537.70 (internal:31.0.15.3770, unified:537.70)
+[2024.02.20-16.42.09:682][  0]LogD3D11RHI:      Driver Date: 10-18-2023
+[2024.02.20-16.42.09:682][  0]LogRHI: Texture pool is 4202 MB (70% of 6004 MB)
+[2024.02.20-16.42.09:757][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2024.02.20-16.42.09:757][  0]LogD3D11RHI: Async texture creation enabled
+[2024.02.20-16.42.09:757][  0]LogD3D11RHI: Array index from any shader is supported
+[2024.02.20-16.42.09:787][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2024.02.20-16.42.09:790][  0]LogRHI: GeForceNow SDK initialized: 1
+[2024.02.20-16.42.10:066][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2024.02.20-16.42.10:080][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2024.02.20-16.42.10:080][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2024.02.20-16.42.10:080][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2024.02.20-16.42.10:080][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2024.02.20-16.42.10:080][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2024.02.20-16.42.10:080][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2024.02.20-16.42.10:080][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2024.02.20-16.42.10:080][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2024.02.20-16.42.10:080][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2024.02.20-16.42.10:080][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2024.02.20-16.42.10:095][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2024.02.20-16.42.10:095][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2024.02.20-16.42.10:109][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2024.02.20-16.42.10:114][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2024.02.20-16.42.10:119][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2024.02.20-16.42.10:125][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2024.02.20-16.42.10:130][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2024.02.20-16.42.10:135][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2024.02.20-16.42.10:140][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2024.02.20-16.42.10:157][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2024.02.20-16.42.10:157][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2024.02.20-16.42.10:162][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2024.02.20-16.42.10:174][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2024.02.20-16.42.10:179][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2024.02.20-16.42.10:184][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2024.02.20-16.42.10:192][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2024.02.20-16.42.10:192][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2024.02.20-16.42.10:198][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2024.02.20-16.42.10:203][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2024.02.20-16.42.10:208][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2024.02.20-16.42.10:214][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2024.02.20-16.42.10:214][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2024.02.20-16.42.10:220][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2024.02.20-16.42.10:293][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2024.02.20-16.42.10:293][  0]LogShaderCompilers: Guid format shader working directory is -59 characters bigger than the processId version (../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Intermediate/Shaders/WorkingDirectory/5484/).
+[2024.02.20-16.42.10:293][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/admin_faruq/AppData/Local/Temp/UnrealShaderWorkingDir/13180984487CE617C21EFFA2571D4B23/'.
+[2024.02.20-16.42.10:294][  0]LogShaderCompilers: Display: Using XGE Controller for Shader Compilation.
+[2024.02.20-16.42.12:457][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2024.02.20-16.42.12:511][  0]LogDerivedDataCache: Loaded boot cache 0.05s 81MB C:/Users/admin_faruq/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2024.02.20-16.42.12:511][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/admin_faruq/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2024.02.20-16.42.12:511][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2024.02.20-16.42.12:511][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2024.02.20-16.42.12:511][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2024.02.20-16.42.12:511][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2024.02.20-16.42.12:526][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2024.02.20-16.42.12:526][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2024.02.20-16.42.12:526][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2024.02.20-16.42.12:558][  0]LogDerivedDataCache: Speed tests for C:/Users/admin_faruq/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.03 seconds
+[2024.02.20-16.42.12:558][  0]LogDerivedDataCache: Display: Performance to C:/Users/admin_faruq/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.05ms. RandomReadSpeed=32.64MBs, RandomWriteSpeed=391.66MBs. Assigned SpeedClass 'Local'
+[2024.02.20-16.42.12:559][  0]LogDerivedDataCache: Using Local data cache path C:/Users/admin_faruq/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2024.02.20-16.42.12:559][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2024.02.20-16.42.12:559][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2024.02.20-16.42.12:593][  0]LogSlate: Using FreeType 2.10.0
+[2024.02.20-16.42.12:606][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2024.02.20-16.42.12:633][  0]LogAssetRegistry: FAssetRegistry took 0.0039 seconds to start up
+[2024.02.20-16.42.12:903][  0]LogInit: Selected Device Profile: [Windows]
+[2024.02.20-16.42.12:903][  0]LogInit: Active device profile: [0000021276095D00][00000212745A2D80 49] Windows
+[2024.02.20-16.42.12:903][  0]LogInit: Profiles: [0000021276095D00][00000212745A2D80 49] Windows, [0000021276052500][00000212745AAF00 49] WindowsNoEditor, [0000021276097500][0000021276885080 49] WindowsServer, [0000021276050C00][0000021276889200 49] WindowsClient, [0000021276094E00][000002127688D380 49] IOS, [0000021276050900][0000021276891500 49] iPadAir, [0000021276096C00][00000212745A7640 49] iPadAir2, [0000021275FEB200][0000021276899880 49] IPadPro, [0000021275FEB300][00000212768958C0 49] iPadAir3, [0000021276095400][000002127689DA00 49] iPadAir4, [0000021275FEA800][00000212768A5B80 49] iPadMini2, [0000021276097100][00000212768A9D00 49] iPadMini3, [0000021275FE9500][00000212768AC1C0 49] iPadMini4, [0000021276095000][00000212768B0340 49] iPadMini5, [0000021276042B00][00000212768B8600 49] iPhone6, [0000021276042C00][00000212768B4640 49] iPodTouch6, [0000021275FEBA00][00000212768C0900 49] iPhone7, [0000021275FEB800][00000212768BC940 49] iPodTouch7, [0000021276042800][00000212768C4AC0 49] iPhone5S, [0000021275FEA400][00000212768C8C40 49] iPhone6Plus, [0000021276041400][00000212768CCDC0 49] iPhone6S, [0000021275FE8600][00000212768D0F40 49] iPhone6SPlus, [0000021276042900][00000212768D50C0 49] iPhone7Plus, [0000021275FEB500][00000212768D9240 49] iPhoneSE, [0000021276043000][00000212768DD3C0 49] iPhone8, [0000021275FEBE00][00000212768E1540 49] iPhone8Plus, [0000021276041F00][00000212768E56C0 49] iPhoneX, [0000021275FE9F00][00000212768A1800 49] iPhoneXS, [0000021276040400][00000212768E9940 49] iPhoneXSMax, [0000021275FEB000][00000212768EDA80 49] iPhoneXR, [0000021276041100][00000212768F5C00 49] iPhone11, [0000021275FE9A00][00000212768F80C0 49] iPhone11Pro, [0000021276043600][00000212768FC240 49] iPhone11ProMax, [0000021275FEAB00][000002127690A3C0 49] iPhoneSE2, [0000021276043800][000002127690E540 49] iPhone12Mini, [0000021275FEA900][00000212769126C0 49] iPhone12, [0000021276041C00][0000021276916840 49] iPhone12Pro, [0000021275FEA700][000002127691A9C0 49] iPhone12ProMax, [0000021276040C00][000002127691EB40 49] iPadPro105, [0000021275FEA100][0000021276922CC0 49] iPadPro129, [0000021275FE9600][0000021276926E40 49] iPadPro97, [0000021276051A00][000002127692AFC0 49] iPadPro2_129, [0000021275FE8900][000002127692F140 49] iPad5, [0000021276052400][00000212769332C0 49] iPad6, [0000021275FE9E00][0000021276937440 49] iPad7, [0000021276052C00][000002127693B5C0 49] iPad8, [0000021275FE9400][000002127693F740 49] iPadPro11, [0000021276052B00][00000212768F1880 49] iPadPro2_11, [0000021276052000][00000212769439C0 49] iPadPro3_129, [0000021276043900][0000021276947B00 49] iPadPro4_129, [0000021276051900][000002127694BC40 49] AppleTV, [0000021276043D00][0000021276952100 49] AppleTV4K, [0000021276050E00][0000021276956280 49] TVOS, [0000021276043500][000002127695A400 49] Mac, [0000021276053C00][000002127695E580 49] MacClient, [0000021276041200][0000021276962700 49] MacNoEditor, [0000021275FEB900][0000021276966880 49] MacServer, [0000021276042300][000002127696AA00 49] Linux, [0000021275FE8400][000002127696EB80 49] LinuxAArch64, [0000021276040D00][0000021276972D00 49] LinuxNoEditor, [0000021275FE8100][0000021276976E80 49] LinuxAArch64NoEditor, [0000021276043F00][000002127697B000 49] LinuxClient, [0000021275FEB100][000002127697F180 49] LinuxAArch64Client, [0000021276041700][0000021276983300 49] LinuxServer, [0000021275FEBC00][0000021276987480 49] LinuxAArch64Server, [0000021276042100][000002127698B600 49] Android, [0000021275FEAD00][000002127698F780 49] Android_Low, [0000021276042E00][000002127694F8C0 49] Android_Mid, [0000021275FEA600][0000021276993A00 49] Android_High, [0000021276040500][0000021276997B40 49] Android_Default, [0000021275FEA500][000002127699BC80 49] Android_Adreno4xx, [0000021276041000][00000212769A2140 49] Android_Adreno5xx_Low, [0000021275FEA000][00000212769A62C0 49] Android_Adreno5xx, [0000021276040E00][00000212769AA440 49] Android_Adreno6xx, [0000021275FE8D00][00000212769AE5C0 49] Android_Adreno6xx_Vulkan, [0000021276042500][00000212769B2740 49] Android_Mali_T6xx, [0000021275FE8500][00000212769B68C0 49] Android_Mali_T7xx, [0000021276042400][00000212769BAA40 49] Android_Mali_T8xx, [0000021275FE8B00][00000212769D0BC0 49] Android_Mali_G71, [0000021276041800][00000212769D4D40 49] Android_Mali_G72, [0000021275FE9000][00000212769D8EC0 49] Android_Mali_G72_Vulkan, [0000021276040A00][00000212769DD040 49] Android_Mali_G76, [0000021275FE9900][00000212769E11C0 49] Android_Mali_G76_Vulkan, [0000021276042600][00000212769E5340 49] Android_Mali_G77, [0000021275FE9D00][00000212769E94C0 49] Android_Mali_G77_Vulkan, [0000021276043100][00000212769ED640 49] Android_Vulkan_SM5, [0000021275FEBB00][00000212769F17C0 49] Android_PowerVR_G6xxx, [0000021276040F00][00000212769F5940 49] Android_PowerVR_GT7xxx, [0000021275FEAF00][000002127699FA80 49] Android_PowerVR_GE8xxx, [0000021276043200][00000212769F9BC0 49] Android_PowerVR_GM9xxx, [0000021275FE8800][00000212769FDD00 49] Android_PowerVR_GM9xxx_Vulkan, [0000021276043B00][0000021276A041C0 49] Android_TegraK1, [0000021275FEB700][0000021276A08340 49] Android_Unknown_Vulkan, [0000021276041900][0000021276A0C4C0 49] Lumin, [0000021275FE9200][0000021276A10640 49] Lumin_Desktop, [0000021276043400][0000021276A147C0 49] HoloLens, 
+[2024.02.20-16.42.13:061][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2024.02.20-16.42.13:061][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2024.02.20-16.42.13:061][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2024.02.20-16.42.13:061][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2024.02.20-16.42.13:061][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2024.02.20-16.42.13:107][  0]LogNetVersion: DroneExp1 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 126652168)
+[2024.02.20-16.42.13:985][  0]Sim3dVehicleLightingLog: Display: Creating LightModule
+[2024.02.20-16.42.13:985][  0]Sim3dVehicleLightingLog: Display: Creating LightModule
+[2024.02.20-16.42.13:985][  0]Sim3dVehicleLightingLog: Display: Creating LightModule
+[2024.02.20-16.42.13:999][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2024.02.20-16.42.14:040][  0]LogPackageLocalizationCache: Processed 27 localized package path(s) for 1 prioritized culture(s) in 0.040450 seconds
+[2024.02.20-16.42.14:044][  0]LogUObjectArray: 17926 objects as part of root set at end of initial load.
+[2024.02.20-16.42.14:044][  0]LogUObjectAllocator: 5619216 out of 0 bytes used by permanent object pool.
+[2024.02.20-16.42.14:044][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2024.02.20-16.42.14:592][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2024.02.20-16.42.14:596][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2024.02.20-16.42.14:730][  0]SourceControl: Source control is disabled
+[2024.02.20-16.42.14:730][  0]SourceControl: Source control is disabled
+[2024.02.20-16.42.14:735][  0]SourceControl: Source control is disabled
+[2024.02.20-16.42.14:738][  0]SourceControl: Source control is disabled
+[2024.02.20-16.42.14:747][  0]SourceControl: Source control is disabled
+[2024.02.20-16.42.14:751][  0]LogUProjectInfo: Found projects:
+[2024.02.20-16.42.15:007][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2024.02.20-16.42.15:025][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2024.02.20-16.42.15:025][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2024.02.20-16.42.15:066][  0]LogCollectionManager: Loaded 0 collections in 0.001222 seconds
+[2024.02.20-16.42.15:092][  0]LogFileCache: Scanning file cache for directory 'C:/Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/Collections/' took 0.00s
+[2024.02.20-16.42.15:092][  0]LogFileCache: Scanning file cache for directory 'C:/Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Developers/adminfaruq/Collections/' took 0.00s
+[2024.02.20-16.42.15:092][  0]LogFileCache: Scanning file cache for directory 'C:/Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Collections/' took 0.00s
+[2024.02.20-16.42.15:092][  0]Sim3dVehicleLightingLog: Display: Creating LightModule
+[2024.02.20-16.42.15:092][  0]Sim3dVehicleLightingLog: Display: Creating LightModule
+[2024.02.20-16.42.15:092][  0]Sim3dVehicleLightingLog: Display: Creating LightModule
+[2024.02.20-16.42.15:130][  0]LogOcInput: OculusInput pre-init called
+[2024.02.20-16.42.15:357][  0]LogEngine: Initializing Engine...
+[2024.02.20-16.42.15:359][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2024.02.20-16.42.15:359][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2024.02.20-16.42.15:362][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2024.02.20-16.42.15:546][  0]LogInit: Initializing FReadOnlyCVARCache
+[2024.02.20-16.42.15:574][  0]LogAIModule: Creating AISystem for world Untitled
+[2024.02.20-16.42.15:578][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2024.02.20-16.42.15:582][  0]LogAudio: Display: Audio Device Manager Initialized
+[2024.02.20-16.42.15:582][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2024.02.20-16.42.15:582][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.20-16.42.15:582][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.20-16.42.15:582][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.20-16.42.15:582][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.20-16.42.15:582][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.02.20-16.42.15:582][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.20-16.42.15:582][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.02.20-16.42.15:582][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.20-16.42.15:583][  0]LogAudio: Display: Using built-in audio occlusion.
+[2024.02.20-16.42.15:583][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2024.02.20-16.42.15:597][  0]LogAudioMixer: Display: 0: FrontLeft
+[2024.02.20-16.42.15:597][  0]LogAudioMixer: Display: 1: FrontRight
+[2024.02.20-16.42.16:286][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2024.02.20-16.42.16:291][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.20-16.42.16:308][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.20-16.42.16:308][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.20-16.42.16:310][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.02.20-16.42.16:310][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.02.20-16.42.16:310][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.02.20-16.42.16:311][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.02.20-16.42.16:311][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.02.20-16.42.16:311][  0]LogInit: FAudioDevice initialized.
+[2024.02.20-16.42.16:311][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2024.02.20-16.42.16:311][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2024.02.20-16.42.16:341][  0]LogDerivedDataCache: Saved boot cache 0.03s 81MB C:/Users/admin_faruq/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2024.02.20-16.42.16:341][  0]LogInit: Texture streaming: Enabled
+[2024.02.20-16.42.16:352][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2024.02.20-16.42.16:354][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2024.02.20-16.42.16:355][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2024.02.20-16.42.16:356][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2024.02.20-16.42.16:378][  0]LogInit: Transaction tracking system initialized
+[2024.02.20-16.42.16:404][  0]BlueprintLog: New page: Editor Load
+[2024.02.20-16.42.16:494][  0]LocalizationService: Localization service is disabled
+[2024.02.20-16.42.16:528][  0]TimingProfiler: Initialize
+[2024.02.20-16.42.16:529][  0]TimingProfiler: OnSessionChanged
+[2024.02.20-16.42.16:529][  0]LoadingProfiler: Initialize
+[2024.02.20-16.42.16:529][  0]LoadingProfiler: OnSessionChanged
+[2024.02.20-16.42.16:529][  0]NetworkingProfiler: Initialize
+[2024.02.20-16.42.16:529][  0]NetworkingProfiler: OnSessionChanged
+[2024.02.20-16.42.16:530][  0]MemoryProfiler: Initialize
+[2024.02.20-16.42.16:530][  0]MemoryProfiler: OnSessionChanged
+[2024.02.20-16.42.16:808][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2024.02.20-16.42.16:808][  0]LogCook: Display: Mobile HDR setting 1
+[2024.02.20-16.42.17:016][  0]LogFileCache: Scanning file cache for directory 'C:/Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/' took 0.01s
+[2024.02.20-16.42.17:113][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2024.02.20-16.42.17:118][  0]SourceControl: Source control is disabled
+[2024.02.20-16.42.17:118][  0]LogUnrealEdMisc: Loading editor; pre map load, took 24.623
+[2024.02.20-16.42.17:120][  0]Cmd: MAP LOAD FILE="../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.02.20-16.42.17:120][  0]LightingResults: New page: Lighting Build
+[2024.02.20-16.42.17:125][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2024.02.20-16.42.17:126][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.20-16.42.17:128][  0]MapCheck: New page: Map Check
+[2024.02.20-16.42.17:128][  0]LightingResults: New page: Lighting Build
+[2024.02.20-16.42.17:145][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.02.20-16.42.17:774][  0]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2024.02.20-16.42.17:774][  0]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2024.02.20-16.42.17:774][  0]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 512X256)
+[2024.02.20-16.42.17:774][  0]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 512X256)
+[2024.02.20-16.42.18:013][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level1'.
+[2024.02.20-16.42.18:015][  0]LogAIModule: Creating AISystem for world Level1
+[2024.02.20-16.42.18:147][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.02.20-16.42.18:170][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.02.20-16.42.18:171][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.02.20-16.42.18:172][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.248ms to complete.
+[2024.02.20-16.42.18:172][  0]LogFileHelpers: Loading map 'Level1' took 1.053
+[2024.02.20-16.42.18:196][  0]LogUnrealEdMisc: Total Editor Startup Time, took 25.701
+[2024.02.20-16.42.18:353][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.20-16.42.18:358][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.20-16.42.18:362][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.20-16.42.18:365][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.20-16.42.18:394][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0067 seconds. Added 3726 classes and 881 folders.
+[2024.02.20-16.42.18:402][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2024.02.20-16.42.18:411][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2024.02.20-16.42.18:411][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.02.20-16.42.18:411][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2024.02.20-16.42.18:411][  0]LogPakFile: OnPakFileMounted2Time == 0.000125
+[2024.02.20-16.42.18:418][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2024.02.20-16.42.18:419][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.02.20-16.42.18:419][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2024.02.20-16.42.18:419][  0]LogPakFile: OnPakFileMounted2Time == 0.000131
+[2024.02.20-16.42.18:424][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2024.02.20-16.42.18:424][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.02.20-16.42.18:424][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2024.02.20-16.42.18:424][  0]LogPakFile: OnPakFileMounted2Time == 0.000138
+[2024.02.20-16.42.18:429][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2024.02.20-16.42.18:429][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.02.20-16.42.18:429][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2024.02.20-16.42.18:429][  0]LogPakFile: OnPakFileMounted2Time == 0.000143
+[2024.02.20-16.42.18:433][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2024.02.20-16.42.18:433][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.02.20-16.42.18:433][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2024.02.20-16.42.18:433][  0]LogPakFile: OnPakFileMounted2Time == 0.000148
+[2024.02.20-16.42.18:438][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2024.02.20-16.42.18:438][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.02.20-16.42.18:438][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2024.02.20-16.42.18:438][  0]LogPakFile: OnPakFileMounted2Time == 0.000152
+[2024.02.20-16.42.18:442][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2024.02.20-16.42.18:442][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.02.20-16.42.18:442][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2024.02.20-16.42.18:442][  0]LogPakFile: OnPakFileMounted2Time == 0.000156
+[2024.02.20-16.42.18:447][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2024.02.20-16.42.18:447][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.02.20-16.42.18:447][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2024.02.20-16.42.18:447][  0]LogPakFile: OnPakFileMounted2Time == 0.000159
+[2024.02.20-16.42.18:454][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2024.02.20-16.42.18:454][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.02.20-16.42.18:454][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2024.02.20-16.42.18:454][  0]LogPakFile: OnPakFileMounted2Time == 0.000161
+[2024.02.20-16.42.18:458][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2024.02.20-16.42.18:458][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.02.20-16.42.18:458][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2024.02.20-16.42.18:458][  0]LogPakFile: OnPakFileMounted2Time == 0.000163
+[2024.02.20-16.42.18:462][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2024.02.20-16.42.18:462][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.02.20-16.42.18:462][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2024.02.20-16.42.18:462][  0]LogPakFile: OnPakFileMounted2Time == 0.000165
+[2024.02.20-16.42.18:466][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2024.02.20-16.42.18:466][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.02.20-16.42.18:466][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2024.02.20-16.42.18:466][  0]LogPakFile: OnPakFileMounted2Time == 0.000166
+[2024.02.20-16.42.18:469][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2024.02.20-16.42.18:469][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.02.20-16.42.18:469][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2024.02.20-16.42.18:469][  0]LogPakFile: OnPakFileMounted2Time == 0.000168
+[2024.02.20-16.42.18:473][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2024.02.20-16.42.18:473][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.02.20-16.42.18:473][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2024.02.20-16.42.18:473][  0]LogPakFile: OnPakFileMounted2Time == 0.000169
+[2024.02.20-16.42.18:476][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2024.02.20-16.42.18:476][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.02.20-16.42.18:476][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2024.02.20-16.42.18:477][  0]LogPakFile: OnPakFileMounted2Time == 0.000170
+[2024.02.20-16.42.18:480][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2024.02.20-16.42.18:481][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.02.20-16.42.18:481][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2024.02.20-16.42.18:481][  0]LogPakFile: OnPakFileMounted2Time == 0.000171
+[2024.02.20-16.42.18:484][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2024.02.20-16.42.18:484][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.02.20-16.42.18:484][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2024.02.20-16.42.18:484][  0]LogPakFile: OnPakFileMounted2Time == 0.000173
+[2024.02.20-16.42.18:488][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2024.02.20-16.42.18:488][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.02.20-16.42.18:488][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2024.02.20-16.42.18:488][  0]LogPakFile: OnPakFileMounted2Time == 0.000176
+[2024.02.20-16.42.18:493][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2024.02.20-16.42.18:493][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.02.20-16.42.18:493][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2024.02.20-16.42.18:493][  0]LogPakFile: OnPakFileMounted2Time == 0.000179
+[2024.02.20-16.42.18:500][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2024.02.20-16.42.18:500][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.02.20-16.42.18:500][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2024.02.20-16.42.18:500][  0]LogPakFile: OnPakFileMounted2Time == 0.000181
+[2024.02.20-16.42.18:504][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2024.02.20-16.42.18:504][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.02.20-16.42.18:504][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2024.02.20-16.42.18:504][  0]LogPakFile: OnPakFileMounted2Time == 0.000183
+[2024.02.20-16.42.18:508][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2024.02.20-16.42.18:508][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.02.20-16.42.18:508][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2024.02.20-16.42.18:508][  0]LogPakFile: OnPakFileMounted2Time == 0.000185
+[2024.02.20-16.42.18:512][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2024.02.20-16.42.18:512][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.02.20-16.42.18:512][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2024.02.20-16.42.18:512][  0]LogPakFile: OnPakFileMounted2Time == 0.000186
+[2024.02.20-16.42.18:515][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2024.02.20-16.42.18:515][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.02.20-16.42.18:515][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2024.02.20-16.42.18:515][  0]LogPakFile: OnPakFileMounted2Time == 0.000188
+[2024.02.20-16.42.18:519][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2024.02.20-16.42.18:519][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.02.20-16.42.18:519][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2024.02.20-16.42.18:519][  0]LogPakFile: OnPakFileMounted2Time == 0.000189
+[2024.02.20-16.42.18:524][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2024.02.20-16.42.18:524][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.02.20-16.42.18:524][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2024.02.20-16.42.18:524][  0]LogPakFile: OnPakFileMounted2Time == 0.000191
+[2024.02.20-16.42.18:631][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2024.02.20-16.42.18:637][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2024.02.20-16.42.18:703][  0]LogSlate: Took 0.003751 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.02.20-16.42.18:707][  0]LogSlate: Took 0.002896 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2024.02.20-16.42.18:713][  0]LogSlate: Took 0.002551 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.02.20-16.42.18:805][  0]LogRenderer: Reallocating scene render targets to support 1172x572 Format 10 NumSamples 1 (Frame:1).
+[2024.02.20-16.42.18:844][  0]LogSlate: Took 0.000454 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.02.20-16.42.19:130][  0]LogSlate: Took 0.000099 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.02.20-16.42.19:183][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2024.02.20-16.42.19:183][  0]LogLoad: (Engine Initialization) Total time: 26.69 seconds
+[2024.02.20-16.42.19:183][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2024.02.20-16.42.19:184][  0]LogInit: First time updating LLM stats...
+[2024.02.20-16.42.19:227][  0]LogAssetRegistry: Asset discovery search completed in 6.5962 seconds
+[2024.02.20-16.42.19:228][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2024.02.20-16.42.19:270][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2024.02.20-16.42.19:532][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/' took 0.33s
+[2024.02.20-16.42.33:083][719]AssetReimport: New page: Outstanding source content changes 6:42:33 AM
+[2024.02.20-16.42.33:085][719]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Meshes/IcePiece1.fbx)
+[2024.02.20-16.42.33:100][719]LogFbx: Loading FBX Scene from C:/Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Meshes/IcePiece1.fbx
+[2024.02.20-16.42.33:104][719]LogFbx: FBX Scene Loaded Succesfully
+[2024.02.20-16.42.35:820][719]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.02.20-16.42.35:853][719]LogStaticMesh: Building static mesh IcePiece1...
+[2024.02.20-16.42.35:856][719]LogStaticMesh: Built static mesh [0.00s] /Game/Meshes/IcePiece1.IcePiece1
+[2024.02.20-16.42.35:924][719]LogSlate: Took 0.000336 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2024.02.20-16.42.35:927][720]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Meshes/IcePiece2.fbx)
+[2024.02.20-16.42.35:931][720]LogFbx: Loading FBX Scene from C:/Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Meshes/IcePiece2.fbx
+[2024.02.20-16.42.35:934][720]LogFbx: FBX Scene Loaded Succesfully
+[2024.02.20-16.42.38:457][720]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.02.20-16.42.38:475][720]LogStaticMesh: Building static mesh IcePiece2...
+[2024.02.20-16.42.38:476][720]LogStaticMesh: Built static mesh [0.00s] /Game/Meshes/IcePiece2.IcePiece2
+[2024.02.20-16.42.38:502][721]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Meshes/IcePiece3.fbx)
+[2024.02.20-16.42.38:507][721]LogFbx: Loading FBX Scene from C:/Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Meshes/IcePiece3.fbx
+[2024.02.20-16.42.38:509][721]LogFbx: FBX Scene Loaded Succesfully
+[2024.02.20-16.42.39:480][721]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.02.20-16.42.39:491][721]LogStaticMesh: Building static mesh IcePiece3...
+[2024.02.20-16.42.39:493][721]LogStaticMesh: Built static mesh [0.00s] /Game/Meshes/IcePiece3.IcePiece3
+[2024.02.20-16.42.39:519][722]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Meshes/IcePiece4.fbx)
+[2024.02.20-16.42.39:524][722]LogFbx: Loading FBX Scene from C:/Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Meshes/IcePiece4.fbx
+[2024.02.20-16.42.39:527][722]LogFbx: FBX Scene Loaded Succesfully
+[2024.02.20-16.42.40:710][722]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.02.20-16.42.40:724][722]LogStaticMesh: Building static mesh IcePiece4...
+[2024.02.20-16.42.40:726][722]LogStaticMesh: Built static mesh [0.00s] /Game/Meshes/IcePiece4.IcePiece4
+[2024.02.20-16.42.40:839][723]LogSavePackage: Moving '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/IcePiece16C1D47974BAD66249B9F58AD1D90748B.tmp' to '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Meshes/IcePiece1.uasset'
+[2024.02.20-16.42.40:860][723]LogSavePackage: Moving '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/IcePiece2FA4D3C6149C60CFAF24E18A617448D6E.tmp' to '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Meshes/IcePiece2.uasset'
+[2024.02.20-16.42.40:880][723]LogSavePackage: Moving '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/IcePiece37FFB64A04BC85DB56FD4E192EF1C176F.tmp' to '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Meshes/IcePiece3.uasset'
+[2024.02.20-16.42.40:898][723]LogSavePackage: Moving '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/IcePiece424E719FA466059D90CF6AC97EAB3377D.tmp' to '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Meshes/IcePiece4.uasset'
+[2024.02.20-16.42.40:936][724]AssetCheck: New page: Asset Save: multiple assets
+[2024.02.20-16.42.40:936][724]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/IcePiece4.IcePiece4
+[2024.02.20-16.42.40:936][724]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/IcePiece3.IcePiece3
+[2024.02.20-16.42.40:936][724]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/IcePiece2.IcePiece2
+[2024.02.20-16.42.40:936][724]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/IcePiece1.IcePiece1
+[2024.02.20-16.42.43:017][964]LogSlate: Window 'Message Log' being destroyed
+[2024.02.20-16.42.43:020][964]LogSlate: Window 'Message Log' being destroyed
+[2024.02.20-16.42.43:921][ 71]AssetReimport: Importing new asset /Game/Meshes/IcePiece1.
+[2024.02.20-16.42.43:921][ 71]AssetReimport: Importing new asset /Game/Meshes/IcePiece2.
+[2024.02.20-16.42.43:921][ 71]AssetReimport: Importing new asset /Game/Meshes/IcePiece3.
+[2024.02.20-16.42.43:921][ 71]AssetReimport: Importing new asset /Game/Meshes/IcePiece4.
+[2024.02.20-16.42.44:202][103]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Meshes/IcePiece4.IcePiece4
+[2024.02.20-16.42.44:691][103]LogRenderer: Reallocating scene render targets to support 1172x920 Format 10 NumSamples 1 (Frame:1).
+[2024.02.20-16.42.44:691][103]LogSlate: Took 0.003704 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.02.20-16.42.49:954][718]LogSlate: Window 'IcePiece4' being destroyed
+[2024.02.20-16.42.49:958][718]LogSlate: Window 'IcePiece4' being destroyed
+[2024.02.20-16.42.49:961][718]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.02.20-16.42.49:961][718]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.20-16.43.30:210][465]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.02.20-16.43.47:262][ 82]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.02.20-16.43.47:268][ 82]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.02.20-16.43.47:277][ 82]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.02.20-16.43.56:855][190]LogContentBrowser: Attempting asset rename: NewBlueprint -> IcePieceBP1
+[2024.02.20-16.43.56:860][190]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.02.20-16.43.58:553][390]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/IcePieceBP1.IcePieceBP1
+[2024.02.20-16.43.58:897][390]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01.uasset: Failed to load '/Game/BeachScene/Effects/Niagara/RT_Foam': Can't find file.
+[2024.02.20-16.43.58:897][390]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01.uasset: Failed to load '/Game/BeachScene/Effects/Niagara/RT_Foam': Can't find file.
+[2024.02.20-16.43.58:897][390]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01.uasset: Failed to load '/Game/BeachScene/Effects/Niagara/RT_Foam': Can't find file.
+[2024.02.20-16.43.59:151][390]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01.uasset: Failed to load '/Game/BeachScene/Effects/Niagara/RT_Foam': Can't find file.
+[2024.02.20-16.43.59:151][390]LoadErrors: Failed to load /Game/BeachScene/Effects/Niagara/RT_Foam.RT_Foam Referenced by M_Fluid_Sim_01
+[2024.02.20-16.43.59:152][390]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01.uasset: Failed to load '/Game/BeachScene/Effects/Niagara/RT_Foam': Can't find file.
+[2024.02.20-16.43.59:152][390]LoadErrors: Failed to load /Game/BeachScene/Effects/Niagara/RT_Foam.RT_Foam Referenced by MaterialExpressionTextureSample_1
+[2024.02.20-16.43.59:174][390]LogMaterial: Display: Missing cached shader map for material M_Fluid_Sim_01, compiling. 
+[2024.02.20-16.43.59:178][390]LogMaterial: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.02.20-16.43.59:178][390]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.02.20-16.43.59:179][390]LogMaterial: Display: Missing cached shader map for material M_Fluid_Sim_01, compiling. 
+[2024.02.20-16.43.59:179][390]LogMaterial: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01_NoTerrain.uasset: Failed to compile Material Instance with Base M_Fluid_Sim_01 for platform PCD3D_SM5, Default Material will be used in game.
+[2024.02.20-16.43.59:179][390]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2024.02.20-16.43.59:263][390]LogBlueprintEditor: Perf: 0.6 total seconds to load all 7 blueprint libraries in project. Avoid references to content in blueprint libraries to shorten this time.
+[2024.02.20-16.43.59:263][390]LogBlueprintEditor: Perf: 0.5 seconds loading: /Water/FluidSimulation/Blueprints/Libraries/PhysicsMacros
+[2024.02.20-16.43.59:550][390]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0003 seconds. Added 126 classes and 0 folders.
+[2024.02.20-16.44.00:025][390]LogSlate: Took 0.003104 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.02.20-16.44.07:937][312]LogSlate: Window 'IcePieceBP1' being destroyed
+[2024.02.20-16.44.07:943][312]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.02.20-16.44.07:943][312]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.20-16.44.10:640][628]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2024.02.20-16.44.11:603][628]LogSlate: Window 'Delete Assets' being destroyed
+[2024.02.20-16.44.11:632][628]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Blueprints/IcePieceBP1.IcePieceBP1
+[2024.02.20-16.44.12:503][628]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.02.20-16.44.17:869][216]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.02.20-16.44.23:062][216]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.02.20-16.44.23:099][216]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.02.20-16.44.23:106][216]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.02.20-16.44.24:568][355]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2024.02.20-16.44.24:570][355]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.02.20-16.44.25:252][436]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/NewBlueprint.NewBlueprint
+[2024.02.20-16.44.38:895][929]LogSlate: Window 'NewBlueprint' being destroyed
+[2024.02.20-16.44.38:898][929]LogSlate: Window 'NewBlueprint' being destroyed
+[2024.02.20-16.44.38:903][929]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.02.20-16.44.38:903][929]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.20-16.44.40:804][150]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.02.20-16.44.41:654][150]LogSlate: Window 'Delete Assets' being destroyed
+[2024.02.20-16.44.41:677][150]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Blueprints/NewBlueprint.NewBlueprint
+[2024.02.20-16.44.41:817][150]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.02.20-16.44.43:698][344]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.02.20-16.45.04:795][344]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.02.20-16.45.04:836][344]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.02.20-16.45.04:843][344]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.02.20-16.45.16:681][746]LogContentBrowser: Attempting asset rename: NewBlueprint -> IcePieceBP1
+[2024.02.20-16.45.16:683][746]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.02.20-16.45.18:368][947]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/IcePieceBP1.IcePieceBP1
+[2024.02.20-16.45.27:274][914]LogSavePackage: Moving '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/IcePieceBP17D60A4CE40F082AE2CA26FA2D2CCB3E7.tmp' to '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Blueprints/IcePieceBP1.uasset'
+[2024.02.20-16.45.27:283][914]AssetCheck: New page: Asset Save: IcePieceBP1
+[2024.02.20-16.45.27:283][914]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/IcePieceBP1.IcePieceBP1
+[2024.02.20-16.45.34:951][775]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetTileView [SAssetView.cpp(1561)].
+[2024.02.20-16.45.34:967][775]LogSavePackage: Moving '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/IcePieceBP126B8532A4AF8F40D29D28A8F35B07683.tmp' to '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Blueprints/IcePieceBP1.uasset'
+[2024.02.20-16.45.34:976][775]AssetCheck: New page: Asset Save: IcePieceBP1
+[2024.02.20-16.45.34:976][775]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/IcePieceBP1.IcePieceBP1
+[2024.02.20-16.45.40:772][458]LogSavePackage: Moving '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/IcePieceBP16163D89947475672A5916399361B6F91.tmp' to '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Blueprints/IcePieceBP1.uasset'
+[2024.02.20-16.45.40:781][458]AssetCheck: New page: Asset Save: IcePieceBP1
+[2024.02.20-16.45.40:781][458]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/IcePieceBP1.IcePieceBP1
+[2024.02.20-16.45.43:640][775]LogSavePackage: Moving '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/IcePieceBP1FA5F28BB428E1E78717A7D91D6C71AE3.tmp' to '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Blueprints/IcePieceBP1.uasset'
+[2024.02.20-16.45.43:648][775]AssetCheck: New page: Asset Save: IcePieceBP1
+[2024.02.20-16.45.43:648][775]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/IcePieceBP1.IcePieceBP1
+[2024.02.20-16.45.44:437][862]BlueprintLog: New page: Compile IcePieceBP1
+[2024.02.20-16.45.44:460][862]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.02.20-16.45.44:997][919]LogSavePackage: Moving '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/IcePieceBP1E572D67046D228090CB6CF9A21838571.tmp' to '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Blueprints/IcePieceBP1.uasset'
+[2024.02.20-16.45.45:005][919]AssetCheck: New page: Asset Save: IcePieceBP1
+[2024.02.20-16.45.45:005][919]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/IcePieceBP1.IcePieceBP1
+[2024.02.20-16.45.55:980][206]LogSavePackage: Moving '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/IcePieceBP19CF492AA491936DD5FFD8881617F2D1B.tmp' to '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Blueprints/IcePieceBP1.uasset'
+[2024.02.20-16.45.55:989][206]AssetCheck: New page: Asset Save: IcePieceBP1
+[2024.02.20-16.45.55:989][206]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/IcePieceBP1.IcePieceBP1
+[2024.02.20-16.45.58:074][443]LogSavePackage: Moving '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/IcePieceBP1B2C31C0248CEB111921F00BBE7018F3A.tmp' to '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Blueprints/IcePieceBP1.uasset'
+[2024.02.20-16.45.58:083][443]AssetCheck: New page: Asset Save: IcePieceBP1
+[2024.02.20-16.45.58:083][443]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/IcePieceBP1.IcePieceBP1
+[2024.02.20-16.45.58:428][483]BlueprintLog: New page: Compile IcePieceBP1
+[2024.02.20-16.45.58:449][483]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.02.20-16.46.06:748][421]LogSavePackage: Moving '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/IcePieceBP1DA84E9B145EFEB81121E1FB020298F14.tmp' to '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Blueprints/IcePieceBP1.uasset'
+[2024.02.20-16.46.06:757][421]AssetCheck: New page: Asset Save: IcePieceBP1
+[2024.02.20-16.46.06:757][421]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/IcePieceBP1.IcePieceBP1
+[2024.02.20-16.46.19:829][935]BlueprintLog: New page: Compile IcePieceBP1
+[2024.02.20-16.46.19:851][935]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.02.20-16.46.20:731][ 33]LogSavePackage: Moving '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/IcePieceBP1AD80778247EA29A03B78AF82C2D46990.tmp' to '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Blueprints/IcePieceBP1.uasset'
+[2024.02.20-16.46.20:742][ 33]AssetCheck: New page: Asset Save: IcePieceBP1
+[2024.02.20-16.46.20:742][ 33]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/IcePieceBP1.IcePieceBP1
+[2024.02.20-16.46.49:638][429]Cmd: DELETE
+[2024.02.20-16.46.49:640][429]Cmd: ACTOR DELETE
+[2024.02.20-16.46.49:648][429]LogEditorActor: Deleted Actor: IcePieceBP1_C
+[2024.02.20-16.46.49:661][429]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.02.20-16.46.49:662][429]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2024.02.20-16.46.50:717][548]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.02.20-16.46.50:865][548]LogSavePackage: Moving '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/Level15424C7444D2C971BC22DFC9A0BAD04DA.tmp' to '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Level1.umap'
+[2024.02.20-16.46.51:192][548]LogSavePackage: Moving '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/Level1_BuiltData466F34174EBBE9501198429A8E4B91A8.tmp' to '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Level1_BuiltData.uasset'
+[2024.02.20-16.46.51:201][548]AssetCheck: New page: Asset Save: multiple assets
+[2024.02.20-16.46.51:201][548]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level1_BuiltData.Level1_BuiltData
+[2024.02.20-16.46.51:201][548]LogContentValidation: Display: Validating World /Game/Level1.Level1
+[2024.02.20-16.46.55:603][ 60]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/IceSpawner.IceSpawner
+[2024.02.20-16.47.01:589][731]LogSlate: Window 'IceSpawner' being destroyed
+[2024.02.20-16.47.01:593][731]LogSlate: Window 'IceSpawner' being destroyed
+[2024.02.20-16.47.01:595][731]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2024.02.20-16.47.01:595][731]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.20-16.47.01:624][731]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.02.20-16.47.01:624][731]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2024.02.20-16.47.01:624][731]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.20-16.47.07:217][391]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.02.20-16.47.07:368][391]LogSavePackage: Moving '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/Level150942029495C11E2AA650DA7305C717C.tmp' to '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Level1.umap'
+[2024.02.20-16.47.07:694][391]LogSavePackage: Moving '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/Level1_BuiltDataB3C959E84E349431CE4D0F81E7C1B444.tmp' to '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Level1_BuiltData.uasset'
+[2024.02.20-16.47.07:702][391]AssetCheck: New page: Asset Save: multiple assets
+[2024.02.20-16.47.07:702][391]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level1_BuiltData.Level1_BuiltData
+[2024.02.20-16.47.07:702][391]LogContentValidation: Display: Validating World /Game/Level1.Level1
+[2024.02.20-16.47.17:354][537]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/IcePieceBP1.IcePieceBP1
+[2024.02.20-16.47.24:148][269]LogSavePackage: Moving '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/IcePieceBP1E8BFB15E4F45F196012668BD438A75E3.tmp' to '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Blueprints/IcePieceBP1.uasset'
+[2024.02.20-16.47.24:158][269]AssetCheck: New page: Asset Save: IcePieceBP1
+[2024.02.20-16.47.24:159][269]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/IcePieceBP1.IcePieceBP1
+[2024.02.20-16.47.36:865][752]LogSavePackage: Moving '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/IcePieceBP1E731625B46055C0CD2FB73A5E6B141B7.tmp' to '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Blueprints/IcePieceBP1.uasset'
+[2024.02.20-16.47.36:873][752]AssetCheck: New page: Asset Save: IcePieceBP1
+[2024.02.20-16.47.36:873][752]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/IcePieceBP1.IcePieceBP1
+[2024.02.20-16.47.43:931][597]LogEditorTransaction: Undo Edit Apply Drag Forces in Water
+[2024.02.20-16.47.44:492][609]LogSavePackage: Moving '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/IcePieceBP179E1628C4EE963972946649194A680D6.tmp' to '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Blueprints/IcePieceBP1.uasset'
+[2024.02.20-16.47.44:500][609]AssetCheck: New page: Asset Save: IcePieceBP1
+[2024.02.20-16.47.44:500][609]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/IcePieceBP1.IcePieceBP1
+[2024.02.20-16.47.45:713][741]BlueprintLog: New page: Compile IcePieceBP1
+[2024.02.20-16.47.45:735][741]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.02.20-16.47.46:237][796]LogSavePackage: Moving '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/IcePieceBP19C15BA2C4EDDBA6F3369C08294314B62.tmp' to '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Blueprints/IcePieceBP1.uasset'
+[2024.02.20-16.47.46:245][796]AssetCheck: New page: Asset Save: IcePieceBP1
+[2024.02.20-16.47.46:245][796]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/IcePieceBP1.IcePieceBP1
+[2024.02.20-16.47.52:171][467]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.02.20-16.47.57:306][ 51]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.02.20-16.48.04:459][814]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.02.20-16.48.07:801][206]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.02.20-16.48.09:923][458]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.02.20-16.48.11:753][667]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.02.20-16.48.23:940][ 67]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.02.20-16.48.35:479][425]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.02.20-16.48.45:702][597]LogEditorViewport: Clicking on Actor (LMB): WaterBodyLake (WaterBodyLake)
+[2024.02.20-16.48.53:301][459]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.02.20-16.49.08:006][159]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.02.20-16.49.12:999][719]LogEditorViewport: Clicking on Actor (LMB): WaterBodyLake (WaterBodyLake)
+[2024.02.20-16.49.18:554][362]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.02.20-16.49.18:704][362]LogSavePackage: Moving '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/Level1D0D3A71B42B8A16EFC4363A0EB9ADAE5.tmp' to '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Level1.umap'
+[2024.02.20-16.49.19:031][362]LogSavePackage: Moving '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/Level1_BuiltDataA05B74CF47E31429F808A3BC3878828B.tmp' to '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Level1_BuiltData.uasset'
+[2024.02.20-16.49.19:039][362]AssetCheck: New page: Asset Save: multiple assets
+[2024.02.20-16.49.19:039][362]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level1_BuiltData.Level1_BuiltData
+[2024.02.20-16.49.19:039][362]LogContentValidation: Display: Validating World /Game/Level1.Level1
+[2024.02.20-16.49.21:242][589]LogTemp: Repeating last play command: Selected Viewport
+[2024.02.20-16.49.21:248][589]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.20-16.49.21:249][589]PIE: New page: PIE session: Level1 (Feb 20, 2024, 6:49:21 AM)
+[2024.02.20-16.49.21:252][589]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2024.02.20-16.49.21:253][589]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2024.02.20-16.49.21:254][589]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level1
+[2024.02.20-16.49.21:305][589]LogPlayLevel: PIE: StaticDuplicateObject took: (0.050901s)
+[2024.02.20-16.49.21:305][589]LogAIModule: Creating AISystem for world Level1
+[2024.02.20-16.49.21:306][589]LogPlayLevel: PIE: World Init took: (0.001152s)
+[2024.02.20-16.49.21:306][589]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1.Level1 to /Game/UEDPIE_0_Level1.Level1 (0.052300s)
+[2024.02.20-16.49.21:318][589]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.02.20-16.49.21:321][589]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.02.20-16.49.21:321][589]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.20-16.49.21:321][589]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.20-16.49.21:321][589]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.20-16.49.21:321][589]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.20-16.49.21:321][589]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.02.20-16.49.21:321][589]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.20-16.49.21:321][589]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.02.20-16.49.21:321][589]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.20-16.49.21:321][589]LogAudio: Display: Using built-in audio occlusion.
+[2024.02.20-16.49.21:321][589]LogAudioMixer: Display: Initializing audio mixer.
+[2024.02.20-16.49.21:323][589]LogAudioMixer: Display: 0: FrontLeft
+[2024.02.20-16.49.21:323][589]LogAudioMixer: Display: 1: FrontRight
+[2024.02.20-16.49.21:363][589]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2024.02.20-16.49.21:364][589]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.20-16.49.21:364][589]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.20-16.49.21:364][589]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.20-16.49.21:364][589]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.02.20-16.49.21:364][589]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.02.20-16.49.21:364][589]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.02.20-16.49.21:379][589]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.02.20-16.49.21:379][589]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.02.20-16.49.21:379][589]LogInit: FAudioDevice initialized.
+[2024.02.20-16.49.21:379][589]LogAudio: Display: Audio Device (ID: 2) registered with world 'Level1'.
+[2024.02.20-16.49.21:388][589]LogLoad: Game class is 'GameModeBase'
+[2024.02.20-16.49.21:393][589]LogWorld: Bringing World /Game/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2024.02.20-11.49.21
+[2024.02.20-16.49.52:476][589]Sim3dInterfaceLog: Display: Sim3dInterface is not ready.
+[2024.02.20-16.49.52:478][589]LogWorld: Bringing up level for play took: 31.086867
+[2024.02.20-16.49.52:479][589]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2024.02.20-16.49.52:487][589]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2024.02.20-16.49.52:488][589]LogTemp: Using XML
+[2024.02.20-16.49.52:500][589]LogTemp: Warning: RootNode tag is: IceConcentrations
+[2024.02.20-16.49.52:556][589]PIE: Server logged in
+[2024.02.20-16.49.52:557][589]PIE: Play in editor total start time 31.311 seconds.
+[2024.02.20-16.50.11:927][701]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.02.20-16.50.23:096][717]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.20-16.50.23:096][717]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level1
+[2024.02.20-16.50.23:097][717]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2024.02.20-16.50.23:100][717]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.20-16.50.23:107][717]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.20-16.50.23:132][717]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.20-16.50.23:154][717]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.20-16.50.23:157][717]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.02.20-16.50.23:158][717]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.02.20-16.50.23:194][717]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2024.02.20-16.50.23:219][718]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2024.02.20-16.50.31:490][602]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Meshes/IcePiece1.IcePiece1
+[2024.02.20-16.50.57:820][668]LogSavePackage: Moving '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/IcePiece13DA8DCE0455FCF6951D0B3A810C39ACC.tmp' to '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Meshes/IcePiece1.uasset'
+[2024.02.20-16.50.57:829][668]AssetCheck: New page: Asset Save: IcePiece1
+[2024.02.20-16.50.57:829][668]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/IcePiece1.IcePiece1
+[2024.02.20-16.51.04:445][445]LogSavePackage: Moving '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/IcePiece1739CE8164301A17D7B048FA2277EA396.tmp' to '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Meshes/IcePiece1.uasset'
+[2024.02.20-16.51.04:454][445]AssetCheck: New page: Asset Save: IcePiece1
+[2024.02.20-16.51.04:454][445]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/IcePiece1.IcePiece1
+[2024.02.20-16.52.34:287][922]LogSavePackage: Moving '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/IcePiece1932CC9F64DF9C8BACEBB909A168816B7.tmp' to '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Meshes/IcePiece1.uasset'
+[2024.02.20-16.52.34:299][922]AssetCheck: New page: Asset Save: IcePiece1
+[2024.02.20-16.52.34:299][922]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/IcePiece1.IcePiece1
+[2024.02.20-16.53.19:087][143]LogSavePackage: Moving '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/IcePiece1FF598E2049B28841B8E4C8A5AE8600F2.tmp' to '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Meshes/IcePiece1.uasset'
+[2024.02.20-16.53.19:097][143]AssetCheck: New page: Asset Save: IcePiece1
+[2024.02.20-16.53.19:097][143]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/IcePiece1.IcePiece1
+[2024.02.20-16.53.45:306][866]LogSavePackage: Moving '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/IcePiece119D36AD74E23540B0880B388450D4601.tmp' to '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Meshes/IcePiece1.uasset'
+[2024.02.20-16.53.45:315][866]AssetCheck: New page: Asset Save: IcePiece1
+[2024.02.20-16.53.45:315][866]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/IcePiece1.IcePiece1
+[2024.02.20-16.53.55:697][104]LogSavePackage: Moving '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/IcePiece1B9B7C6D34773EEB502A8CEA76C94E614.tmp' to '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Meshes/IcePiece1.uasset'
+[2024.02.20-16.53.55:706][104]AssetCheck: New page: Asset Save: IcePiece1
+[2024.02.20-16.53.55:706][104]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/IcePiece1.IcePiece1
+[2024.02.20-16.54.10:390][856]LogSavePackage: Moving '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/IcePiece1408219BD46B00A3FD491DF9A1FC89134.tmp' to '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Meshes/IcePiece1.uasset'
+[2024.02.20-16.54.10:398][856]AssetCheck: New page: Asset Save: IcePiece1
+[2024.02.20-16.54.10:398][856]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/IcePiece1.IcePiece1
+[2024.02.20-16.54.10:698][888]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2024.02.20-16.54.10:854][888]LogSavePackage: Moving '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/Level1252C72D04F75330A84F871B302D90B2D.tmp' to '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Level1.umap'
+[2024.02.20-16.54.11:185][888]LogSavePackage: Moving '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/Level1_BuiltData0D2D08044A4F6894FBA71E83CE5E61A4.tmp' to '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Level1_BuiltData.uasset'
+[2024.02.20-16.54.11:194][888]AssetCheck: New page: Asset Save: multiple assets
+[2024.02.20-16.54.11:194][888]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level1_BuiltData.Level1_BuiltData
+[2024.02.20-16.54.11:194][888]LogContentValidation: Display: Validating World /Game/Level1.Level1
+[2024.02.20-16.54.12:914][ 89]LogSavePackage: Moving '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/IcePiece1D1FD939C4220FE34883066B0C1CA17EA.tmp' to '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Meshes/IcePiece1.uasset'
+[2024.02.20-16.54.12:922][ 89]AssetCheck: New page: Asset Save: IcePiece1
+[2024.02.20-16.54.12:922][ 89]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/IcePiece1.IcePiece1
+[2024.02.20-16.54.14:548][275]LogSavePackage: Moving '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/IcePiece1A9020B5F45991B90918C1592BDC6556D.tmp' to '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Meshes/IcePiece1.uasset'
+[2024.02.20-16.54.14:556][275]AssetCheck: New page: Asset Save: IcePiece1
+[2024.02.20-16.54.14:556][275]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/IcePiece1.IcePiece1
+[2024.02.20-16.54.20:698][999]LogSavePackage: Moving '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/IcePiece141CDAFD4493F6B5D242B94800AB10355.tmp' to '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Meshes/IcePiece1.uasset'
+[2024.02.20-16.54.20:709][999]AssetCheck: New page: Asset Save: IcePiece1
+[2024.02.20-16.54.20:709][999]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/IcePiece1.IcePiece1
+[2024.02.20-16.54.26:256][652]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2024.02.20-16.54.26:256][652]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.20-16.54.39:633][198]LogSavePackage: Moving '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/IcePieceBP18EAED2824587E606CA7DB187F7CA437B.tmp' to '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Blueprints/IcePieceBP1.uasset'
+[2024.02.20-16.54.39:642][198]AssetCheck: New page: Asset Save: IcePieceBP1
+[2024.02.20-16.54.39:642][198]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/IcePieceBP1.IcePieceBP1
+[2024.02.20-16.54.55:078][982]LogSavePackage: Moving '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/IcePieceBP18086B8274815367EE5C4A99EC4B5F2E2.tmp' to '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Blueprints/IcePieceBP1.uasset'
+[2024.02.20-16.54.55:087][982]AssetCheck: New page: Asset Save: IcePieceBP1
+[2024.02.20-16.54.55:087][982]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/IcePieceBP1.IcePieceBP1
+[2024.02.20-16.55.12:844][ 60]LogSavePackage: Moving '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/IcePieceBP12ECCCB964E2DFC7F4F2CB3A84BBC8A3C.tmp' to '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Blueprints/IcePieceBP1.uasset'
+[2024.02.20-16.55.12:853][ 60]AssetCheck: New page: Asset Save: IcePieceBP1
+[2024.02.20-16.55.12:853][ 60]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/IcePieceBP1.IcePieceBP1
+[2024.02.20-16.55.18:244][698]LogSavePackage: Moving '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/IcePieceBP19CF455284893C134F3EF649FCE0888BA.tmp' to '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Blueprints/IcePieceBP1.uasset'
+[2024.02.20-16.55.18:253][698]AssetCheck: New page: Asset Save: IcePieceBP1
+[2024.02.20-16.55.18:253][698]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/IcePieceBP1.IcePieceBP1
+[2024.02.20-16.55.23:945][373]LogSavePackage: Moving '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/IcePieceBP13811E1FF486DA947C1C44DAAE6FA6F17.tmp' to '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Blueprints/IcePieceBP1.uasset'
+[2024.02.20-16.55.23:955][373]AssetCheck: New page: Asset Save: IcePieceBP1
+[2024.02.20-16.55.23:955][373]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/IcePieceBP1.IcePieceBP1
+[2024.02.20-16.55.28:933][921]LogSavePackage: Moving '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/IcePieceBP174E0C9E2497B057DB202B6B55E5356E6.tmp' to '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Blueprints/IcePieceBP1.uasset'
+[2024.02.20-16.55.28:943][921]AssetCheck: New page: Asset Save: IcePieceBP1
+[2024.02.20-16.55.28:943][921]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/IcePieceBP1.IcePieceBP1
+[2024.02.20-16.55.29:772][ 11]BlueprintLog: New page: Compile IcePieceBP1
+[2024.02.20-16.55.29:803][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2024.02.20-16.55.30:596][ 97]LogSavePackage: Moving '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/IcePieceBP1C94856354007B7FEC5B67C8A79D872CB.tmp' to '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Blueprints/IcePieceBP1.uasset'
+[2024.02.20-16.55.30:606][ 97]AssetCheck: New page: Asset Save: IcePieceBP1
+[2024.02.20-16.55.30:606][ 97]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/IcePieceBP1.IcePieceBP1
+[2024.02.20-16.55.33:705][460]LogTemp: Repeating last play command: Selected Viewport
+[2024.02.20-16.55.33:709][460]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.20-16.55.33:709][460]PIE: New page: PIE session: Level1 (Feb 20, 2024, 6:55:33 AM)
+[2024.02.20-16.55.33:709][460]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level1
+[2024.02.20-16.55.33:760][460]LogPlayLevel: PIE: StaticDuplicateObject took: (0.052012s)
+[2024.02.20-16.55.33:761][460]LogAIModule: Creating AISystem for world Level1
+[2024.02.20-16.55.33:761][460]LogPlayLevel: PIE: World Init took: (0.000845s)
+[2024.02.20-16.55.33:761][460]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1.Level1 to /Game/UEDPIE_0_Level1.Level1 (0.052953s)
+[2024.02.20-16.55.33:778][460]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2024.02.20-16.55.33:781][460]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.02.20-16.55.33:781][460]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.20-16.55.33:781][460]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.20-16.55.33:781][460]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.20-16.55.33:781][460]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.20-16.55.33:781][460]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.02.20-16.55.33:781][460]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.20-16.55.33:781][460]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.02.20-16.55.33:781][460]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.20-16.55.33:781][460]LogAudio: Display: Using built-in audio occlusion.
+[2024.02.20-16.55.33:781][460]LogAudioMixer: Display: Initializing audio mixer.
+[2024.02.20-16.55.33:783][460]LogAudioMixer: Display: 0: FrontLeft
+[2024.02.20-16.55.33:783][460]LogAudioMixer: Display: 1: FrontRight
+[2024.02.20-16.55.33:821][460]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2024.02.20-16.55.33:821][460]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.20-16.55.33:821][460]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.20-16.55.33:821][460]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.20-16.55.33:821][460]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.02.20-16.55.33:822][460]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.02.20-16.55.33:822][460]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.02.20-16.55.33:837][460]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.02.20-16.55.33:837][460]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.02.20-16.55.33:837][460]LogInit: FAudioDevice initialized.
+[2024.02.20-16.55.33:837][460]LogAudio: Display: Audio Device (ID: 3) registered with world 'Level1'.
+[2024.02.20-16.55.33:841][460]LogLoad: Game class is 'GameModeBase'
+[2024.02.20-16.55.33:844][460]LogWorld: Bringing World /Game/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2024.02.20-11.55.33
+[2024.02.20-16.56.04:911][460]Sim3dInterfaceLog: Display: Sim3dInterface is not ready.
+[2024.02.20-16.56.04:911][460]LogWorld: Bringing up level for play took: 31.069431
+[2024.02.20-16.56.04:911][460]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2024.02.20-16.56.04:914][460]LogTemp: Using XML
+[2024.02.20-16.56.04:922][460]LogTemp: Warning: RootNode tag is: IceConcentrations
+[2024.02.20-16.56.04:975][460]PIE: Server logged in
+[2024.02.20-16.56.04:976][460]PIE: Play in editor total start time 31.268 seconds.
+[2024.02.20-16.56.28:213][728]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.20-16.56.28:213][728]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level1
+[2024.02.20-16.56.28:214][728]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2024.02.20-16.56.28:219][728]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.20-16.56.28:231][728]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.20-16.56.28:253][728]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.20-16.56.28:269][728]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.20-16.56.28:270][728]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.02.20-16.56.28:271][728]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.02.20-16.56.28:287][728]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.20-16.56.28:296][728]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.02.20-16.56.28:328][729]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2024.02.20-16.56.42:422][350]LogEditorTransaction: Undo Clear Children
+[2024.02.20-16.57.11:844][734]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Meshes/IcePiece1.IcePiece1
+[2024.02.20-17.00.39:697][167]AssetReimport: New page: Outstanding source content changes 7:00:39 AM
+[2024.02.20-17.00.39:700][167]LogEditorFactories: Performing atomic reimport of [C:/Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Meshes/IcePiece1.fbx]
+[2024.02.20-17.00.39:704][167]LogFbx: Loading FBX Scene from C:/Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Meshes/IcePiece1.fbx
+[2024.02.20-17.00.39:707][167]LogFbx: FBX Scene Loaded Succesfully
+[2024.02.20-17.00.39:713][167]LogStaticMesh: Building static mesh IcePiece1...
+[2024.02.20-17.00.39:715][167]LogStaticMesh: Built static mesh [0.00s] /Game/Meshes/IcePiece1.IcePiece1
+[2024.02.20-17.00.39:722][167]LogEditorFactories: -- imported successfully
+[2024.02.20-17.00.39:955][168]LogSavePackage: Moving '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/IcePiece10D599EA844FD935742867AA3CCF4D89A.tmp' to '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Meshes/IcePiece1.uasset'
+[2024.02.20-17.00.40:055][169]AssetCheck: New page: Asset Save: IcePiece1
+[2024.02.20-17.00.40:055][169]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/IcePiece1.IcePiece1
+[2024.02.20-17.00.43:019][443]AssetReimport: Reimported asset IcePiece1 from C:/Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Meshes/IcePiece1.fbx.
+[2024.02.20-17.00.43:884][539]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2024.02.20-17.00.43:884][539]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.20-17.00.44:952][655]LogSlate: Window 'IcePieceBP1' being destroyed
+[2024.02.20-17.00.44:958][655]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2024.02.20-17.00.44:958][655]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.20-17.00.46:930][875]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/IcePieceBP1.IcePieceBP1
+[2024.02.20-17.00.50:930][274]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Meshes/IcePiece1.IcePiece1
+[2024.02.20-17.01.01:510][446]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2024.02.20-17.01.01:510][446]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.20-17.01.02:290][531]BlueprintLog: New page: Compile IcePieceBP1
+[2024.02.20-17.01.02:336][531]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2024.02.20-17.01.04:063][729]LogSavePackage: Moving '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/IcePieceBP1D7DF40054296E568C5F7B1AF32BA905E.tmp' to '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Blueprints/IcePieceBP1.uasset'
+[2024.02.20-17.01.04:072][729]AssetCheck: New page: Asset Save: IcePieceBP1
+[2024.02.20-17.01.04:072][729]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/IcePieceBP1.IcePieceBP1
+[2024.02.20-17.01.06:996][ 50]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Meshes/IcePiece1.IcePiece1
+[2024.02.20-17.01.14:211][816]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2024.02.20-17.01.16:272][816]LogSlate: Window 'Delete Assets' being destroyed
+[2024.02.20-17.01.16:322][816]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2024.02.20-17.01.16:322][816]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.20-17.01.16:350][816]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Blueprints/IcePieceBP1.IcePieceBP1
+[2024.02.20-17.01.16:495][816]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.02.20-17.01.16:519][816]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.02.20-17.01.16:528][816]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.02.20-17.01.16:538][816]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.02.20-17.01.18:189][988]LogSlate: Window 'IcePiece1' being destroyed
+[2024.02.20-17.01.18:194][988]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2024.02.20-17.01.18:194][988]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.20-17.01.24:744][735]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.02.20-17.01.24:895][735]LogSavePackage: Moving '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/Level11874B046484B37DC2826A68FF566B470.tmp' to '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Level1.umap'
+[2024.02.20-17.01.25:225][735]LogSavePackage: Moving '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/Level1_BuiltData8E77F3F54DE79BFCD54C0984BF7E2AAC.tmp' to '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Level1_BuiltData.uasset'
+[2024.02.20-17.01.25:234][735]AssetCheck: New page: Asset Save: multiple assets
+[2024.02.20-17.01.25:234][735]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level1_BuiltData.Level1_BuiltData
+[2024.02.20-17.01.25:234][735]LogContentValidation: Display: Validating World /Game/Level1.Level1
+[2024.02.20-17.01.32:098][444]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Meshes/IcePiece1.IcePiece1
+[2024.02.20-17.01.34:953][682]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.02.20-17.01.35:886][682]LogSlate: Window 'Delete Assets' being destroyed
+[2024.02.20-17.01.35:914][682]LogSlate: Window 'IcePiece1' being destroyed
+[2024.02.20-17.01.35:936][682]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2024.02.20-17.01.35:936][682]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.20-17.01.35:946][682]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Meshes/IcePiece1.IcePiece1
+[2024.02.20-17.01.36:108][682]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.02.20-17.01.36:119][682]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.02.20-17.01.36:129][682]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.02.20-17.01.40:391][137]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2024.02.20-17.01.41:355][137]LogSlate: Window 'Delete Assets' being destroyed
+[2024.02.20-17.01.41:441][137]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2024.02.20-17.01.41:449][137]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.02.20-17.01.41:457][137]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.02.20-17.01.41:469][137]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.02.20-17.01.41:477][137]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.02.20-17.02.53:235][663]AssetReimport: New page: Outstanding source content changes 7:02:53 AM
+[2024.02.20-17.02.53:236][663]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Meshes/IcePiece1.fbx)
+[2024.02.20-17.02.53:240][663]LogFbx: Loading FBX Scene from C:/Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Meshes/IcePiece1.fbx
+[2024.02.20-17.02.53:243][663]LogFbx: FBX Scene Loaded Succesfully
+[2024.02.20-17.02.55:580][663]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.02.20-17.02.55:594][663]LogStaticMesh: Building static mesh IcePiece1_Grid_001...
+[2024.02.20-17.02.55:595][663]LogStaticMesh: Built static mesh [0.00s] /Game/Meshes/IcePiece1_Grid_001.IcePiece1_Grid_001
+[2024.02.20-17.02.55:794][664]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.02.20-17.02.57:166][775]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Meshes/IcePiece1_Grid_001.IcePiece1_Grid_001
+[2024.02.20-17.02.58:800][898]AssetReimport: Importing new asset /Game/Meshes/IcePiece1.
+[2024.02.20-17.06.40:073][276]LogSlate: Window 'IcePiece1_Grid_001' being destroyed
+[2024.02.20-17.06.40:077][276]LogSlate: Window 'IcePiece1_Grid_001' being destroyed
+[2024.02.20-17.06.40:078][276]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2024.02.20-17.06.40:078][276]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.20-17.06.43:875][652]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.02.20-17.06.45:239][652]LogSlate: Window 'Delete Assets' being destroyed
+[2024.02.20-17.06.45:281][652]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.02.20-17.06.46:379][781]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.02.20-17.06.46:527][781]LogSavePackage: Moving '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/Level10BEA442D4916786B6548DBBFE9D46455.tmp' to '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Level1.umap'
+[2024.02.20-17.06.46:853][781]LogSavePackage: Moving '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/Level1_BuiltDataF42EA83546CF2C09E84ECBA0F0447C6E.tmp' to '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Level1_BuiltData.uasset'
+[2024.02.20-17.06.46:861][781]AssetCheck: New page: Asset Save: multiple assets
+[2024.02.20-17.06.46:861][781]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level1_BuiltData.Level1_BuiltData
+[2024.02.20-17.06.46:861][781]LogContentValidation: Display: Validating World /Game/Level1.Level1
+[2024.02.20-17.07.19:452][149]AssetReimport: New page: Outstanding source content changes 7:07:19 AM
+[2024.02.20-17.07.20:594][237]LogSlate: Window 'Message Log' being destroyed
+[2024.02.20-17.07.20:598][237]LogSlate: Window 'Message Log' being destroyed
+[2024.02.20-17.07.59:249][200]AssetReimport: New page: Outstanding source content changes 7:07:59 AM
+[2024.02.20-17.07.59:250][200]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Meshes/IcePiece1.fbx)
+[2024.02.20-17.07.59:254][200]LogFbx: Loading FBX Scene from C:/Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Meshes/IcePiece1.fbx
+[2024.02.20-17.07.59:257][200]LogFbx: FBX Scene Loaded Succesfully
+[2024.02.20-17.08.00:698][200]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.02.20-17.08.00:716][200]LogStaticMesh: Building static mesh IcePiece1...
+[2024.02.20-17.08.00:718][200]LogStaticMesh: Built static mesh [0.00s] /Game/Meshes/IcePiece1.IcePiece1
+[2024.02.20-17.08.00:866][201]LogSavePackage: Moving '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/IcePiece1B02B92444653845F29844B90B7274970.tmp' to '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Meshes/IcePiece1.uasset'
+[2024.02.20-17.08.00:922][202]AssetCheck: New page: Asset Save: IcePiece1
+[2024.02.20-17.08.00:922][202]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/IcePiece1.IcePiece1
+[2024.02.20-17.08.02:687][364]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Meshes/IcePiece1.IcePiece1
+[2024.02.20-17.08.03:906][441]AssetReimport: Importing new asset /Game/Meshes/IcePiece1.
+[2024.02.20-17.08.26:414][975]LogSavePackage: Moving '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/IcePiece1FE95FB944394B16EE9DE228E031ECB81.tmp' to '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Meshes/IcePiece1.uasset'
+[2024.02.20-17.08.26:424][975]AssetCheck: New page: Asset Save: IcePiece1
+[2024.02.20-17.08.26:424][975]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/IcePiece1.IcePiece1
+[2024.02.20-17.08.46:166][268]LogSavePackage: Moving '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/IcePiece1E2BD32C948179DA24AB9A19BDF7D12DD.tmp' to '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Meshes/IcePiece1.uasset'
+[2024.02.20-17.08.46:174][268]AssetCheck: New page: Asset Save: IcePiece1
+[2024.02.20-17.08.46:174][268]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/IcePiece1.IcePiece1
+[2024.02.20-17.09.08:774][935]LogSavePackage: Moving '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/IcePiece1EAB0A8224016CCF8614812BEE46A538C.tmp' to '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Meshes/IcePiece1.uasset'
+[2024.02.20-17.09.08:783][935]AssetCheck: New page: Asset Save: IcePiece1
+[2024.02.20-17.09.08:783][935]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/IcePiece1.IcePiece1
+[2024.02.20-17.09.09:015][960]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.02.20-17.09.09:169][960]LogSavePackage: Moving '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/Level12922AD7D4362D1CE40090885995C2559.tmp' to '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Level1.umap'
+[2024.02.20-17.09.09:498][960]LogSavePackage: Moving '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/Level1_BuiltData676C858849351453249FAF89FBDA2755.tmp' to '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Level1_BuiltData.uasset'
+[2024.02.20-17.09.09:507][960]AssetCheck: New page: Asset Save: multiple assets
+[2024.02.20-17.09.09:507][960]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level1_BuiltData.Level1_BuiltData
+[2024.02.20-17.09.09:507][960]LogContentValidation: Display: Validating World /Game/Level1.Level1
+[2024.02.20-17.09.28:275][122]LogSavePackage: Moving '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/IcePiece16B34033548029A196FB7AA95CCE0A8A1.tmp' to '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Meshes/IcePiece1.uasset'
+[2024.02.20-17.09.28:285][122]AssetCheck: New page: Asset Save: IcePiece1
+[2024.02.20-17.09.28:285][122]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/IcePiece1.IcePiece1
+[2024.02.20-17.09.39:591][388]LogSavePackage: Moving '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/IcePiece1D0FA0BEC4828ED79142A1BA9430071F3.tmp' to '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Meshes/IcePiece1.uasset'
+[2024.02.20-17.09.39:601][388]AssetCheck: New page: Asset Save: IcePiece1
+[2024.02.20-17.09.39:601][388]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/IcePiece1.IcePiece1
+[2024.02.20-17.10.24:701][611]LogSavePackage: Moving '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/IcePiece15F5E17814FB7AD0983F555B264CC6073.tmp' to '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Meshes/IcePiece1.uasset'
+[2024.02.20-17.10.24:710][611]AssetCheck: New page: Asset Save: IcePiece1
+[2024.02.20-17.10.24:711][611]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/IcePiece1.IcePiece1
+[2024.02.20-17.10.28:558][ 69]LogSavePackage: Moving '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/IcePiece139805C24442FD97FF4BC249FFC3798DF.tmp' to '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Meshes/IcePiece1.uasset'
+[2024.02.20-17.10.28:567][ 69]AssetCheck: New page: Asset Save: IcePiece1
+[2024.02.20-17.10.28:567][ 69]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/IcePiece1.IcePiece1
+[2024.02.20-17.10.32:243][504]LogSavePackage: Moving '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/IcePiece194F0D6F2431415D51C4CF9B63E999998.tmp' to '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Meshes/IcePiece1.uasset'
+[2024.02.20-17.10.32:251][504]AssetCheck: New page: Asset Save: IcePiece1
+[2024.02.20-17.10.32:251][504]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/IcePiece1.IcePiece1
+[2024.02.20-17.10.35:743][917]LogSavePackage: Moving '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/IcePiece1BCD15DBB4206BA3C92D870848A65A21C.tmp' to '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Meshes/IcePiece1.uasset'
+[2024.02.20-17.10.35:751][917]AssetCheck: New page: Asset Save: IcePiece1
+[2024.02.20-17.10.35:751][917]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/IcePiece1.IcePiece1
+[2024.02.20-17.10.37:259][ 92]LogSavePackage: Moving '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/IcePiece1737EE6674F88327C96A9408675E0666D.tmp' to '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Meshes/IcePiece1.uasset'
+[2024.02.20-17.10.37:267][ 92]AssetCheck: New page: Asset Save: IcePiece1
+[2024.02.20-17.10.37:267][ 92]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/IcePiece1.IcePiece1
+[2024.02.20-17.10.40:009][415]LogSavePackage: Moving '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/IcePiece1CF9769C749DCE0AF18B265B555CC67BC.tmp' to '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Meshes/IcePiece1.uasset'
+[2024.02.20-17.10.40:017][415]AssetCheck: New page: Asset Save: IcePiece1
+[2024.02.20-17.10.40:017][415]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/IcePiece1.IcePiece1
+[2024.02.20-17.10.41:692][592]LogSavePackage: Moving '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/IcePiece124DF32BA4A6B802A40B1A889723A186D.tmp' to '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Meshes/IcePiece1.uasset'
+[2024.02.20-17.10.41:701][592]AssetCheck: New page: Asset Save: IcePiece1
+[2024.02.20-17.10.41:701][592]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/IcePiece1.IcePiece1
+[2024.02.20-17.11.01:054][520]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.02.20-17.11.03:304][520]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.02.20-17.11.03:315][520]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.02.20-17.11.03:324][520]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.02.20-17.11.09:897][ 42]LogContentBrowser: Attempting asset rename: NewBlueprint -> IcePieceBP1
+[2024.02.20-17.11.09:900][ 42]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.02.20-17.11.12:122][218]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/IcePieceBP1.IcePieceBP1
+[2024.02.20-17.11.23:316][180]LogSavePackage: Moving '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/IcePieceBP103CE168A4EE707D9631B79BB14B8FC1B.tmp' to '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Blueprints/IcePieceBP1.uasset'
+[2024.02.20-17.11.23:327][180]AssetCheck: New page: Asset Save: IcePieceBP1
+[2024.02.20-17.11.23:327][180]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/IcePieceBP1.IcePieceBP1
+[2024.02.20-17.11.26:769][556]LogSavePackage: Moving '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/IcePieceBP17D0455A34DCAC8605165A8B91AFC8A21.tmp' to '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Blueprints/IcePieceBP1.uasset'
+[2024.02.20-17.11.26:779][556]AssetCheck: New page: Asset Save: IcePieceBP1
+[2024.02.20-17.11.26:779][556]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/IcePieceBP1.IcePieceBP1
+[2024.02.20-17.11.35:267][242]LogSavePackage: Moving '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/IcePieceBP19C981CE34396D97F7BF2B19D41A8CD7A.tmp' to '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Blueprints/IcePieceBP1.uasset'
+[2024.02.20-17.11.35:278][242]AssetCheck: New page: Asset Save: IcePieceBP1
+[2024.02.20-17.11.35:278][242]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/IcePieceBP1.IcePieceBP1
+[2024.02.20-17.11.35:526][259]LogSavePackage: Moving '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/IcePiece1C1547FE74059B922F84335941FBF3F74.tmp' to '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Meshes/IcePiece1.uasset'
+[2024.02.20-17.11.35:534][259]AssetCheck: New page: Asset Save: IcePiece1
+[2024.02.20-17.11.35:534][259]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/IcePiece1.IcePiece1
+[2024.02.20-17.12.03:069][961]LogSavePackage: Moving '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/IcePieceBP1DB459D2F4DE7E613C1FB15B56189D8E9.tmp' to '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Blueprints/IcePieceBP1.uasset'
+[2024.02.20-17.12.03:078][961]AssetCheck: New page: Asset Save: IcePieceBP1
+[2024.02.20-17.12.03:078][961]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/IcePieceBP1.IcePieceBP1
+[2024.02.20-17.12.09:736][620]LogSavePackage: Moving '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/IcePieceBP159CEB1FC4CB363DA18A2DFA8ADA9153D.tmp' to '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Blueprints/IcePieceBP1.uasset'
+[2024.02.20-17.12.09:744][620]AssetCheck: New page: Asset Save: IcePieceBP1
+[2024.02.20-17.12.09:744][620]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/IcePieceBP1.IcePieceBP1
+[2024.02.20-17.12.53:251][113]BlueprintLog: New page: Compile IcePieceBP1
+[2024.02.20-17.12.53:276][113]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.02.20-17.12.53:834][164]LogSavePackage: Moving '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/IcePieceBP112F4E9EE41DA86841AB244967E3BECFE.tmp' to '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Blueprints/IcePieceBP1.uasset'
+[2024.02.20-17.12.53:844][164]AssetCheck: New page: Asset Save: IcePieceBP1
+[2024.02.20-17.12.53:844][164]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/IcePieceBP1.IcePieceBP1
+[2024.02.20-17.13.04:936][306]LogSavePackage: Moving '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/IcePieceBP1E4C6C61D48A2470D926A87B61DE14493.tmp' to '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Blueprints/IcePieceBP1.uasset'
+[2024.02.20-17.13.04:945][306]AssetCheck: New page: Asset Save: IcePieceBP1
+[2024.02.20-17.13.04:945][306]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/IcePieceBP1.IcePieceBP1
+[2024.02.20-17.13.05:126][324]LogSavePackage: Moving '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/IcePiece1E98B57C34AFB8FD1D8AB7499F0EC4BEC.tmp' to '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Meshes/IcePiece1.uasset'
+[2024.02.20-17.13.05:135][324]AssetCheck: New page: Asset Save: IcePiece1
+[2024.02.20-17.13.05:136][324]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/IcePiece1.IcePiece1
+[2024.02.20-17.13.06:451][451]BlueprintLog: New page: Compile IcePieceBP1
+[2024.02.20-17.13.06:473][451]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.02.20-17.13.07:018][501]LogSavePackage: Moving '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/IcePieceBP1AA7429734134B53B2971A7B32A0EFF0F.tmp' to '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Blueprints/IcePieceBP1.uasset'
+[2024.02.20-17.13.07:027][501]AssetCheck: New page: Asset Save: IcePieceBP1
+[2024.02.20-17.13.07:028][501]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/IcePieceBP1.IcePieceBP1
+[2024.02.20-17.13.11:679][861]LogSavePackage: Moving '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/IcePieceBP1ACA398634E9D14FC99966FB45B03F270.tmp' to '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Blueprints/IcePieceBP1.uasset'
+[2024.02.20-17.13.11:687][861]AssetCheck: New page: Asset Save: IcePieceBP1
+[2024.02.20-17.13.11:687][861]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/IcePieceBP1.IcePieceBP1
+[2024.02.20-17.13.22:038][733]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.02.20-17.13.22:190][733]LogSavePackage: Moving '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/Level10EEA1BE041819FC93A93E89D0793E78B.tmp' to '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Level1.umap'
+[2024.02.20-17.13.22:520][733]LogSavePackage: Moving '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/Level1_BuiltData26F16A62461DA6BBB9E723A1D7BAFBE6.tmp' to '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Level1_BuiltData.uasset'
+[2024.02.20-17.13.22:530][733]AssetCheck: New page: Asset Save: multiple assets
+[2024.02.20-17.13.22:530][733]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level1_BuiltData.Level1_BuiltData
+[2024.02.20-17.13.22:531][733]LogContentValidation: Display: Validating World /Game/Level1.Level1
+[2024.02.20-17.13.45:306][775]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.02.20-17.13.45:456][775]LogSavePackage: Moving '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/Level10700D491416B4ABE4CD8FDA71884A587.tmp' to '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Level1.umap'
+[2024.02.20-17.13.45:788][775]LogSavePackage: Moving '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/Level1_BuiltData7C05F1D74D546485F47690AB15DAC887.tmp' to '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Level1_BuiltData.uasset'
+[2024.02.20-17.13.45:798][775]AssetCheck: New page: Asset Save: multiple assets
+[2024.02.20-17.13.45:798][775]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level1_BuiltData.Level1_BuiltData
+[2024.02.20-17.13.45:798][775]LogContentValidation: Display: Validating World /Game/Level1.Level1
+[2024.02.20-17.13.46:313][823]LogTemp: Repeating last play command: Selected Viewport
+[2024.02.20-17.13.46:318][823]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.20-17.13.46:318][823]PIE: New page: PIE session: Level1 (Feb 20, 2024, 7:13:46 AM)
+[2024.02.20-17.13.46:318][823]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level1
+[2024.02.20-17.13.46:371][823]LogPlayLevel: PIE: StaticDuplicateObject took: (0.051971s)
+[2024.02.20-17.13.46:371][823]LogAIModule: Creating AISystem for world Level1
+[2024.02.20-17.13.46:371][823]LogPlayLevel: PIE: World Init took: (0.000802s)
+[2024.02.20-17.13.46:372][823]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1.Level1 to /Game/UEDPIE_0_Level1.Level1 (0.052869s)
+[2024.02.20-17.13.46:385][823]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.02.20-17.13.46:387][823]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.02.20-17.13.46:387][823]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.20-17.13.46:387][823]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.20-17.13.46:387][823]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.20-17.13.46:387][823]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.20-17.13.46:387][823]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.02.20-17.13.46:387][823]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.20-17.13.46:387][823]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.02.20-17.13.46:387][823]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.20-17.13.46:387][823]LogAudio: Display: Using built-in audio occlusion.
+[2024.02.20-17.13.46:387][823]LogAudioMixer: Display: Initializing audio mixer.
+[2024.02.20-17.13.46:390][823]LogAudioMixer: Display: 0: FrontLeft
+[2024.02.20-17.13.46:390][823]LogAudioMixer: Display: 1: FrontRight
+[2024.02.20-17.13.46:435][823]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2024.02.20-17.13.46:435][823]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.20-17.13.46:435][823]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.20-17.13.46:435][823]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.20-17.13.46:435][823]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.02.20-17.13.46:435][823]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.02.20-17.13.46:435][823]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.02.20-17.13.46:452][823]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.02.20-17.13.46:452][823]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.02.20-17.13.46:452][823]LogInit: FAudioDevice initialized.
+[2024.02.20-17.13.46:452][823]LogAudio: Display: Audio Device (ID: 4) registered with world 'Level1'.
+[2024.02.20-17.13.46:458][823]LogLoad: Game class is 'GameModeBase'
+[2024.02.20-17.13.46:460][823]LogWorld: Bringing World /Game/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2024.02.20-12.13.46
+[2024.02.20-17.14.17:537][823]Sim3dInterfaceLog: Display: Sim3dInterface is not ready.
+[2024.02.20-17.14.17:537][823]LogWorld: Bringing up level for play took: 31.078771
+[2024.02.20-17.14.17:537][823]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2024.02.20-17.14.17:540][823]LogTemp: Using XML
+[2024.02.20-17.14.17:553][823]LogTemp: Warning: RootNode tag is: IceConcentrations
+[2024.02.20-17.14.17:608][823]PIE: Server logged in
+[2024.02.20-17.14.17:608][823]PIE: Play in editor total start time 31.292 seconds.
+[2024.02.20-17.14.27:676][785]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.02.20-17.14.44:027][441]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.20-17.14.44:027][441]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level1
+[2024.02.20-17.14.44:029][441]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2024.02.20-17.14.44:031][441]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.20-17.14.44:038][441]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.20-17.14.44:046][441]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.20-17.14.44:059][441]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.20-17.14.44:061][441]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.02.20-17.14.44:062][441]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.02.20-17.14.44:083][441]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.02.20-17.14.44:116][442]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2024.02.20-17.14.45:020][524]LogEditorViewport: Clicking on Actor (LMB): WaterBodyLake (WaterBodyLake)
+[2024.02.20-17.14.45:622][574]LogEditorViewport: Clicking on Actor (LMB): WaterBodyLake (WaterBodyLake)
+[2024.02.20-17.15.04:850][220]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.02.20-17.15.10:825][804]LogAssetEditorSubsystem: Opening Asset editor for WaterWavesAsset /Water/Waves/GerstnerWaves_Lake.GerstnerWaves_Lake
+[2024.02.20-17.15.21:730][ 60]LogTexture: Display: Building textures: WaterVelocityTexture (RGBA16F, 1024X1024)
+[2024.02.20-17.15.21:764][ 60]Water Texture Update Time: 0.086379 secs
+[2024.02.20-17.15.25:246][465]LogTexture: Display: Building textures: WaterVelocityTexture (RGBA16F, 1024X1024)
+[2024.02.20-17.15.25:276][465]Water Texture Update Time: 0.040802 secs
+[2024.02.20-17.15.27:300][676]LogTexture: Display: Building textures: WaterVelocityTexture (RGBA16F, 1024X1024)
+[2024.02.20-17.15.27:329][676]Water Texture Update Time: 0.046845 secs
+[2024.02.20-17.15.40:419][ 67]LogTexture: Display: Building textures: WaterVelocityTexture (RGBA16F, 1024X1024)
+[2024.02.20-17.15.40:449][ 67]Water Texture Update Time: 0.051010 secs
+[2024.02.20-17.15.42:977][282]Cmd: OBJ SAVEPACKAGE PACKAGE="/Water/Waves/GerstnerWaves_Lake" FILE="../../Plugins/Experimental/Water/Content/Waves/GerstnerWaves_Lake.uasset" SILENT=true
+[2024.02.20-17.15.42:979][282]LogSavePackage: Moving '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/GerstnerWaves_Lake0DC692BD4B8CD36FB43A3294163FF42D.tmp' to '../../Plugins/Experimental/Water/Content/Waves/GerstnerWaves_Lake.uasset'
+[2024.02.20-17.15.42:989][282]AssetCheck: New page: Asset Save: GerstnerWaves_Lake
+[2024.02.20-17.15.42:989][282]LogContentValidation: Display: Validating WaterWavesAsset /Water/Waves/GerstnerWaves_Lake.GerstnerWaves_Lake
+[2024.02.20-17.15.48:850][849]LogTexture: Display: Building textures: WaterVelocityTexture (RGBA16F, 1024X1024)
+[2024.02.20-17.15.48:883][849]Water Texture Update Time: 0.056168 secs
+[2024.02.20-17.18.26:111][533]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.02.20-17.18.26:264][533]LogSavePackage: Moving '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/Level19FB88EF34D3DF35BA2B6FBA4D2451E46.tmp' to '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Level1.umap'
+[2024.02.20-17.18.26:592][533]LogSavePackage: Moving '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/Level1_BuiltData48955679424C2AC71D5A2A8069AE8B37.tmp' to '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Level1_BuiltData.uasset'
+[2024.02.20-17.18.26:602][533]AssetCheck: New page: Asset Save: multiple assets
+[2024.02.20-17.18.26:602][533]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level1_BuiltData.Level1_BuiltData
+[2024.02.20-17.18.26:602][533]LogContentValidation: Display: Validating World /Game/Level1.Level1
+[2024.02.20-17.18.26:972][568]LogTemp: Repeating last play command: Selected Viewport
+[2024.02.20-17.18.26:976][568]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.20-17.18.26:976][568]PIE: New page: PIE session: Level1 (Feb 20, 2024, 7:18:26 AM)
+[2024.02.20-17.18.26:976][568]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level1
+[2024.02.20-17.18.27:026][568]LogPlayLevel: PIE: StaticDuplicateObject took: (0.049343s)
+[2024.02.20-17.18.27:027][568]LogAIModule: Creating AISystem for world Level1
+[2024.02.20-17.18.27:027][568]LogPlayLevel: PIE: World Init took: (0.001088s)
+[2024.02.20-17.18.27:027][568]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1.Level1 to /Game/UEDPIE_0_Level1.Level1 (0.050539s)
+[2024.02.20-17.18.27:040][568]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.02.20-17.18.27:042][568]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.02.20-17.18.27:042][568]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.20-17.18.27:042][568]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.20-17.18.27:042][568]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.20-17.18.27:042][568]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.20-17.18.27:042][568]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.02.20-17.18.27:042][568]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.20-17.18.27:042][568]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.02.20-17.18.27:042][568]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.20-17.18.27:042][568]LogAudio: Display: Using built-in audio occlusion.
+[2024.02.20-17.18.27:042][568]LogAudioMixer: Display: Initializing audio mixer.
+[2024.02.20-17.18.27:044][568]LogAudioMixer: Display: 0: FrontLeft
+[2024.02.20-17.18.27:044][568]LogAudioMixer: Display: 1: FrontRight
+[2024.02.20-17.18.27:083][568]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2024.02.20-17.18.27:083][568]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.20-17.18.27:084][568]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.20-17.18.27:084][568]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.20-17.18.27:084][568]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.02.20-17.18.27:084][568]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.02.20-17.18.27:084][568]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.02.20-17.18.27:099][568]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.02.20-17.18.27:099][568]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.02.20-17.18.27:099][568]LogInit: FAudioDevice initialized.
+[2024.02.20-17.18.27:099][568]LogAudio: Display: Audio Device (ID: 5) registered with world 'Level1'.
+[2024.02.20-17.18.27:106][568]LogLoad: Game class is 'GameModeBase'
+[2024.02.20-17.18.27:108][568]LogWorld: Bringing World /Game/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2024.02.20-12.18.27
+[2024.02.20-17.18.58:168][568]Sim3dInterfaceLog: Display: Sim3dInterface is not ready.
+[2024.02.20-17.18.58:168][568]LogWorld: Bringing up level for play took: 31.061879
+[2024.02.20-17.18.58:168][568]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2024.02.20-17.18.58:171][568]LogTemp: Using XML
+[2024.02.20-17.18.58:181][568]LogTemp: Warning: RootNode tag is: IceConcentrations
+[2024.02.20-17.18.58:235][568]PIE: Server logged in
+[2024.02.20-17.18.58:236][568]PIE: Play in editor total start time 31.261 seconds.
+[2024.02.20-17.19.11:345][608]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.02.20-17.19.17:636][ 51]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.20-17.19.17:636][ 51]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level1
+[2024.02.20-17.19.17:636][ 51]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2024.02.20-17.19.17:638][ 51]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.20-17.19.17:651][ 51]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.20-17.19.17:673][ 51]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.20-17.19.17:687][ 51]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.20-17.19.17:688][ 51]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.02.20-17.19.17:689][ 51]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.02.20-17.19.17:710][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.02.20-17.19.17:730][ 52]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2024.02.20-17.19.26:138][ 12]LogTexture: Display: Building textures: WaterVelocityTexture (RGBA16F, 1024X1024)
+[2024.02.20-17.19.26:173][ 12]Water Texture Update Time: 0.052248 secs
+[2024.02.20-17.19.26:812][ 84]Cmd: OBJ SAVEPACKAGE PACKAGE="/Water/Waves/GerstnerWaves_Lake" FILE="../../Plugins/Experimental/Water/Content/Waves/GerstnerWaves_Lake.uasset" SILENT=true
+[2024.02.20-17.19.26:814][ 84]LogSavePackage: Moving '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/GerstnerWaves_Lake5AB6320C43C6A0B12985A6847AED5ABC.tmp' to '../../Plugins/Experimental/Water/Content/Waves/GerstnerWaves_Lake.uasset'
+[2024.02.20-17.19.26:822][ 84]AssetCheck: New page: Asset Save: GerstnerWaves_Lake
+[2024.02.20-17.19.26:822][ 84]LogContentValidation: Display: Validating WaterWavesAsset /Water/Waves/GerstnerWaves_Lake.GerstnerWaves_Lake
+[2024.02.20-17.19.30:093][441]LogTemp: Repeating last play command: Selected Viewport
+[2024.02.20-17.19.30:098][441]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.20-17.19.30:098][441]PIE: New page: PIE session: Level1 (Feb 20, 2024, 7:19:30 AM)
+[2024.02.20-17.19.30:098][441]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level1
+[2024.02.20-17.19.30:146][441]LogPlayLevel: PIE: StaticDuplicateObject took: (0.049236s)
+[2024.02.20-17.19.30:147][441]LogAIModule: Creating AISystem for world Level1
+[2024.02.20-17.19.30:147][441]LogPlayLevel: PIE: World Init took: (0.000809s)
+[2024.02.20-17.19.30:147][441]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1.Level1 to /Game/UEDPIE_0_Level1.Level1 (0.050155s)
+[2024.02.20-17.19.30:160][441]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.02.20-17.19.30:163][441]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2024.02.20-17.19.30:163][441]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.20-17.19.30:163][441]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.20-17.19.30:163][441]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.20-17.19.30:163][441]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.20-17.19.30:163][441]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.02.20-17.19.30:163][441]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.20-17.19.30:163][441]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.02.20-17.19.30:163][441]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.20-17.19.30:164][441]LogAudio: Display: Using built-in audio occlusion.
+[2024.02.20-17.19.30:164][441]LogAudioMixer: Display: Initializing audio mixer.
+[2024.02.20-17.19.30:165][441]LogAudioMixer: Display: 0: FrontLeft
+[2024.02.20-17.19.30:165][441]LogAudioMixer: Display: 1: FrontRight
+[2024.02.20-17.19.30:204][441]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2024.02.20-17.19.30:204][441]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.20-17.19.30:204][441]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.20-17.19.30:204][441]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.20-17.19.30:205][441]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.02.20-17.19.30:205][441]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.02.20-17.19.30:205][441]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.02.20-17.19.30:220][441]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.02.20-17.19.30:220][441]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.02.20-17.19.30:220][441]LogInit: FAudioDevice initialized.
+[2024.02.20-17.19.30:220][441]LogAudio: Display: Audio Device (ID: 6) registered with world 'Level1'.
+[2024.02.20-17.19.30:227][441]LogLoad: Game class is 'GameModeBase'
+[2024.02.20-17.19.30:229][441]LogWorld: Bringing World /Game/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2024.02.20-12.19.30
+[2024.02.20-17.20.01:299][441]Sim3dInterfaceLog: Display: Sim3dInterface is not ready.
+[2024.02.20-17.20.01:299][441]LogWorld: Bringing up level for play took: 31.071162
+[2024.02.20-17.20.01:299][441]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2024.02.20-17.20.01:301][441]LogTemp: Using XML
+[2024.02.20-17.20.01:308][441]LogTemp: Warning: RootNode tag is: IceConcentrations
+[2024.02.20-17.20.01:361][441]PIE: Server logged in
+[2024.02.20-17.20.01:362][441]PIE: Play in editor total start time 31.265 seconds.
+[2024.02.20-17.20.08:991][244]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.02.20-17.20.14:255][739]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.20-17.20.14:255][739]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level1
+[2024.02.20-17.20.14:256][739]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2024.02.20-17.20.14:258][739]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.20-17.20.14:265][739]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.20-17.20.14:288][739]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.20-17.20.14:303][739]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.20-17.20.14:303][739]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.02.20-17.20.14:305][739]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.02.20-17.20.14:326][739]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.02.20-17.20.14:353][740]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2024.02.20-17.20.20:974][375]LogSavePackage: Moving '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/IcePieceBP1F0B3F89B413186AD2342D99D0C2CDA9B.tmp' to '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Blueprints/IcePieceBP1.uasset'
+[2024.02.20-17.20.20:983][375]AssetCheck: New page: Asset Save: IcePieceBP1
+[2024.02.20-17.20.20:983][375]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/IcePieceBP1.IcePieceBP1
+[2024.02.20-17.20.21:632][429]BlueprintLog: New page: Compile IcePieceBP1
+[2024.02.20-17.20.21:655][429]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.02.20-17.20.22:208][475]LogSavePackage: Moving '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/IcePieceBP1814936524DC1696D4A42B091266EEB37.tmp' to '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Blueprints/IcePieceBP1.uasset'
+[2024.02.20-17.20.22:218][475]AssetCheck: New page: Asset Save: IcePieceBP1
+[2024.02.20-17.20.22:218][475]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/IcePieceBP1.IcePieceBP1
+[2024.02.20-17.20.22:560][504]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.02.20-17.20.22:703][504]LogSavePackage: Moving '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/Level100B7DA89457AE2BCA428DE82E08882A0.tmp' to '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Level1.umap'
+[2024.02.20-17.20.23:040][504]LogSavePackage: Moving '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/Level1_BuiltDataA4D0837E4EE890A88F260BAB3803261C.tmp' to '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Level1_BuiltData.uasset'
+[2024.02.20-17.20.23:051][504]AssetCheck: New page: Asset Save: multiple assets
+[2024.02.20-17.20.23:051][504]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level1_BuiltData.Level1_BuiltData
+[2024.02.20-17.20.23:051][504]LogContentValidation: Display: Validating World /Game/Level1.Level1
+[2024.02.20-17.20.23:559][557]LogTemp: Repeating last play command: Selected Viewport
+[2024.02.20-17.20.23:563][557]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.20-17.20.23:563][557]PIE: New page: PIE session: Level1 (Feb 20, 2024, 7:20:23 AM)
+[2024.02.20-17.20.23:563][557]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level1
+[2024.02.20-17.20.23:610][557]LogPlayLevel: PIE: StaticDuplicateObject took: (0.046788s)
+[2024.02.20-17.20.23:611][557]LogAIModule: Creating AISystem for world Level1
+[2024.02.20-17.20.23:611][557]LogPlayLevel: PIE: World Init took: (0.000833s)
+[2024.02.20-17.20.23:611][557]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1.Level1 to /Game/UEDPIE_0_Level1.Level1 (0.047713s)
+[2024.02.20-17.20.23:623][557]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.02.20-17.20.23:625][557]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2024.02.20-17.20.23:625][557]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.20-17.20.23:625][557]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.20-17.20.23:625][557]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.20-17.20.23:625][557]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.20-17.20.23:625][557]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.02.20-17.20.23:625][557]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.20-17.20.23:625][557]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.02.20-17.20.23:625][557]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.20-17.20.23:625][557]LogAudio: Display: Using built-in audio occlusion.
+[2024.02.20-17.20.23:626][557]LogAudioMixer: Display: Initializing audio mixer.
+[2024.02.20-17.20.23:628][557]LogAudioMixer: Display: 0: FrontLeft
+[2024.02.20-17.20.23:628][557]LogAudioMixer: Display: 1: FrontRight
+[2024.02.20-17.20.23:675][557]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2024.02.20-17.20.23:675][557]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.20-17.20.23:675][557]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.20-17.20.23:676][557]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.20-17.20.23:676][557]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.02.20-17.20.23:676][557]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.02.20-17.20.23:676][557]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.02.20-17.20.23:690][557]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.02.20-17.20.23:690][557]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.02.20-17.20.23:690][557]LogInit: FAudioDevice initialized.
+[2024.02.20-17.20.23:690][557]LogAudio: Display: Audio Device (ID: 7) registered with world 'Level1'.
+[2024.02.20-17.20.23:696][557]LogLoad: Game class is 'GameModeBase'
+[2024.02.20-17.20.23:698][557]LogWorld: Bringing World /Game/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2024.02.20-12.20.23
+[2024.02.20-17.20.54:749][557]Sim3dInterfaceLog: Display: Sim3dInterface is not ready.
+[2024.02.20-17.20.54:749][557]LogWorld: Bringing up level for play took: 31.053168
+[2024.02.20-17.20.54:749][557]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2024.02.20-17.20.54:752][557]LogTemp: Using XML
+[2024.02.20-17.20.54:761][557]LogTemp: Warning: RootNode tag is: IceConcentrations
+[2024.02.20-17.20.54:814][557]PIE: Server logged in
+[2024.02.20-17.20.54:815][557]PIE: Play in editor total start time 31.253 seconds.
+[2024.02.20-17.23.58:142][816]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.02.20-17.24.06:136][497]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.20-17.24.06:136][497]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level1
+[2024.02.20-17.24.06:137][497]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2024.02.20-17.24.06:142][497]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.20-17.24.06:150][497]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.20-17.24.06:172][497]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.20-17.24.06:186][497]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.20-17.24.06:187][497]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.02.20-17.24.06:188][497]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.02.20-17.24.06:206][497]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.20-17.24.06:213][497]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.02.20-17.24.06:243][498]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2024.02.20-17.33.07:173][604]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/IceSpawner.IceSpawner
+[2024.02.20-17.33.13:022][222]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.02.20-17.33.27:989][950]BlueprintLog: New page: Compile IceSpawner
+[2024.02.20-17.33.28:017][950]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.02.20-17.33.29:093][ 64]LogSavePackage: Moving '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/IceSpawner2487C6324DD532429189FB8A30CC1FDF.tmp' to '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Blueprints/IceSpawner.uasset'
+[2024.02.20-17.33.29:109][ 64]AssetCheck: New page: Asset Save: IceSpawner
+[2024.02.20-17.33.29:109][ 64]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/IceSpawner.IceSpawner
+[2024.02.20-17.33.39:946][279]BlueprintLog: New page: Compile IceSpawner
+[2024.02.20-17.33.39:971][279]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.02.20-17.33.40:508][336]LogSavePackage: Moving '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Saved/IceSpawnerFF0FEBBF4336A3EAD910AE8199954218.tmp' to '../../../../../../Users/admin_faruq/OneDrive - York University/Desktop/Unreal/UNREALxMATLAB/DroneExp1/DroneExp1/Content/Blueprints/IceSpawner.uasset'
+[2024.02.20-17.33.40:517][336]AssetCheck: New page: Asset Save: IceSpawner
+[2024.02.20-17.33.40:517][336]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/IceSpawner.IceSpawner
+[2024.02.20-17.33.43:198][630]LogTemp: Repeating last play command: Selected Viewport
+[2024.02.20-17.33.43:201][630]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.20-17.33.43:201][630]PIE: New page: PIE session: Level1 (Feb 20, 2024, 7:33:43 AM)
+[2024.02.20-17.33.43:201][630]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level1
+[2024.02.20-17.33.43:255][630]LogPlayLevel: PIE: StaticDuplicateObject took: (0.054003s)
+[2024.02.20-17.33.43:256][630]LogAIModule: Creating AISystem for world Level1
+[2024.02.20-17.33.43:256][630]LogPlayLevel: PIE: World Init took: (0.000929s)
+[2024.02.20-17.33.43:256][630]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1.Level1 to /Game/UEDPIE_0_Level1.Level1 (0.055027s)
+[2024.02.20-17.33.43:270][630]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.02.20-17.33.43:272][630]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2024.02.20-17.33.43:272][630]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.20-17.33.43:272][630]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.20-17.33.43:272][630]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.20-17.33.43:272][630]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.20-17.33.43:272][630]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.02.20-17.33.43:272][630]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.20-17.33.43:272][630]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.02.20-17.33.43:272][630]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.20-17.33.43:272][630]LogAudio: Display: Using built-in audio occlusion.
+[2024.02.20-17.33.43:272][630]LogAudioMixer: Display: Initializing audio mixer.
+[2024.02.20-17.33.43:274][630]LogAudioMixer: Display: 0: FrontLeft
+[2024.02.20-17.33.43:274][630]LogAudioMixer: Display: 1: FrontRight
+[2024.02.20-17.33.43:315][630]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2024.02.20-17.33.43:315][630]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.20-17.33.43:315][630]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.20-17.33.43:315][630]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.20-17.33.43:316][630]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.02.20-17.33.43:316][630]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.02.20-17.33.43:316][630]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.02.20-17.33.43:330][630]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.02.20-17.33.43:330][630]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.02.20-17.33.43:330][630]LogInit: FAudioDevice initialized.
+[2024.02.20-17.33.43:330][630]LogAudio: Display: Audio Device (ID: 8) registered with world 'Level1'.
+[2024.02.20-17.33.43:340][630]LogLoad: Game class is 'GameModeBase'
+[2024.02.20-17.33.43:342][630]LogWorld: Bringing World /Game/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2024.02.20-12.33.43
+[2024.02.20-17.34.14:418][630]Sim3dInterfaceLog: Display: Sim3dInterface is not ready.
+[2024.02.20-17.34.14:419][630]LogWorld: Bringing up level for play took: 31.078859
+[2024.02.20-17.34.14:419][630]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2024.02.20-17.34.14:422][630]LogTemp: Using XML
+[2024.02.20-17.34.14:435][630]LogTemp: Warning: RootNode tag is: IceConcentrations
+[2024.02.20-17.34.14:436][630]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2024.02.20-17.34.14:437][630]LogWindows: Windows GetLastError: The operation completed successfully. (0)

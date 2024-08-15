@@ -1,0 +1,6 @@
+﻿  Building DroneExp1Editor...
+  Using Visual Studio 2019 14.34.31937 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 1 action with 20 processes...
+    [1/1] DroneExp1Editor.target
+  Total time in Parallel executor: 0.18 seconds
+  Total execution time: 0.63 seconds

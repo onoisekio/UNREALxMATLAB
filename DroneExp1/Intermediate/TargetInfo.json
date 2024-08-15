@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "DroneExp1",
+			"Path": "C:\\Users\\admin_faruq\\OneDrive - York University\\Desktop\\UNREALxMATLAB\\DroneExp1\\DroneExp1\\Source\\DroneExp1.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "DroneExp1Editor",
+			"Path": "C:\\Users\\admin_faruq\\OneDrive - York University\\Desktop\\UNREALxMATLAB\\DroneExp1\\DroneExp1\\Source\\DroneExp1Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
